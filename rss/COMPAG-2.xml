@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <atom:link href="https://github.com/ZVChen/Rss-Translation2/blob/main/rss/COMPAG-2.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/ZVChen/Rss-Translation2/blob/main/rss/COMPAG-2.xml" rel="self" type="application/rss+xml"/>
     <title>ScienceDirect 出版物：农业中的计算机和电子</title>
     <link>https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture</link>
     <description>科学直接RSS</description>
