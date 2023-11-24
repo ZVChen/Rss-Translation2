@@ -14,3 +14,5 @@
  - source001 [https://rss.sciencedirect.com/publication/science/01681699](https://rss.sciencedirect.com/publication/science/01681699) -> [COMPAG](rss/COMPAG.xml)
  - source002 [https://rss.sciencedirect.com/publication/science/15375110](https://rss.sciencedirect.com/publication/science/15375110) -> [Biosyst Eng](rss/Biosyst%20Eng.xml)
  - source003 [https://ieeexplore.ieee.org/rss/TOC34.XML](https://ieeexplore.ieee.org/rss/TOC34.XML) -> [IEEE-TPAMI](rss/IEEE-TPAMI.xml)
+ - source004 [https://ieeexplore.ieee.org/rss/TOC5962385.XML](https://ieeexplore.ieee.org/rss/TOC5962385.XML) -> [IEEE Transactions on NNLRSys](rss/IEEE%20Transactions%20on%20NNLRSys.xml)
+ - source005 [https://rss.sciencedirect.com/publication/science/00313203](https://rss.sciencedirect.com/publication/science/00313203) -> [Pattern Recognition](rss/Pattern%20Recognition.xml)
