@@ -12,3 +12,4 @@
 
 ## 已转换翻译源
  - source001 [https://rss.sciencedirect.com/publication/science/01681699](https://rss.sciencedirect.com/publication/science/01681699) -> [COMPAG](rss/COMPAG.xml)
+ - source002 [https://rss.sciencedirect.com/publication/science/15375110](https://rss.sciencedirect.com/publication/science/15375110) -> [Biosyst Eng](rss/Biosyst%20Eng.xml)
