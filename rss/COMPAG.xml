@@ -1,114 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>ScienceDirect 出版物：农业中的计算机和电子</title>
+    <title>ScienceDirect 出版物：农业中的计算机和电子产品</title>
     <link>https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture</link>
     <description>科学直接RSS</description>
-    <lastBuildDate>Fri, 01 Dec 2023 00:37:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2023 03:08:28 GMT</lastBuildDate>
     <item>
       <title>利用语义分割结果和双目视觉进行复杂果园场景的高精度目标测距</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169923008281?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: December 2023Source: Computers and Electronics in Agriculture, Volume 215Author(s): Yu Wen, Jinlin Xue, Han Sun, Yue Song, Pengfei Lv, Shaohua Liu, Yangyang Chu, Tianyu Zhang]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008281?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 01 Dec 2023 00:37:29 GMT</pubDate>
+      <pubDate>Fri, 01 Dec 2023 03:08:28 GMT</pubDate>
     </item>
     <item>
       <title>Stolon-YOLO：一种玻璃温室草莓苗匍匐茎检测方法</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169923008359?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2023 年 12 月来源：农业中的计算机和电子，第 215 卷作者：Junzhen Yu、Yifan Bai、杨淑琴、宁继峰]]></description>
+      <description><![CDATA[出版日期：2023 年 12 月来源：农业中的计算机和电子，第 215 卷作者：于俊珍、白一凡、杨淑琴、宁继峰]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008359?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 01 Dec 2023 00:37:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过评估红边植被指数的适用性从 GF-6 WFV 中检索十米分辨率叶片叶绿素含量</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169923008438?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: December 2023Source: Computers and Electronics in Agriculture, Volume 215Author(s): Chenpeng Gu, Jing Li, Qinhuo Liu, Hu Zhang, Liangyun Liu, Faisal Mumtaz, Yadong Dong, Jing Zhao, Xiaohan Wang, Chang Liu]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008438?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 01 Dec 2023 00:37:28 GMT</pubDate>
+      <pubDate>Fri, 01 Dec 2023 03:08:28 GMT</pubDate>
     </item>
     <item>
       <title>中国装配式日光温室一维瞬态温度预测模型</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169923008384?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: December 2023Source: Computers and Electronics in Agriculture, Volume 215Author(s): Lei Zhao, Liangchen Lu, Hanlin Liu, Yiming Li, Zhouping Sun, Xingan Liu, Tianlai Li]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008384?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 01 Dec 2023 00:37:28 GMT</pubDate>
+      <pubDate>Fri, 01 Dec 2023 03:08:27 GMT</pubDate>
     </item>
     <item>
       <title>联合收割机脱粒前高水分水稻干燥仿真及参数优化</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169923008396?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2023 年 12 月来源：《农业计算机与电子学》，第 215 卷作者：陈平禄、熊志鹏、徐静、刘慕华]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008396?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 01 Dec 2023 00:37:28 GMT</pubDate>
+      <pubDate>Fri, 01 Dec 2023 03:08:27 GMT</pubDate>
     </item>
     <item>
       <title>基于人机协作的油茶林开沟作业路径规划方法</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169923008347?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: December 2023Source: Computers and Electronics in Agriculture, Volume 215Author(s): Jing Xu, Weixiong Li, Pinglu Chen, Kaiqi Zhang, Feng Huang, Yuchen Jiang, Yingmin Zhang, Man Liao, Muhua Liu]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008347?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 01 Dec 2023 00:37:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>GTCBS-YOLOv5s：稻田杂草物种识别的轻量级模型</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169923008499?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: December 2023Source: Computers and Electronics in Agriculture, Volume 215Author(s): Yuanyuan Shao, Xianlu Guan, Guantao Xuan, Farui Gao, Wenjie Feng, Guoliang Gao, Qiuyun Wang, Xincheng Huang, Jichang Li]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008499?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 01 Dec 2023 00:37:27 GMT</pubDate>
+      <pubDate>Fri, 01 Dec 2023 03:08:27 GMT</pubDate>
     </item>
     <item>
       <title>使用基于无人机的 RGB 和多光谱图像估算玉米幼苗的叶龄</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169923007378?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: December 2023Source: Computers and Electronics in Agriculture, Volume 215Author(s): Yi Bai, Liangsheng Shi, Yuanyuan Zha, Shuaibing Liu, Chenwei Nie, Honggen Xu, Hongye Yang, Mingchao Shao, Xun Yu, Minghan Cheng, Yadong Liu, Tao Lin, Ningbo Cui, Wenbin Wu, Xiuliang Jin]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169923007378?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 01 Dec 2023 00:37:27 GMT</pubDate>
+      <pubDate>Fri, 01 Dec 2023 03:08:26 GMT</pubDate>
     </item>
     <item>
-      <title>具有植被指数查找表的 PROSAIL 模型，通过原位统计优化，利用多种无人机传感器估算长江流域的油菜叶面积指数</title>
+      <title>采用原位统计优化植被指数查找表的 PROSAIL 模型，利用多种无人机传感器估算长江流域油菜叶面积指数</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169923008062?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: December 2023Source: Computers and Electronics in Agriculture, Volume 215Author(s): Chufeng Wang, Chenghai Yang, Jian Zhang, Jie Kuai, Jing Xie, Wei Wu, Qingsong Zuo, Mingli Yan, Hai Du, Ni Ma, Bin Liu, Liangzhi You]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008062?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 01 Dec 2023 00:37:27 GMT</pubDate>
+      <pubDate>Fri, 01 Dec 2023 03:08:26 GMT</pubDate>
     </item>
     <item>
-      <title>“在嵌入式系统 (rtsd-net) 上使用深度神经网络进行实时草莓检测：边缘人工智能应用”的勘误 [Comput.电子。农业。 192（2022）106586]</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169923008335?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2023 年 12 月来源：《农业计算机与电子学》，第 215 卷作者：张彦超、于吉亚、陈阳、李元淑、杨文、张文博、何勇]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008335?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 01 Dec 2023 00:37:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>融合GIS和BIM概念的基于网络的农业基础设施数字孪生系统</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169923008293?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2023 年 12 月来源：农业中的计算机和电子，第 215 卷作者：Junhwi Cho、Chaehyeon Kim、 Kyoung Jae Lim、Jonggun Kim、Bongjun Ji、Jaeheum Yeon]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008293?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 01 Dec 2023 00:37:26 GMT</pubDate>
+      <title>通过评估红边植被指数的适用性从 GF-6 WFV 中检索十米分辨率叶片叶绿素含量</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169923008438?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: December 2023Source: Computers and Electronics in Agriculture, Volume 215Author(s): Chenpeng Gu, Jing Li, Qinhuo Liu, Hu Zhang, Liangyun Liu, Faisal Mumtaz, Yadong Dong, Jing Zhao, Xiaohan Wang, Chang Liu]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008438?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 01 Dec 2023 03:08:26 GMT</pubDate>
     </item>
     <item>
       <title>基于图像的动物称重研究进展</title>
       <link>https://www.sciencedirect.com/science/article/pii/S016816992300844X?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: December 2023Source: Computers and Electronics in Agriculture, Volume 215Author(s): Yuliang Zhao, Qijun Xiao, Jinhao Li, Kaixuan Tian, Le Yang, Peng Shan, Xiaoyong Lv, Lianjiang Li, Zhikun Zhan]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S016816992300844X?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 01 Dec 2023 00:37:26 GMT</pubDate>
+      <pubDate>Fri, 01 Dec 2023 03:08:25 GMT</pubDate>
     </item>
     <item>
       <title>农业中的标签高效学习：全面回顾</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169923008001?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: December 2023Source: Computers and Electronics in Agriculture, Volume 215Author(s): Jiajia Li, Dong Chen, Xinda Qi, Zhaojian Li, Yanbo Huang, Daniel Morris, Xiaobo Tan]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008001?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 01 Dec 2023 00:37:26 GMT</pubDate>
+      <pubDate>Fri, 01 Dec 2023 03:08:25 GMT</pubDate>
     </item>
     <item>
-      <title>基于深度学习的农作物计数目标检测方法综述</title>
+      <title>基于深度学习的作物计数目标检测方法综述</title>
       <link>https://www.sciencedirect.com/science/article/pii/S016816992300813X?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2023 年 12 月来源：《农业中的计算机和电子技术》，第 215 卷作者：Yuning Huang、Yurong Qi、魏红阳、卢一国、凌博文、秦玉刚]]></description>
+      <description><![CDATA[出版日期：2023 年 12 月来源：《农业中的计算机和电子技术》，第 215 卷作者：Yuning Huang、Yurong Qi、魏洪阳、卢一国、凌博文、秦玉刚]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S016816992300813X?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 01 Dec 2023 00:37:26 GMT</pubDate>
+      <pubDate>Fri, 01 Dec 2023 03:08:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>GTCBS-YOLOv5s：稻田杂草物种识别的轻量级模型</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169923008499?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: December 2023Source: Computers and Electronics in Agriculture, Volume 215Author(s): Yuanyuan Shao, Xianlu Guan, Guantao Xuan, Farui Gao, Wenjie Feng, Guoliang Gao, Qiuyun Wang, Xincheng Huang, Jichang Li]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008499?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 01 Dec 2023 03:08:25 GMT</pubDate>
     </item>
     <item>
       <title>GAN-BiLSTM 网络，用于对不平衡 GNSS 记录进行现场-道路分类</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169923008451?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: January 2024Source: Computers and Electronics in Agriculture, Volume 216Author(s): Weixin Zhai, Guozhao Mo, Yuzhen Xiao, Xiya Xiong, Caicong Wu, Xiaoqiang Zhang, Zhi Xu, Jiawen Pan]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008451?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 01 Dec 2023 00:37:25 GMT</pubDate>
+      <pubDate>Fri, 01 Dec 2023 03:08:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>“在嵌入式系统 (rtsd-net) 上使用深度神经网络进行实时草莓检测：边缘人工智能应用”的勘误 [Comput.电子。农业。 192（2022）106586]</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169923008335?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2023 年 12 月来源：《农业计算机与电子学》，第 215 卷作者：张彦超、于吉亚、陈阳、李元淑、杨文、张文博、何勇]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008335?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 01 Dec 2023 03:08:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>融合GIS和BIM概念的基于网络的农业基础设施数字孪生系统</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169923008293?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2023 年 12 月来源：农业中的计算机和电子，第 215 卷作者：Junhwi Cho、Chaehyeon Kim、 Kyoung Jae Lim、Jonggun Kim、Bongjun Ji、Jaeheum Yeon]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008293?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 01 Dec 2023 03:08:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
