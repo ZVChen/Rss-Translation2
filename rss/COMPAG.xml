@@ -1,114 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>ScienceDirect 出版物：农业中的计算机和电子产品</title>
+    <title>ScienceDirect 出版物：农业中的计算机和电子</title>
     <link>https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture</link>
     <description>科学直接RSS</description>
-    <lastBuildDate>Thu, 07 Dec 2023 21:06:52 GMT</lastBuildDate>
-    <item>
-      <title>SAM-GAN：使用近红外高光谱成像确定水稻种子活力的改进 DCGAN</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S016816992300861X?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: January 2024Source: Computers and Electronics in Agriculture, Volume 216Author(s): Hengnian Qi, Zihong Huang, Baichuan Jin, Qizhe Tang, Liangquan Jia, Guangwu Zhao, Dongdong Cao, Zeyu Sun, Chu Zhang]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S016816992300861X?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 07 Dec 2023 21:06:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用偏最小二乘回归和人工神经网络预测猪咬尾行为</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169923008657?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 1 月来源：农业中的计算机和电子，第 216 卷作者：Veronika Drexl、Imme Dittrich、托雷·怀尔德、索菲·迪尔斯、海科·詹森、约阿希姆·克里特]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008657?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 07 Dec 2023 21:06:51 GMT</pubDate>
-    </item>
+    <lastBuildDate>Fri, 08 Dec 2023 00:34:53 GMT</lastBuildDate>
     <item>
       <title>基于气固两相流模型的振动诱导与气流引导耦合番茄授粉方法研究</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169923008608?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: January 2024Source: Computers and Electronics in Agriculture, Volume 216Author(s): Siyao Liu, Xuemin Zhang, Xiaoyan Wang, Renbao Feng, Jiaxin Wu, Shuangjie Zhang, Jing Xu]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008608?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 07 Dec 2023 21:06:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>自然环境中小麦赤霉病穗的快速、轻量级检测模型</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169923008724?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: January 2024Source: Computers and Electronics in Agriculture, Volume 216Author(s): Chunfeng Gao, Wei Guo, Chenghai Yang, Zheng Gong, Jibo Yue, Yuanyuan Fu, Haikuan Feng]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008724?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 07 Dec 2023 21:06:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发用于模拟土壤-被动振动工具相互作用的多路耦合离散有限元方法模拟程序</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169923008475?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 1 月来源：农业中的计算机和电子，第 216 卷作者：László Pásthy、Zsolt József Farkas 、塔马斯·哈巴、塔马斯·科内尔]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008475?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 07 Dec 2023 21:06:50 GMT</pubDate>
+      <pubDate>Fri, 08 Dec 2023 00:34:53 GMT</pubDate>
     </item>
     <item>
       <title>使用自动监测系统为蜂群采集基于飞行的健康指标</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169923008645?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 1 月来源：农业中的计算机和电子，第 216 卷作者：Joe-Air Jiang, Jen -Cheng Wang、Chien-Peng Huang、Mu-Hwa Lee、An-Chi Liu、Hung-Jen Lin、Chien-Hao Wang、Cheng-Ying Chou、En-Cheng Yang]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008645?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 07 Dec 2023 21:06:50 GMT</pubDate>
+      <pubDate>Fri, 08 Dec 2023 00:34:52 GMT</pubDate>
     </item>
     <item>
-      <title>实际大米运输过程中未知米粒自标记的自监督域自适应学习</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169923008712?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 1 月来源：农业中的计算机和电子，第 216 卷作者：Jirayu Petchhan，顺丰苏]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008712?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 07 Dec 2023 21:06:49 GMT</pubDate>
+      <title>SAM-GAN：使用近红外高光谱成像确定水稻种子活力的改进 DCGAN</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S016816992300861X?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: January 2024Source: Computers and Electronics in Agriculture, Volume 216Author(s): Hengnian Qi, Zihong Huang, Baichuan Jin, Qizhe Tang, Liangquan Jia, Guangwu Zhao, Dongdong Cao, Zeyu Sun, Chu Zhang]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S016816992300861X?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 08 Dec 2023 00:34:52 GMT</pubDate>
     </item>
     <item>
-      <title>对交叉通风乳品建筑中的补充冷却技术及相关温室气体排放进行 CFD 模拟</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169923008682?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 1 月来源：农业中的计算机和电子，第 216 卷作者：Li Jiang、Yoonhong Yi、内斯利汉·阿克德尼兹]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008682?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 07 Dec 2023 21:06:49 GMT</pubDate>
+      <title>使用偏最小二乘回归和人工神经网络预测猪咬尾行为</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169923008657?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 1 月来源：农业中的计算机和电子，第 216 卷作者：Veronika Drexl、Imme Dittrich、托雷·怀尔德、索菲·迪尔斯、海科·詹森、约阿希姆·克里特]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008657?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 08 Dec 2023 00:34:52 GMT</pubDate>
     </item>
     <item>
       <title>使用无人机激光雷达监测年轻杏仁园杂草管理策略对树冠结构和生长的影响</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169923008554?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 1 月来源：农业中的计算机和电子，第 216 卷作者：Tamir Caras、Ran Nisim Lati 、Doron Holland、Vladislav Moshe Dubinin、Kamel Hatib、Itay Shulner、Ohaliav Keiser、Guy Liddor、Tarin Paz-Kagan]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008554?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 07 Dec 2023 21:06:49 GMT</pubDate>
+      <pubDate>Fri, 08 Dec 2023 00:34:51 GMT</pubDate>
     </item>
     <item>
-      <title>DFN-PSAN：用于可解释植物病害分类的多级深度信息特征融合提取网络</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169923008694?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 1 月来源：农业中的计算机和电子技术，第 216 卷作者：戴国伟、田志敏、范景超, C.K.苏尼尔·克里斯汀·德维]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008694?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 07 Dec 2023 21:06:48 GMT</pubDate>
+      <title>自然环境中小麦赤霉病穗的快速、轻量级检测模型</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169923008724?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: January 2024Source: Computers and Electronics in Agriculture, Volume 216Author(s): Chunfeng Gao, Wei Guo, Chenghai Yang, Zheng Gong, Jibo Yue, Yuanyuan Fu, Haikuan Feng]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008724?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 08 Dec 2023 00:34:51 GMT</pubDate>
     </item>
     <item>
-      <title>基于改进YOLOv5s的甘蔗切根机紧急避障系统</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169923008566?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 1 月来源：《农业计算机与电子学》，第 216 卷作者：霍鹏、马少春、苏晨阳、丁正良]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008566?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 07 Dec 2023 21:06:48 GMT</pubDate>
+      <title>开发用于模拟土壤-被动振动工具相互作用的多路耦合离散有限元方法模拟程序</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169923008475?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 1 月来源：农业中的计算机和电子，第 216 卷作者：László Pásthy、Zsolt József Farkas 、塔马斯·哈巴、塔马斯·科内尔]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008475?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 08 Dec 2023 00:34:51 GMT</pubDate>
     </item>
     <item>
       <title>基于种子特性的高速精密双室玉米排种器吸附姿态及排种性能试验</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169923008591?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 1 月来源：《农业计算机与电子技术》，第 216 卷作者：唐汉、关天元、徐福东、徐长苏、王金武]]></description>
+      <description><![CDATA[出版日期：2024 年 1 月来源：《农业中的计算机和电子技术》，第 216 卷作者：唐汉、关天元、徐福东、徐长苏、王金武]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008591?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 07 Dec 2023 21:06:48 GMT</pubDate>
+      <pubDate>Fri, 08 Dec 2023 00:34:50 GMT</pubDate>
     </item>
     <item>
-      <title>基于叶绿素荧光和高光谱技术的棉花黄萎病早期诊断方法</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169923008852?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 1 月来源：《农业计算机与电子学》，第 216 卷作者：米阳、康晓燕、邱晓峰、马璐璐、任宏、黄昌平、张泽、吕鑫]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008852?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 07 Dec 2023 21:06:47 GMT</pubDate>
+      <title>实际大米运输过程中未知米粒自标记的自监督域自适应学习</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169923008712?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 1 月来源：农业中的计算机和电子，第 216 卷作者：Jirayu Petchhan，顺丰苏]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008712?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 08 Dec 2023 00:34:50 GMT</pubDate>
     </item>
     <item>
-      <title>使用微型卷积神经网络进行机器人采摘的草莓成熟度回归的多视图夹具内部传感</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169923008621?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 1 月来源：农业中的计算机和电子，第 216 卷作者：Yuanyue Ge、Pål Johan From , 熊氏]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008621?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 07 Dec 2023 21:06:47 GMT</pubDate>
+      <title>对交叉通风乳品建筑中的补充冷却技术及相关温室气体排放进行 CFD 模拟</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169923008682?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 1 月来源：农业中的计算机和电子，第 216 卷作者：Li Jiang、Yoonhong Yi、内斯利汉·阿克德尼兹]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008682?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 08 Dec 2023 00:34:50 GMT</pubDate>
     </item>
     <item>
       <title>基于深度强化学习的番茄采摘机器人花梗无碰撞抓取</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169923008761?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: January 2024Source: Computers and Electronics in Agriculture, Volume 216Author(s): Yajun Li, Qingchun Feng, Yifan Zhang, Chuanlang Peng, Yuhang Ma, Cheng Liu, Mengfei Ru, Jiahui Sun, Chunjiang Zhao]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008761?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 07 Dec 2023 21:06:47 GMT</pubDate>
+      <pubDate>Fri, 08 Dec 2023 00:34:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>DFN-PSAN：用于可解释植物病害分类的多级深度信息特征融合提取网络</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169923008694?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 1 月来源：农业中的计算机和电子技术，第 216 卷作者：戴国伟、田志敏、范景超, C.K.苏尼尔·克里斯汀·德维]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008694?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 08 Dec 2023 00:34:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于改进YOLOv5s的甘蔗切根机紧急避障系统</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169923008566?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 1 月来源：《农业计算机与电子学》，第 216 卷作者：霍鹏、马少春、苏晨阳、丁正良]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008566?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 08 Dec 2023 00:34:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于叶绿素荧光和高光谱技术的棉花黄萎病早期诊断方法</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169923008852?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 1 月来源：农业计算机与电子，第 216 卷作者：米阳、康晓燕、邱晓峰、马璐璐、任宏、黄昌平、张泽、吕鑫]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008852?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 08 Dec 2023 00:34:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用微型卷积神经网络进行机器人采摘的草莓成熟度回归的多视图夹具内部传感</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169923008621?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 1 月来源：农业中的计算机和电子技术，第 216 卷作者：Yuanyue Ge、Pål Johan From , 熊氏]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169923008621?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 08 Dec 2023 00:34:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
