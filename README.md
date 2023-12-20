@@ -22,3 +22,4 @@
  - source009 [https://ieeexplore.ieee.org/rss/TOC7083369.XML](https://ieeexplore.ieee.org/rss/TOC7083369.XML) -> [RAL](rss/RAL.xml)
  - source010 [https://rss.sciencedirect.com/publication/science/09218890](https://rss.sciencedirect.com/publication/science/09218890) -> [RAS](rss/RAS.xml)
  - source011 [https://rsshub.app/springer/journal/10514](https://rsshub.app/springer/journal/10514) -> [AuRo](rss/AuRo.xml)
+ - source012 [https://rss.sciencedirect.com/publication/science/02608774](https://rss.sciencedirect.com/publication/science/02608774) -> [Journal of Food Engineering](rss/Journal%20of%20Food%20Engineering.xml)
