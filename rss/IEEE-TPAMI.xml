@@ -64,7 +64,7 @@
     <item>
       <title>细分非对抗性生成自动编码器的潜在空间</title>
       <link>http://ieeexplore.ieee.org/document/10288226</link>
-      <description><![CDATA[非对抗性生成模型相对容易训练，并且比对抗性模型具有更少的模式崩溃。然而，它们在近似潜在空间中的目标分布方面不是很准确，因为它们没有鉴别器。为此，我们开发了一种名为 Tessellated Wasserstein Auto-Encoders (TWAE) 的新型分而治之模型，该模型在逼近目标分布时具有较小的统计误差。 TWAE 使用质心 Voronoi 曲面细分 (CVT) 技术将目标分布的支持曲面细分为给定数量的区域，并根据曲面细分而不是随机洗牌来设计数据批次，以准确计算差异。理论上，我们证明，随着样本数量 $n$n 和镶嵌区域 $m$m 以 $\mathcal {O}(\frac{1}{\sqrt分别为 {n}})$O(1n) 和 $\mathcal {O}(\frac{1}{\sqrt{m}})$O(1m)。 TWAE 对于不同的非对抗性指标非常灵活，与现有指标相比，可以显着提高其在 Fréchet 起始距离（FID）方面的生成性能。此外，数值结果表明 TWAE 与对抗模型相比具有竞争力，并显示出强大的生成能力。]]></description>
+      <description><![CDATA[非对抗性生成模型相对容易训练，并且比对抗性模型具有更少的模式崩溃。然而，它们在近似潜在空间中的目标分布方面不是很准确，因为它们没有鉴别器。为此，我们开发了一种名为 Tessellated Wasserstein Auto-Encoders (TWAE) 的新型分而治之模型，该模型在逼近目标分布时具有较小的统计误差。 TWAE 使用质心 Voronoi 曲面细分 (CVT) 技术将目标分布的支持曲面细分为给定数量的区域，并根据曲面细分而不是随机改组来设计数据批次，以准确计算差异。理论上，我们证明，随着样本数量 $n$n 和镶嵌区域 $m$m 以 $\mathcal {O}(\frac{1}{\sqrt分别为 {n}})$O(1n) 和 $\mathcal {O}(\frac{1}{\sqrt{m}})$O(1m)。 TWAE 对于不同的非对抗性指标非常灵活，与现有指标相比，可以显着提高其在 Fréchet 起始距离（FID）方面的生成性能。此外，数值结果表明 TWAE 与对抗模型相比具有竞争力，并显示出强大的生成能力。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10288226</guid>
       <pubDate>Thu, 19 Oct 2023 13:16:38 GMT</pubDate>
     </item>
