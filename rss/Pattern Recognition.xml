@@ -4,111 +4,111 @@
     <title>ScienceDirect 出版物：模式识别</title>
     <link>https://www.sciencedirect.com/journal/pattern-recognition</link>
     <description>科学直接RSS</description>
-    <lastBuildDate>Thu, 08 Feb 2024 18:09:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 21:06:43 GMT</lastBuildDate>
+    <item>
+      <title>基于梯度聚合的细粒度图像检索：CNN和Transformer的统一观点</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320323009457?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024年5月来源：模式识别，第149卷作者：韩宇、卢惠斌、赵敏、李卓毅、顾光华]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320323009457?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 08 Feb 2024 21:06:43 GMT</pubDate>
+    </item>
     <item>
       <title>用于消除不匹配的局部拓扑相似性引导概率采样</title>
       <link>https://www.sciencedirect.com/science/article/pii/S003132032400044X?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024年6月来源：模式识别，第150卷作者：何再兴、沉晨涛、赵欣悦&lt; /p&gt;]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S003132032400044X?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 08 Feb 2024 18:09:21 GMT</pubDate>
+      <pubDate>Thu, 08 Feb 2024 21:06:42 GMT</pubDate>
     </item>
     <item>
       <title>基于领域选择性注意力的跨模态图文检索持续学习</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324000244?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: May 2024Source: Pattern Recognition, Volume 149Author(s): Rui Yang, Shuang Wang, Yu Gu, Jihui Wang, Yingzhi Sun, Huan Zhang, Yu Liao, Licheng Jiao]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324000244?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 08 Feb 2024 18:09:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于梯度聚合的细粒度图像检索：CNN和Transformer的统一观点</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320323009457?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024年5月来源：模式识别，第149卷作者：韩宇、卢惠斌、赵敏、李卓毅、顾光华]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320323009457?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 08 Feb 2024 18:09:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>古汉字识别的大规模持续学习</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324000347?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: June 2024Source: Pattern Recognition, Volume 150Author(s): Yue Xu, Xu-Yao Zhang, Zhaoxiang Zhang, Cheng-Lin Liu]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324000347?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 08 Feb 2024 18:09:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>连续特征的快速多网络 K 依赖贝叶斯分类器</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324000505?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 6 月来源： Pattern Recognition，第 150 卷作者：Imaneh Khodayari-Samghabadi、Leyli Mohammad-Khanli ，仅限贾法尔]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324000505?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 08 Feb 2024 18:09:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于三向时态数据分析的三聚类算法的综合评估</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324000542?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 6 月来源：《模式识别》，第 150 卷作者：Diogo F. Soares、Rui Henriques、Sara C·伍德]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324000542?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 08 Feb 2024 18:09:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用图神经网络的时空特征进行人类活动识别</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324000529?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 6 月来源： Pattern Recognition，第 150 卷作者：M.S. Subodh Raj、Sudhish N. George、Kiran Raja]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324000529?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 08 Feb 2024 18:09:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于基于视频的人体姿态估计的运动学建模网络</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324000384?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: June 2024Source: Pattern Recognition, Volume 150Author(s): Yonghao Dang, Jianqin Yin, Shaojie Zhang, Jiping Liu, Yanzhu Hu]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324000384?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 08 Feb 2024 18:09:19 GMT</pubDate>
+      <pubDate>Thu, 08 Feb 2024 21:06:42 GMT</pubDate>
     </item>
     <item>
       <title>用于基于骨架的动作识别的时空渐进向内向外聚合网络</title>
       <link>https://www.sciencedirect.com/science/article/pii/S003132032400013X?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024年6月来源：模式识别，第150卷作者：印新鹏、钟建奇、连德良、曹文明]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S003132032400013X?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 08 Feb 2024 18:09:19 GMT</pubDate>
+      <pubDate>Thu, 08 Feb 2024 21:06:41 GMT</pubDate>
     </item>
     <item>
-      <title>LAFED：通过潜在特征多样化实现稳健的集成模型</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320323009226?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024年6月来源：模式识别，第150卷作者：Wenzi Zhuang、Lifeng Huang、Chengying Gau、刘宁]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320323009226?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 08 Feb 2024 18:09:18 GMT</pubDate>
+      <title>古汉字识别的大规模持续学习</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324000347?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: June 2024Source: Pattern Recognition, Volume 150Author(s): Yue Xu, Xu-Yao Zhang, Zhaoxiang Zhang, Cheng-Lin Liu]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324000347?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 08 Feb 2024 21:06:41 GMT</pubDate>
     </item>
     <item>
-      <title>EmoComicNet：喜剧情感识别的多任务模型</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324000128?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 6 月来源：《模式识别》，第 150 卷作者：Arpita Dutta、Samit Biswas、Amit Kumar Das ]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324000128?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 08 Feb 2024 18:09:18 GMT</pubDate>
+      <title>连续特征的快速多网络 K 依赖贝叶斯分类器</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324000505?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 6 月来源： Pattern Recognition，第 150 卷作者：Imaneh Khodayari-Samghabadi、Leyli Mohammad-Khanli ，仅限贾法尔]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324000505?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 08 Feb 2024 21:06:41 GMT</pubDate>
     </item>
     <item>
-      <title>通过无监督的多源域适应进行姿势鲁棒的个性化面部表情识别</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324000621?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: June 2024Source: Pattern Recognition, Volume 150Author(s): Shangfei Wang, Yanan Chang, Qiong Li, Can Wang, Guoming Li, Meng Mao]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324000621?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 08 Feb 2024 18:09:18 GMT</pubDate>
+      <title>用于三向时态数据分析的三聚类算法的综合评估</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324000542?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 6 月来源：《模式识别》，第 150 卷作者：Diogo F. Soares、Rui Henriques、Sara C·伍德]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324000542?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 08 Feb 2024 21:06:41 GMT</pubDate>
     </item>
     <item>
       <title>MCPNet：多空间色彩校正和特征先验融合，用于非均匀雾霾场景中的单图像去雾</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324000414?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024年6月来源：模式识别，第150卷作者：吕志宇、陈彦、侯一民&lt; /p&gt;]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324000414?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 08 Feb 2024 18:09:18 GMT</pubDate>
+      <pubDate>Thu, 08 Feb 2024 21:06:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用图神经网络的时空特征进行人类活动识别</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324000529?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 6 月来源： Pattern Recognition，第 150 卷作者：M.S. Subodh Raj、Sudhish N. George、Kiran Raja]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324000529?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 08 Feb 2024 21:06:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于基于视频的人体姿态估计的运动学建模网络</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324000384?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: June 2024Source: Pattern Recognition, Volume 150Author(s): Yonghao Dang, Jianqin Yin, Shaojie Zhang, Jiping Liu, Yanzhu Hu]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324000384?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 08 Feb 2024 21:06:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>LAFED：通过潜在特征多样化实现稳健的集成模型</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320323009226?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024年6月来源：模式识别，第150卷作者：Wenzi Zhuang、Lifefeng Huang、Chengying Gau、刘宁]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320323009226?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 08 Feb 2024 21:06:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>EmoComicNet：喜剧情感识别的多任务模型</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324000128?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 6 月来源：《模式识别》，第 150 卷作者：Arpita Dutta、Samit Biswas、Amit Kumar Das ]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324000128?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 08 Feb 2024 21:06:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过无监督的多源域适应进行姿势鲁棒的个性化面部表情识别</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324000621?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: June 2024Source: Pattern Recognition, Volume 150Author(s): Shangfei Wang, Yanan Chang, Qiong Li, Can Wang, Guoming Li, Meng Mao]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324000621?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 08 Feb 2024 21:06:39 GMT</pubDate>
     </item>
     <item>
       <title>用于图像引导深度补全的 Transformer-CNN 并行网络</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324000566?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024年6月来源：模式识别，第150卷作者：李涛、董秀成、林杰、彭永红]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324000566?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 08 Feb 2024 18:09:17 GMT</pubDate>
+      <pubDate>Thu, 08 Feb 2024 21:06:38 GMT</pubDate>
     </item>
     <item>
       <title>基于边缘标记的改进门控图网络，用于少样本学习</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324000153?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024年6月来源：模式识别，第150卷作者：郑佩晓、郭鑫、陈恩庆、林琪、关岭]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324000153?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 08 Feb 2024 18:09:17 GMT</pubDate>
+      <pubDate>Thu, 08 Feb 2024 21:06:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
