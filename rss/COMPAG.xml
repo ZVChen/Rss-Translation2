@@ -1,114 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>ScienceDirect 出版物：农业中的计算机和电子产品</title>
+    <title>ScienceDirect 出版物：农业中的计算机和电子</title>
     <link>https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture</link>
     <description>科学直接RSS</description>
-    <lastBuildDate>Mon, 18 Mar 2024 15:07:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 18:09:10 GMT</lastBuildDate>
+    <item>
+      <title>改进了修剪期间苹果树基于体素的体积估计和修剪严重程度映射</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924002254?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 4 月来源：农业中的计算机和电子，第 219 卷作者：徐华东，Woo-Young Kim、Zheng Yu、Ju-Youl Oh、Reza Ehsani、Kyeong-Hwan Lee]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002254?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 18 Mar 2024 18:09:09 GMT</pubDate>
+    </item>
     <item>
       <title>基于BiGRU-Attention和LightGBM的温室气候变权组合预测模型</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924002096?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 4 月来源：《农业中的计算机和电子技术》，第 219 卷作者：毛晓娟、任倪、戴佩玉、金晶、王宝佳、康瑞、李德翠]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002096?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 18 Mar 2024 15:07:12 GMT</pubDate>
+      <pubDate>Mon, 18 Mar 2024 18:09:09 GMT</pubDate>
     </item>
     <item>
       <title>基于电容传感技术的蒜瓣方向测定</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924002187?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: April 2024Source: Computers and Electronics in Agriculture, Volume 219Author(s): Lizhi Fang, Kai Zhou, Tianhua Li, Jialin Hou, Yuhua Li]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002187?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 18 Mar 2024 15:07:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用智能连栋塑料温室环境和控制信息估算黄瓜净初级产量</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924002102?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 4 月来源：农业中的计算机和电子，第 219 卷作者：Minseok Kang、Ji Eun Lee 、Seungwon Sohn、Jongho Kim、Sungsik Cho、Juhan Park、Namgoo Kang、Kyoung Sub Park]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002102?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 18 Mar 2024 15:07:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>辣椒收获智能解决方案：释放 YOLO 的力量，进行检测、分割、生长阶段分类、计数和实时移动识别</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924002230?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 4 月来源：农业中的计算机和电子，第 219 卷作者：Ayan Paul、Rajendra Machavaram、 Ambuj、Dheeraj Kumar、Harsh Nagar]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002230?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 18 Mar 2024 15:07:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>改进了修剪期间苹果树基于体素的体积估计和修剪严重程度映射</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924002254?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 4 月来源：农业中的计算机和电子，第 219 卷作者：徐华东，Woo-Young Kim、Zheng Yu、Ju-Youl Oh、Reza Ehsani、Kyeong-Hwan Lee]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002254?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 18 Mar 2024 15:07:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Sentinel-1 和 Sentinel-2 数据对农业区域进行地表土壤湿度测绘的时空约束</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924002266?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: April 2024Source: Computers and Electronics in Agriculture, Volume 219Author(s): ZHOU Ya&#39;nan, WANG Binyao, ZHU Weiwei, FENG Li, HE Qisheng, ZHANG Xin, WU Tianjun, YAN Na&#39;na]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002266?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 18 Mar 2024 15:07:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>集成频域和空间域信息的作物病害识别双分支神经网络</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924002345?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: April 2024Source: Computers and Electronics in Agriculture, Volume 219Author(s): Haidong Li, Linsheng Huang, Chao Ruan, Wenjiang Huang, Chuanjian Wang, Jinling Zhao]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002345?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 18 Mar 2024 15:07:10 GMT</pubDate>
+      <pubDate>Mon, 18 Mar 2024 18:09:09 GMT</pubDate>
     </item>
     <item>
       <title>分析基于无人机的技术和背负式喷雾器对杂草管理、产量贡献性状和小麦产量的协同影响，以加强农业运营</title>
       <link>https://www.sciencedirect.com/science/article/pii/S016816992400187X?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 4 月来源：农业中的计算机和电子，第 219 卷作者：Dameruppula Pranaswi、Megha P. Jagtap、Gopal U. Shinde、Narendra Khatri、Stuthi Shetty、Shravya Pare]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S016816992400187X?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 18 Mar 2024 15:07:10 GMT</pubDate>
+      <pubDate>Mon, 18 Mar 2024 18:09:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用智能连栋塑料温室环境和控制信息估算黄瓜净初级产量</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924002102?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 4 月来源：农业中的计算机和电子，第 219 卷作者：Minseok Kang、Ji Eun Lee 、Seungwon Sohn、Jongho Kim、Sungsik Cho、Juhan Park、Namgoo Kang、Kyoung Sub Park]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002102?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 18 Mar 2024 18:09:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>辣椒收获智能解决方案：释放 YOLO 的力量，进行检测、分割、生长阶段分类、计数和实时移动识别</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924002230?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 4 月来源：农业中的计算机和电子，第 219 卷作者：Ayan Paul、Rajendra Machavaram、 Ambuj、Dheeraj Kumar、Harsh Nagar]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002230?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 18 Mar 2024 18:09:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Sentinel-1 和 Sentinel-2 数据对农业区域进行地表土壤湿度测绘的时空约束</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924002266?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: April 2024Source: Computers and Electronics in Agriculture, Volume 219Author(s): ZHOU Ya&#39;nan, WANG Binyao, ZHU Weiwei, FENG Li, HE Qisheng, ZHANG Xin, WU Tianjun, YAN Na&#39;na]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002266?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 18 Mar 2024 18:09:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>集成频域和空间域信息的作物病害识别双分支神经网络</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924002345?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: April 2024Source: Computers and Electronics in Agriculture, Volume 219Author(s): Haidong Li, Linsheng Huang, Chao Ruan, Wenjiang Huang, Chuanjian Wang, Jinling Zhao]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002345?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 18 Mar 2024 18:09:07 GMT</pubDate>
     </item>
     <item>
       <title>温室中的机器人。范围审查</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924001418?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 4 月来源：农业中的计算机和电子，第 219 卷作者：J.A.桑切斯-莫利纳、F. 罗德里格斯、J.C.莫雷诺、J. 桑切斯-埃莫西拉、A. 吉梅内斯]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924001418?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 18 Mar 2024 15:07:09 GMT</pubDate>
+      <pubDate>Mon, 18 Mar 2024 18:09:06 GMT</pubDate>
     </item>
     <item>
       <title>使用无人机喷雾系统满足精准农业中精确喷雾要求的可变速率喷雾的进展：综述</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924002321?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 4 月来源：农业中的计算机和电子，第 219 卷作者：Abbas Taseer、Xiongzhe Han&lt; /p&gt;]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002321?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 18 Mar 2024 15:07:09 GMT</pubDate>
+      <pubDate>Mon, 18 Mar 2024 18:09:06 GMT</pubDate>
     </item>
     <item>
       <title>基于历史天气数据预测夏季田间规模玉米产量：通过集成卡尔曼滤波算法将遥感数据同化为WOFOST模型</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924002138?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: April 2024Source: Computers and Electronics in Agriculture, Volume 219Author(s): Shixiong Ren, Hao Chen, Jian Hou, Peng Zhao, Qin&#39;ge Dong, Hao Feng]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002138?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 18 Mar 2024 15:07:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>新兴经济体农业供应链智能决策框架：研究机遇与挑战</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924001571?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 4 月来源：《农业中的计算机和电子技术》，第 219 卷作者：T. Kalimuthu, P. Kalpana、Saravanan Kuppusamy、V. Raja Sreedharan]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924001571?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 18 Mar 2024 15:07:08 GMT</pubDate>
+      <pubDate>Mon, 18 Mar 2024 18:09:06 GMT</pubDate>
     </item>
     <item>
       <title>农业开放数据的系统回顾</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924001662?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 4 月来源：农业中的计算机和电子，第 219 卷作者：Jorge Chamorro-Padial、Roberto加西亚、罗莎·吉尔]]></description>
+      <description><![CDATA[出版日期：2024 年 4 月来源：农业中的计算机和电子，第 219 卷作者：Jorge Chamorro-Padial、Roberto加西亚，罗莎吉尔]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924001662?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 18 Mar 2024 15:07:08 GMT</pubDate>
+      <pubDate>Mon, 18 Mar 2024 18:09:05 GMT</pubDate>
     </item>
     <item>
       <title>精准农业中的目标检测和跟踪：系统综述</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924001480?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 4 月来源：农业中的计算机和电子，第 219 卷作者：Mar Ariza-Sentís、Sergio贝莱斯、雷切尔·马丁内斯-洛克、希尔米·洛、约翰·瓦伦特]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924001480?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 18 Mar 2024 15:07:08 GMT</pubDate>
+      <pubDate>Mon, 18 Mar 2024 18:09:05 GMT</pubDate>
     </item>
     <item>
       <title>智能渔业灵活多模传感技术及其解耦原理综述</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924001492?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 4 月来源：农业计算机与电子，第 219 卷作者：黄文涛、夏杰、布兰科·格拉穆齐纳、张晓栓]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924001492?dgcid=rss_sd_all</guid>
-      <pubDate>Mon, 18 Mar 2024 15:07:08 GMT</pubDate>
+      <pubDate>Mon, 18 Mar 2024 18:09:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>新兴经济体农业供应链智能决策框架：研究机遇与挑战</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924001571?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 4 月来源：《农业中的计算机和电子技术》，第 219 卷作者：T. Kalimuthu, P. Kalpana、Saravanan Kuppusamy、V. Raja Sreedharan]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924001571?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 18 Mar 2024 18:09:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
