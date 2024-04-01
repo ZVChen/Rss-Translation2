@@ -1,114 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>ScienceDirect 出版物：农业中的计算机和电子产品</title>
+    <title>ScienceDirect 出版物：农业中的计算机和电子</title>
     <link>https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture</link>
     <description>科学直接RSS</description>
-    <lastBuildDate>Sun, 31 Mar 2024 21:05:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 00:37:04 GMT</lastBuildDate>
+    <item>
+      <title>人工神经网络用于预测室式流化床干燥机中稻谷的干燥行为</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924002795?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 5 月来源：农业中的计算机和电子，第 220 卷作者：Susama Chokphoemphun、Somporn Hongkong、 Suriya Chokphoemphun]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002795?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 01 Apr 2024 00:37:03 GMT</pubDate>
+    </item>
     <item>
       <title>不同分辨率和生长阶段下杂草性状鉴定的光谱混合分析</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924002503?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 5 月来源：农业中的计算机和电子，第 220 卷作者：Inbal Ronay、Ran Nisim Lati 、法迪·基泽尔]]></description>
+      <description><![CDATA[出版日期：2024 年 5 月来源：农业中的计算机和电子，第 220 卷作者：Inbal Ronay、Ran Nisim Lati ，法迪·基泽尔]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002503?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 31 Mar 2024 21:05:28 GMT</pubDate>
+      <pubDate>Mon, 01 Apr 2024 00:37:03 GMT</pubDate>
     </item>
     <item>
       <title>使用红边植被指数估算叶面积指数的叶绿素约束半经验模型</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924002825?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: May 2024Source: Computers and Electronics in Agriculture, Volume 220Author(s): Dong Li, Jing M. Chen, Weiguo Yu, Hengbiao Zheng, Xia Yao, Yan Zhu, Weixing Cao, Tao Cheng]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002825?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 31 Mar 2024 21:05:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究数据驱动的方法来优化冬小麦的氮肥建议</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924002485?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 5 月来源：农业中的计算机和电子，第 220 卷作者：Guojie Ruan、Davide Cammarano、 Syed Tahir Ata-UI-Karim、刘晓军、田永超、朱彦、曹卫星、曹强]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002485?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 31 Mar 2024 21:05:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于低能耗优化的改进部分格式MFAC温室温度控制方法研究</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924002369?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 5 月来源：农业计算机与电子，第 220 卷作者：Binrui Wang、Xue Li、徐梦婕、王丽娜]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002369?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 31 Mar 2024 21:05:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工神经网络用于预测室式流化床干燥机中稻谷的干燥行为</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924002795?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 5 月来源：农业中的计算机和电子，第 220 卷作者：Susama Chokphoemphun、Somporn Hongkong、 Suriya Chokphoemphun]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002795?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 31 Mar 2024 21:05:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于生物电阻抗的活鸡体脂肪测量技术</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924002813?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: May 2024Source: Computers and Electronics in Agriculture, Volume 220Author(s): Jiaming Zuo, Jinping Liang, Shangshang Cheng, Yuelin Deng, Zhenhui Li, Qinghua Nie, Dexiang Zhang, Xiquan Zhang, Zhen Li, Hongmei Li]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002813?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 31 Mar 2024 21:05:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用神经辐射场对植物进行高保真 3D 重建</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924002394?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 5 月来源：农业中的计算机和电子，第 220 卷作者：Kewei Hu、Wei Ying、潘耀强、康瀚文、陈超]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002394?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 31 Mar 2024 21:05:26 GMT</pubDate>
+      <pubDate>Mon, 01 Apr 2024 00:37:03 GMT</pubDate>
     </item>
     <item>
       <title>心材、边材和树皮直径的附加模型系统 - <em>Pinus koraiensis</em> Siebold & Zucc 的工作示例。种植园</title>
       <link>https://www.sciencedirect.com/science/article/pii/S016816992400259X?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 5 月来源：农业中的计算机和电子，第 220 卷作者：Yuman Sun、Weiwei Jia、返回赛达合麦提]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S016816992400259X?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 31 Mar 2024 21:05:26 GMT</pubDate>
+      <pubDate>Mon, 01 Apr 2024 00:37:02 GMT</pubDate>
     </item>
     <item>
-      <title>意大利中部的高级蒸散量预测：堆叠 MLP-RF 算法以及将 Nystrom 视图与特征选择策略相关联</title>
+      <title>意大利中部的高级蒸散预测：堆叠 MLP-RF 算法以及将 Nystrom 视图与特征选择策略相关联</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924002783?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 5 月来源：农业中的计算机和电子，第 220 卷作者：Francesco Granata、Fabio Di Nunno ，乔瓦尼·德·马里尼斯]]></description>
+      <description><![CDATA[出版日期：2024 年 5 月来源：农业计算机和电子学，第 220 卷作者：Francesco Granata、Fabio Di Nunno ，乔瓦尼·德·马里尼斯]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002783?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 31 Mar 2024 21:05:26 GMT</pubDate>
+      <pubDate>Mon, 01 Apr 2024 00:37:02 GMT</pubDate>
     </item>
     <item>
-      <title>羊舍电风管供暖设备计算流体力学仿真与实验</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924002400?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: May 2024Source: Computers and Electronics in Agriculture, Volume 220Author(s): Zichen Liu, Honglei Cen, Min Lu, Jingbin Li, Qiang Cai, Jing Nie, Baoqin Wen, Yalei Xu]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002400?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 31 Mar 2024 21:05:25 GMT</pubDate>
+      <title>研究数据驱动的方法来优化冬小麦的氮肥建议</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924002485?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 5 月来源：农业中的计算机和电子，第 220 卷作者：Guojie Ruan、Davide Cammarano、 Syed Tahir Ata-UI-Karim、刘晓军、田永超、朱彦、曹卫星、曹强]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002485?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 01 Apr 2024 00:37:02 GMT</pubDate>
     </item>
     <item>
-      <title>用于缓解哺乳母猪热应激的新型猪栏隔板喷射供气系统的 CFD 研究</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S016816992400231X?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 5 月来源：农业中的计算机和电子，第 220 卷作者：陈国兴、张国强、 Poul Pedersen、Torben Jensen、李蓉]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S016816992400231X?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 31 Mar 2024 21:05:25 GMT</pubDate>
+      <title>基于低能耗优化的改进部分格式MFAC温室温度控制方法研究</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924002369?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 5 月来源：农业计算机与电子，第 220 卷作者：Binrui Wang、Xue Li、徐梦婕、王丽娜]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002369?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 01 Apr 2024 00:37:02 GMT</pubDate>
     </item>
     <item>
       <title>一种新颖的机器人授粉冗余协作控制策略</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924002370?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 5 月来源：农业计算机与电子，第 220 卷作者：Jiawei Wei、Yuzhen Pan、孙丽萍、尚惠良、陈雄]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002370?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 31 Mar 2024 21:05:25 GMT</pubDate>
+      <pubDate>Mon, 01 Apr 2024 00:37:01 GMT</pubDate>
     </item>
     <item>
-      <title>基于物联网的可持续农业农业管理技术：全面综述</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924002424?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 5 月来源：农业中的计算机和电子，第 220 卷作者：Hammad Shahab、Muhammad Iqbal、艾哈迈德·索海布、法里德·乌拉·汗、莫辛·瓦卡斯]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002424?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 31 Mar 2024 21:05:24 GMT</pubDate>
+      <title>基于生物电阻抗的活鸡体脂肪测量技术</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924002813?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: May 2024Source: Computers and Electronics in Agriculture, Volume 220Author(s): Jiaming Zuo, Jinping Liang, Shangshang Cheng, Yuelin Deng, Zhenhui Li, Qinghua Nie, Dexiang Zhang, Xiquan Zhang, Zhen Li, Hongmei Li]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002813?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 01 Apr 2024 00:37:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用神经辐射场对植物进行高保真 3D 重建</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924002394?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 5 月来源：农业中的计算机和电子，第 220 卷作者：Kewei Hu、Wei Ying、潘耀强、康瀚文、陈超]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002394?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 01 Apr 2024 00:37:01 GMT</pubDate>
     </item>
     <item>
       <title>SoybeanTracer：基于现场场景属性的框架，用于高通量大豆冠层覆盖度提取和评估</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924002606?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: May 2024Source: Computers and Electronics in Agriculture, Volume 220Author(s): Tianyu Wan, Xiu Jin, Yuan Rao, Jiajia Li, Tan Wang, Zhaohui Jiang, Wu Zhang, Shaowen Li, Tong Zhang, Xiaobo Wang]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002606?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 31 Mar 2024 21:05:24 GMT</pubDate>
+      <pubDate>Mon, 01 Apr 2024 00:37:00 GMT</pubDate>
     </item>
     <item>
       <title>WOFOST-N：带有氮模块的改进WOFOST模型，用于模拟库尔勒香梨树生长和氮动态</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924002515?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: May 2024Source: Computers and Electronics in Agriculture, Volume 220Author(s): Lichao Xu, Haiqi Liu, Liang Jiang, Feilong Zhang, Xiaoli Li, Xuping Feng, Jianxi Huang, Tiecheng Bai]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002515?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 31 Mar 2024 21:05:24 GMT</pubDate>
+      <pubDate>Mon, 01 Apr 2024 00:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>羊舍电风管供暖设备计算流体力学仿真与实验</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924002400?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: May 2024Source: Computers and Electronics in Agriculture, Volume 220Author(s): Zichen Liu, Honglei Cen, Min Lu, Jingbin Li, Qiang Cai, Jing Nie, Baoqin Wen, Yalei Xu]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002400?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 01 Apr 2024 00:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于缓解哺乳母猪热应激的新型猪栏隔板喷射供气系统的 CFD 研究</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S016816992400231X?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 5 月来源：农业中的计算机和电子，第 220 卷作者：陈国兴、张国强、 Poul Pedersen、Torben Jensen、李蓉]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S016816992400231X?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 01 Apr 2024 00:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于物联网的可持续农业农业管理技术：全面综述</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924002424?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 5 月来源：农业中的计算机和电子，第 220 卷作者：Hammad Shahab、Muhammad Iqbal、艾哈迈德·索海布、法里德·乌拉·汗、莫辛·瓦卡斯]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924002424?dgcid=rss_sd_all</guid>
+      <pubDate>Mon, 01 Apr 2024 00:36:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
