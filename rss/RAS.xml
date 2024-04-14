@@ -4,111 +4,111 @@
     <title>ScienceDirect 出版物：机器人与自主系统</title>
     <link>https://www.sciencedirect.com/journal/robotics-and-autonomous-systems</link>
     <description>科学直接RSS</description>
-    <lastBuildDate>Sun, 14 Apr 2024 00:34:25 GMT</lastBuildDate>
-    <item>
-      <title>基于对象闭环稳定时间的非线性系统 FOPID 混合技术</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0921889024000344?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 6 月来源：《机器人与自治系统》，第 176 卷作者：Athira Sivanandhan、Aneesh Vp&gt;]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0921889024000344?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 14 Apr 2024 00:34:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 GPS 无法识别的地下环境中进行 MAV 的现场部署</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0921889024000460?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 6 月来源：《机器人与自主系统》，第 176 卷作者：Akash Patel、Samuel Karlsson、Björn Lindqvist、Jakub Haluska、Christoforos Kanellakis、Ali Agha-Mohammed、George Nikolakopoulos]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0921889024000460?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 14 Apr 2024 00:34:24 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sun, 14 Apr 2024 03:49:14 GMT</lastBuildDate>
     <item>
       <title>求解作业车间FMS环境下移动机器人调度问题的自适应模糊遗传算法算子</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0921889024000666?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 6 月来源：《机器人与自治系统》，第 176 卷作者：Erlianasha Samsuria、Mohd Saiful Azimi Mahmud 、 Norhaliza Abdul Wahab、Muhammad Zakiyullah Romdlony、Mohamad Shukri Zainal Abidin、Salinda Buyamin]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0921889024000666?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 14 Apr 2024 00:34:24 GMT</pubDate>
+      <pubDate>Sun, 14 Apr 2024 03:49:14 GMT</pubDate>
     </item>
     <item>
       <title>改进的自适应巡航控制律</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0921889024000629?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 6 月来源：《机器人与自治系统》，第 176 卷作者：Marcus P.S.德·阿布鲁，富尔维娅·S.S.奥利维拉 (Fernando O. Souza)]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0921889024000629?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 14 Apr 2024 00:34:24 GMT</pubDate>
+      <pubDate>Sun, 14 Apr 2024 03:49:14 GMT</pubDate>
     </item>
     <item>
       <title>一种求解 TSP 的新型混合群体智能算法和基于期望路径的 AUV 在线避障策略</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0921889024000617?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 3 月 1 日在线发布来源：机器人与自主系统作者：张一晓、沉悦、齐王、宋超、戴宁、何博]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0921889024000617?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 14 Apr 2024 00:34:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>从神经内分泌角度看人机配对：模拟催产素、精氨酸加压素和多巴胺对自主机器人社交行为的影响</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0921889024000708?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 6 月来源：《机器人与自主系统》，第 176 卷作者：Marcos Maroto-Gómez、Martin Bueno -阿德拉达、玛丽亚·马尔法兹、阿尔瓦罗·卡斯特罗-冈萨雷斯、迈克尔·安杰尔·萨利克斯]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0921889024000708?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 14 Apr 2024 00:34:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有鲁棒初始化和在线外参标定的视觉惯性轮里程计的实现和可观测性分析</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0921889024000691?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024年6月来源：机器人与自主系统，第176卷作者：刘金旭、高伟、楚云谢、胡玩]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0921889024000691?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 14 Apr 2024 00:34:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>BiCR-SLAM：用于桁架环境中双足攀爬机器人的多源融合 SLAM 系统</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S092188902400068X?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: June 2024Source: Robotics and Autonomous Systems, Volume 176Author(s): Haifei Zhu, Jianhong Xu, Jingheng Chen, Shilang Chen, Yisheng Guan, Weinan Chen]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S092188902400068X?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 14 Apr 2024 00:34:23 GMT</pubDate>
+      <pubDate>Sun, 14 Apr 2024 03:49:14 GMT</pubDate>
     </item>
     <item>
       <title>用于测试四轴飞行器的三自由度平台和模拟器</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0921889024000654?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 6 月来源：《机器人与自治系统》，第 176 卷作者：Júnio Santos Bulhões、Cristiane Lopes Martins 、克里斯蒂安·汉森、马西奥·罗德里格斯·达库尼亚·雷斯、阿拉娜·达·席尔瓦·马加良斯、安东尼奥·保罗·科英布拉、韦斯利·帕切科·卡利斯托]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0921889024000654?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 14 Apr 2024 00:34:23 GMT</pubDate>
+      <pubDate>Sun, 14 Apr 2024 03:49:13 GMT</pubDate>
     </item>
     <item>
       <title>具有动态时序逻辑规范的移动机器人的顺序控制屏障功能</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0921889024000642?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 6 月来源：《机器人与自主系统》，第 176 卷作者：Ali Tevfik Buyukkocak、Derya Aksaray、亚辛·亚兹吉奥格鲁]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0921889024000642?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 14 Apr 2024 00:34:23 GMT</pubDate>
+      <pubDate>Sun, 14 Apr 2024 03:49:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于对象闭环稳定时间的非线性系统 FOPID 混合技术</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0921889024000344?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 6 月来源：《机器人与自治系统》，第 176 卷作者：Athira Sivanandhan、Aneesh Vp&gt;]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0921889024000344?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 14 Apr 2024 03:49:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 GPS 无法识别的地下环境中进行 MAV 的现场部署</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0921889024000460?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 6 月来源：《机器人与自主系统》，第 176 卷作者：Akash Patel、Samuel Karlsson、Björn Lindqvist、Jakub Haluska、Christoforos Kanellakis、Ali Agha-Mohammed、George Nikolakopoulos]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0921889024000460?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 14 Apr 2024 03:49:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>从神经内分泌角度看人机配对：模拟催产素、精氨酸加压素和多巴胺对自主机器人社交行为的影响</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0921889024000708?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 6 月来源：《机器人与自主系统》，第 176 卷作者：Marcos Maroto-Gómez、Martin Bueno -阿德拉达、玛丽亚·马尔法兹、阿尔瓦罗·卡斯特罗-冈萨雷斯、迈克尔·安杰尔·萨利克斯]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0921889024000708?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 14 Apr 2024 03:49:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有鲁棒初始化和在线外参标定的视觉惯性轮里程计的实现和可观测性分析</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0921889024000691?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024年6月来源：机器人与自主系统，第176卷作者：刘金旭、高伟、楚云谢、胡玩]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0921889024000691?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 14 Apr 2024 03:49:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>BiCR-SLAM：用于桁架环境中双足攀爬机器人的多源融合 SLAM 系统</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S092188902400068X?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: June 2024Source: Robotics and Autonomous Systems, Volume 176Author(s): Haifei Zhu, Jianhong Xu, Jingheng Chen, Shilang Chen, Yisheng Guan, Weinan Chen]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S092188902400068X?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 14 Apr 2024 03:49:12 GMT</pubDate>
     </item>
     <item>
       <title>小型跳跃机器人能量回收着陆策略</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0921889024000794?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: June 2024Source: Robotics and Autonomous Systems, Volume 176Author(s): Chong Hong, Dewei Tang, Qiquan Quan, Zhuoqun Cao, Zongquan Deng]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0921889024000794?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 14 Apr 2024 00:34:22 GMT</pubDate>
+      <pubDate>Sun, 14 Apr 2024 03:49:11 GMT</pubDate>
     </item>
     <item>
       <title>一种基于伪逆公式的新型离散时间重复运动规划方案，用于具有关节约束的冗余机器人机械手</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0921889024000721?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024年6月来源：机器人与自主系统，第176卷作者：苍乃萌、郭东升、卫东张、沉利民、李伟兵]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0921889024000721?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 14 Apr 2024 00:34:22 GMT</pubDate>
+      <pubDate>Sun, 14 Apr 2024 03:49:11 GMT</pubDate>
     </item>
     <item>
       <title>用于触觉纹理识别的多模态零样本学习</title>
       <link>https://www.sciencedirect.com/science/article/pii/S092188902400071X?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 6 月来源：《机器人与自治系统》，第 176 卷作者：曹冠群、蒋嘉琪、Danushka Bollegala、李敏、罗珊]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S092188902400071X?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 14 Apr 2024 00:34:22 GMT</pubDate>
+      <pubDate>Sun, 14 Apr 2024 03:49:11 GMT</pubDate>
     </item>
     <item>
       <title>基于虚拟面约束的分布式多无人机护盾编队</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0921889024000678?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 6 月来源：《机器人与自主系统》，第 176 卷作者：Maria Guinaldo、Jose Sanchez-Moreno 、萨尔瓦多·萨拉戈萨、弗朗西斯·何塞·马纳斯-阿尔瓦雷斯]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0921889024000678?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 14 Apr 2024 00:34:22 GMT</pubDate>
+      <pubDate>Sun, 14 Apr 2024 03:49:11 GMT</pubDate>
     </item>
     <item>
       <title>与无人机连接的半自主移动机器人用于清除高压电线上的碎片</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0921889024000800?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 7 月来源：《机器人与自治系统》，第 177 卷作者：Rogerio S. Gonçalves、Frederico C .Souza，克劳迪奥·C.Souza，丹尼尔·E.T. Sudbrack、Paul Victor Trautmann、Bruno C. Clasen、Raphael Z. Homma]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0921889024000800?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 14 Apr 2024 00:34:21 GMT</pubDate>
+      <pubDate>Sun, 14 Apr 2024 03:49:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
