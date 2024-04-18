@@ -3,7 +3,7 @@
   <channel>
     <title>IEEE 机器人与自动化快报 - 新目录</title>
     <link>http://ieeexplore.ieee.org</link>
-    <description>出版物 TOC 警报# 7083369</description>
+    <description>出版物目录提醒# 7083369</description>
     <lastBuildDate>Thu, 11 Apr 2024 04:00:00 GMT</lastBuildDate>
     <item>
       <title>MorAL：在具有挑战性的地形上为四足机器人学习形态自适应运动控制器</title>
@@ -29,7 +29,7 @@
     <item>
       <title>Buffalo Byte：高度移动和自主的 Millirobot 平台</title>
       <link>http://ieeexplore.ieee.org/document/10465605</link>
-      <description><![CDATA[Buffalo Byte 是一个小型、高度移动和自主的毫机器人平台，可以在不平坦的自然地形上移动。每个 Buffalo Byte 都有两个硅胶胎面，带有可增加牵引力的柔顺脊柱。硅胶踏板由小型直流电机独立驱动。单个机器人的速度可达 $235.7 \,\mathrm{m}\mathrm{m}\mathrm{/}\mathrm{s}$，并可在崎岖的地形上行驶，倾斜度可达 $12.5\deg$。每个 Buffalo Byte 都有一个板载 ESP8266EX 片上系统 (SoC)，用于通过 Wi-Fi 进行计算和通信。一个完全自主的 Buffalo Byte 带有自己的电源，质量为 11.35 美元 \,\mathrm{g}$，体积足迹为 28.5 美元 \,\mathrm{m}\mathrm{m}$ × $29.5 \,\mathrm{m }\mathrm{m}$× $21.4 \,\mathrm{m}\mathrm{m}$ 平均运行时间为 30 分钟。 Buffalo Byte 甚至能够利用板载惯性测量单元 (IMU) 的反馈在崎岖地形上进行闭环控制。]]></description>
+      <description><![CDATA[Buffalo Byte 是一个小型、高度移动和自主的毫机器人平台，可以在不平坦的自然地形上移动。每个 Buffalo Byte 都有两个硅胶胎面，带有可增加牵引力的柔顺脊柱。硅胶踏板由小型直流电机独立驱动。单个机器人的速度可达 $235.7 \,\mathrm{m}\mathrm{m}\mathrm{/}\mathrm{s}$，并可在崎岖的地形上行驶，倾斜度可达 $12.5\deg$。每个 Buffalo Byte 都有一个板载 ESP8266EX 片上系统 (SoC)，用于通过 Wi-Fi 进行计算和通信。一个完全自主的 Buffalo Byte 携带自己的电源，质量为 11.35 美元 \,\mathrm{g}$，体积足迹为 28.5 美元 \,\mathrm{m}\mathrm{m}$ × $29.5 \,\mathrm{m }\mathrm{m}$× $21.4 \,\mathrm{m}\mathrm{m}$ 平均运行时间为 30 分钟。 Buffalo Byte 甚至能够利用板载惯性测量单元 (IMU) 的反馈在崎岖地形上进行闭环控制。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10465605</guid>
       <pubDate>Mon, 11 Mar 2024 13:18:32 GMT</pubDate>
     </item>
@@ -50,14 +50,14 @@
     <item>
       <title>一种用于鲁棒协作感知的空间校准方法</title>
       <link>http://ieeexplore.ieee.org/document/10461035</link>
-      <description><![CDATA[协作感知是通过车辆与万物 (V2X) 协作实现智能网联车辆的一项有前途的技术，前提是提供准确的姿态信息和相对姿态变换。然而，获得精确的定位信息通常需要与导航系统相关的高成本。因此，需要校准多智能体协作感知的相对姿态信息。这封信提出了一种简单但有效的对象关联方法，称为基于上下文的匹配（$\mathtt{CBM}$），该方法使用代理内的几何上下文来识别代理间的对象对应关系。具体来说，该方法使用检测到的边界框的相对位置构建上下文，然后进行局部上下文匹配和全局共识最大化。根据匹配的对应关系估计最佳相对姿态变换，然后进行协作感知融合。在模拟和现实数据集上进行了大量的实验。即使存在较大的智能体间定位误差，协作智能体之间也能实现较高的对象关联精度和分米级相对位姿校准精度。]]></description>
+      <description><![CDATA[协作感知是通过车辆与万物 (V2X) 协作实现智能网联车辆的一项有前景的技术，前提是提供准确的姿态信息和相对姿态变换。然而，获得精确的定位信息通常需要与导航系统相关的高成本。因此，需要校准多智能体协作感知的相对姿态信息。这封信提出了一种简单但有效的对象关联方法，称为基于上下文的匹配（$\mathtt{CBM}$），该方法使用代理内的几何上下文来识别代理间的对象对应关系。具体来说，该方法使用检测到的边界框的相对位置构建上下文，然后进行局部上下文匹配和全局共识最大化。根据匹配的对应关系估计最佳相对姿态变换，然后进行协作感知融合。在模拟和现实数据集上进行了大量的实验。即使存在较大的智能体间定位误差，协作智能体之间也能实现较高的对象关联精度和分米级相对位姿校准精度。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10461035</guid>
       <pubDate>Wed, 06 Mar 2024 13:16:59 GMT</pubDate>
     </item>
     <item>
       <title>用一只手抓住多个物体</title>
       <link>http://ieeexplore.ieee.org/document/10460998</link>
-      <description><![CDATA[人手复杂的运动学使得能够同时抓取和操纵多个物体，这对于物体转移和手动操纵等任务至关重要。尽管其意义重大，但机器人多物体抓取领域相对尚未被探索，并且在运动学、动力学和物体配置方面提出了显着的挑战。这封信介绍了 MultiGrasp，这是一种新颖的两阶段方法，使用桌面上灵巧的多指机器人手来抓取多物体。该过程包括 (i) 生成预抓取建议和 (ii) 执行抓取并举起物体。我们的实验重点主要是双物体抓取，成功率达到 44.13%，突出了对新物体配置的适应性和对不精确抓取的容忍度。此外，该框架还展示了以推理速度为代价来抓取两个以上物体的潜力。]]></description>
+      <description><![CDATA[人手复杂的运动学使得能够同时抓取和操纵多个物体，这对于物体转移和手动操纵等任务至关重要。尽管具有重要意义，但机器人多物体抓取领域相对尚未被探索，并且在运动学、动力学和物体配置方面提出了显着的挑战。这封信介绍了 MultiGrasp，这是一种新颖的两阶段方法，使用桌面上灵巧的多指机器人手来抓取多物体。该过程包括 (i) 生成预抓取建议和 (ii) 执行抓取并举起物体。我们的实验重点主要是双物体抓取，成功率达到 44.13%，突出了对新物体配置的适应性和对不精确抓取的容忍度。此外，该框架还展示了以推理速度为代价来抓取两个以上物体的潜力。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10460998</guid>
       <pubDate>Wed, 06 Mar 2024 13:16:59 GMT</pubDate>
     </item>
