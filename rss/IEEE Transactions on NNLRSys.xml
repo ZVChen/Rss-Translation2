@@ -34,7 +34,7 @@
       <pubDate>Thu, 04 Apr 2024 13:19:47 GMT</pubDate>
     </item>
     <item>
-      <title>客座社论：图的深度神经网络：理论、模型、算法和应用</title>
+      <title>特邀社论：图的深度神经网络：理论、模型、算法和应用</title>
       <link>http://ieeexplore.ieee.org/document/10492652</link>
       <description><![CDATA[图深度神经网络（DNNG）代表了一个新兴领域，研究如何将深度学习方法推广到图结构数据。由于图是一种强大而灵活的工具，可以以模式及其关系的形式表示复杂信息，范围从分子到蛋白质到蛋白质相互作用网络，到社交或运输网络，或者直到知识图，因此有可能以非常高的速度对系统进行建模。不同的规模，这些方法已被用于许多应用领域。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10492652</guid>
