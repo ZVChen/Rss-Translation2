@@ -13,7 +13,7 @@
       <pubDate>Thu, 11 Apr 2024 13:18:49 GMT</pubDate>
     </item>
     <item>
-      <title>Safe-VLN：在连续环境中运行的自主机器人的视觉和语言导航的碰撞避免</title>
+      <title>Safe-VLN：在连续环境中运行的自主机器人的视觉和语言导航的防撞技术</title>
       <link>http://ieeexplore.ieee.org/document/10496163</link>
       <description><![CDATA[连续环境中的视觉和语言导航任务 (VLN-CE) 旨在训练自主代理执行低级操作，以使用视觉观察和语言指令在 3D 连续环境中导航。大量研究已经证明了 VLN-CE 对于移动机器人的巨大潜力。然而，VLN-CE 的大多数现有工作主要侧重于将标准离散视觉和语言导航（VLN）方法转移到连续环境中，而忽略了碰撞问题。这种疏忽通常会导致智能体偏离计划路径，或者在严重的情况下，智能体被困在障碍区域并无法完成导航任务。为了解决上述问题，这封信研究了 VLN-CE 内的各种碰撞场景，并提出了一种分类方法来预测碰撞的根本原因。此外，提出了一种名为 Safe-VLN 的新 VLN-CE 算法，以增强防撞能力，包括两个关键组件，即航路点预测器和导航器。特别是，航路点预测器利用模拟的 2D LiDAR 占用掩模来防止预测的航路点位于障碍物较多的区域。另一方面，导航器采用“碰撞后重新选择”的策略来防止机器人代理陷入永久碰撞的循环中。所提出的 Safe-VLN 在 R2R-CE 上进行了评估，结果表明导航性能得到增强，并且碰撞发生率在统计上显着减少。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10496163</guid>
@@ -41,7 +41,7 @@
       <pubDate>Mon, 08 Apr 2024 13:18:42 GMT</pubDate>
     </item>
     <item>
-      <title>P-AgSLAM：用于玉米田农业监测的行内和冠层下 SLAM</title>
+      <title>P-AgSLAM：用于玉米田农业监测的行内和树冠下 SLAM</title>
       <link>http://ieeexplore.ieee.org/document/10494876</link>
       <description><![CDATA[在这封信中，我们提出了一种名为 Purdue AgSLAM 或 P-AgSLAM 的行内和树冠下同步定位与建图 (SLAM) 框架，该框架专为玉米田中的机器人姿态估计和农业监测而设计。我们的 SLAM 方法主要基于 3D 光检测和测距 (LiDAR) 传感器，旨在提取玉米地的独特形态特征，这些特征与结构化的室内和室外城市环境具有显着不同的特征。该方法的性能已通过模拟和真实玉米田环境中的实验得到验证。 P-AgSLAM 在机器人姿态估计和映射方面优于现有最先进的基于 LiDAR 的状态估计器。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10494876</guid>
