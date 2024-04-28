@@ -41,14 +41,14 @@
       <pubDate>Thu, 04 Apr 2024 13:19:47 GMT</pubDate>
     </item>
     <item>
-      <title>IEEE Transactions on Neural Networks and Learning Systems 作者信息</title>
+      <title>IEEE 神经网络与学习系统学报 作者须知</title>
       <link>http://ieeexplore.ieee.org/document/10492651</link>
       <description><![CDATA[无效的]]></description>
       <guid>http://ieeexplore.ieee.org/document/10492651</guid>
       <pubDate>Thu, 04 Apr 2024 13:19:47 GMT</pubDate>
     </item>
     <item>
-      <title>线性去混杂评分方法：对具有密集未观察到混杂的 DAG 进行评分</title>
+      <title>线性去混杂评分法：对密集未观察到的混杂因素进行评分</title>
       <link>http://ieeexplore.ieee.org/document/10415545</link>
       <description><![CDATA[本文讨论了在存在不可测量的混杂因素的情况下，结合观察数据和关于因果关系本质的定性假设来发现因果关系。我们专注于已知未观察到的变量对许多观察到的变量有广泛影响的应用，这使得基于约束的方法的问题特别困难，因为大多数变量对在给定任何其他子集的情况下都是有条件依赖的，从而呈现因果效应无法识别的。在本文中，我们表明，在独立机制的原则下，这种情况下未观察到的混杂因素会在观察到的数据分布中留下统计足迹，从而可以理清虚假和因果效应。利用这一见解，我们证明了观测变量之间的稀疏线性高斯有向无环图（DAG）可以近似恢复，并提出了一种简单的基于调整分数的因果发现算法，该算法可以使用通用求解器来实现并扩展到高维问题。此外，我们发现，尽管我们提出了保证因果恢复的条件，但实践中的性能对于模型假设的大偏差是稳健的，并且非线性结构模型的扩展是可能的。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10415545</guid>
