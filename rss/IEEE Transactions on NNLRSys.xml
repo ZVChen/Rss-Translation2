@@ -6,7 +6,7 @@
     <description>出版物目录提醒# 5962385</description>
     <lastBuildDate>Thu, 04 Apr 2024 04:00:00 GMT</lastBuildDate>
     <item>
-      <title>IEEE 神经网络和学习系统学报 因果发现和因果关系启发机器学习特刊</title>
+      <title>IEEE Transactions on Neural Networks and Learning Systems 因果发现和因果启发机器学习特刊</title>
       <link>http://ieeexplore.ieee.org/document/10492646</link>
       <description><![CDATA[因果关系是科学和工程的基本概念。它引起了统计学、机器学习 (ML)、医疗保健和人工智能 (AI) 领域研究界的极大兴趣，并且越来越被认为是一个重要的研究领域。因果关系的基本问题之一是如何找到因果结构或潜在的因果模型。因此，本期特刊的一个焦点是因果发现，即我们如何通过自动化程序从观测数据中发现一组变量的因果结构？除了学习因果关系之外，另一个重点是利用因果关系来帮助理解和推进机器学习，即因果关系启发的机器学习。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10492646</guid>
@@ -27,7 +27,7 @@
       <pubDate>Thu, 04 Apr 2024 13:19:47 GMT</pubDate>
     </item>
     <item>
-      <title>IEEE Transactions on Neural Networks and Learning Systems 出版信息</title>
+      <title>IEEE 神经网络与学习系统学报出版信息</title>
       <link>http://ieeexplore.ieee.org/document/10492645</link>
       <description><![CDATA[无效的]]></description>
       <guid>http://ieeexplore.ieee.org/document/10492645</guid>
@@ -57,7 +57,7 @@
     <item>
       <title>点过程的局部独立性测试</title>
       <link>http://ieeexplore.ieee.org/document/10363349</link>
-      <description><![CDATA[点过程基于约束的因果结构学习需要对局部独立性进行实证检验。现有的测试需要强有力的模型假设，例如，真正的数据生成模型是没有潜在混杂因素的霍克斯过程。即使限制对霍克斯过程的关注，潜在的混杂因素也是一个主要的技术困难，因为边缘化过程本身通常不是霍克斯过程。我们引入类似于 Volterra 展开式的展开式作为表示边缘化强度的工具。我们的主要理论结果是，这种扩展可以任意地近似真实的边缘化强度。在此基础上，我们提出了局部独立性的检验，并研究了其在真实和模拟数据中的特性。]]></description>
+      <description><![CDATA[点过程基于约束的因果结构学习需要对局部独立性进行实证检验。现有的测试需要强有力的模型假设，例如，真正的数据生成模型是没有潜在混杂因素的霍克斯过程。即使限制对霍克斯过程的关注，潜在的混杂因素也是一个主要的技术困难，因为边缘化过程本身通常不是霍克斯过程。我们引入类似于 Volterra 展开式的展开式作为表示边缘化强度的工具。我们的主要理论结果是，这种扩展可以任意地近似真实的边缘化强度。在此基础上，我们提出了局部独立性检验，并研究了其在真实和模拟数据中的特性。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10363349</guid>
       <pubDate>Mon, 18 Dec 2023 13:18:13 GMT</pubDate>
     </item>
