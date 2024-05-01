@@ -3,112 +3,112 @@
   <channel>
     <title>ScienceDirect 出版物：农业中的计算机和电子</title>
     <link>https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture</link>
-    <description>ScienceDirect RSS</description>
-    <lastBuildDate>Wed, 01 May 2024 06:11:07 GMT</lastBuildDate>
+    <description>科学直接RSS</description>
+    <lastBuildDate>Wed, 01 May 2024 09:08:58 GMT</lastBuildDate>
+    <item>
+      <title>AIseedSimulation：种子模拟分选软件，用于快速确定种子加工程序和参数</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924003624?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: June 2024Source: Computers and Electronics in Agriculture, Volume 221Author(s): Yanan Xu, Weifeng Wu, Keling Tu, Minjian Sun, He Li, Mang Wang, Qun Sun]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003624?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 01 May 2024 09:08:58 GMT</pubDate>
+    </item>
     <item>
       <title>记录横截面质量指标：评估圆木图像数据用于圆木跟踪的可用性</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924003363?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 6 月来源：农业中的计算机和电子，第 221 卷作者：Georg Wimmer、Rudolf Schraml、亚历山大·佩图茨尼格、安德烈亚斯·乌尔]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003363?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 01 May 2024 06:11:07 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 09:08:57 GMT</pubDate>
     </item>
     <item>
       <title>利用垂直温度分布的机器学习进行小麦早期霜冻检测</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924003417?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 6 月来源：农业中的计算机和电子，第 221 卷作者：Sayma Shammi、Dean Diepeveen、塞巴斯蒂安·赞德、迈克尔·G.K.菲尔多斯·索赫尔·琼斯]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003417?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 01 May 2024 06:11:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>AIseedSimulation：种子模拟分选软件，用于快速确定种子加工程序和参数</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924003624?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: June 2024Source: Computers and Electronics in Agriculture, Volume 221Author(s): Yanan Xu, Weifeng Wu, Keling Tu, Minjian Sun, He Li, Mang Wang, Qun Sun]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003624?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 01 May 2024 06:11:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用机器学习和辐射传输模型通过无人机高光谱遥感估计小麦生物物理变量</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924003338?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 6 月来源：农业中的计算机和电子，第 221 卷作者：Rabi N. Sahoo, R.G. Rejith、Shalini Gakhar、Jochem Verrelst、Rajeev Ranjan、Tarun Kondraju、Mahesh C. Meena、Joydeep Mukherjee、Anchal Dass、Sudhir Kumar、Mahesh Kumar、Raju Dhandapani、Viswanathan Chinnusamy]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003338?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 01 May 2024 06:11:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>结合冠层光谱反射率和 RGB 图像来估算水稻叶片叶绿素含量和籽粒产量</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924003661?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: June 2024Source: Computers and Electronics in Agriculture, Volume 221Author(s): Zhonglin Wang, Xianming Tan, Yangming Ma, Tao Liu, Limei He, Feng Yang, Chuanhai Shu, Leilei Li, Hao Fu, Biao Li, Yongjian Sun, Zhiyuan Yang, Zongkui Chen, Jun Ma]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003661?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 01 May 2024 06:11:06 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 09:08:57 GMT</pubDate>
     </item>
     <item>
       <title>通过机制辅助高斯过程群对 SPAC 系统进行可解释的机器学习：用数据表示系统机制</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924003703?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: June 2024Source: Computers and Electronics in Agriculture, Volume 221Author(s): Lijun Wang, Liangsheng Shi, Xiaolong Hu, Wenxiang Song, Yanling Wang, Yakun Wang, Lei Zhu]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003703?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 01 May 2024 06:11:06 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 09:08:56 GMT</pubDate>
     </item>
     <item>
-      <title>使用低功耗边缘监控系统检测<em>Halyomorpha halys</em></title>
+      <title>使用低功耗边缘监测系统检测 <em>Halyomorpha halys</em></title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924003260?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 6 月来源：农业中的计算机和电子，第 221 卷作者：Amin Kargar、Dimitrios Zorbas、萨尔瓦多·泰德斯科、迈克尔·加夫尼、布伦丹·奥弗林]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003260?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 01 May 2024 06:11:06 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 09:08:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于先验距离嵌入对比学习的樱桃生长模型：预训练、异常检测、语义分割和时间建模</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924003648?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: June 2024Source: Computers and Electronics in Agriculture, Volume 221Author(s): Wei Xu, Ruiya Guo, Pengyu Chen, Li Li, Maomao Gu, Hao Sun, Lingyan Hu, Zumin Wang, Kefeng Li]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003648?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 01 May 2024 09:08:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用机器学习和辐射传输模型通过无人机高光谱遥感估计小麦生物物理变量</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924003338?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 6 月来源：农业中的计算机和电子，第 221 卷作者：Rabi N. Sahoo, R.G. Rejith、Shalini Gakhar、Jochem Verrelst、Rajeev Ranjan、Tarun Kondraju、Mahesh C. Meena、Joydeep Mukherjee、Anchal Dass、Sudhir Kumar、Mahesh Kumar、Raju Dhandapani、Viswanathan Chinnusamy]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003338?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 01 May 2024 09:08:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>结合冠层光谱反射率和 RGB 图像来估算水稻叶片叶绿素含量和籽粒产量</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924003661?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: June 2024Source: Computers and Electronics in Agriculture, Volume 221Author(s): Zhonglin Wang, Xianming Tan, Yangming Ma, Tao Liu, Limei He, Feng Yang, Chuanhai Shu, Leilei Li, Hao Fu, Biao Li, Yongjian Sun, Zhiyuan Yang, Zongkui Chen, Jun Ma]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003661?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 01 May 2024 09:08:55 GMT</pubDate>
     </item>
     <item>
       <title>农场电力系统模拟器（FESS）：模拟奶牛场用电的平台</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924003685?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 6 月来源：农业中的计算机和电子，第 221 卷作者：F. Buckley, J.厄普顿、R.普伦德加斯特、L.沙卢、医学博士墨菲]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003685?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 01 May 2024 06:11:05 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 09:08:54 GMT</pubDate>
     </item>
     <item>
-      <title>复杂场景中基于 MLP 的多模态番茄检测：从特征融合架构的任务特定分析中获得的见解</title>
+      <title>复杂场景中基于 MLP 的多模态番茄检测：特征融合架构特定任务分析的见解</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924003429?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: June 2024Source: Computers and Electronics in Agriculture, Volume 221Author(s): Wenjun Chen, Yuan Rao, Fengyi Wang, Yu Zhang, Tan Wang, Xiu Jin, Wenhui Hou, Zhaohui Jiang, Wu Zhang]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003429?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 01 May 2024 06:11:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于先验距离嵌入对比学习的樱桃生长建模：预训练、异常检测、语义分割和时间建模</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924003648?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: June 2024Source: Computers and Electronics in Agriculture, Volume 221Author(s): Wei Xu, Ruiya Guo, Pengyu Chen, Li Li, Maomao Gu, Hao Sun, Lingyan Hu, Zumin Wang, Kefeng Li]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003648?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 01 May 2024 06:11:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>农作物生产中的人工智能——大型语言模型 (LLM) 在哪里可以提供巨大的价值？</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924003156?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 6 月来源：农业中的计算机和电子，第 221 卷作者：Matheus Thomas Kuska、Mirwaes Wahabzada ，斯特凡·保卢斯]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003156?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 01 May 2024 06:11:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果自动化果园设备的进展：综合研究</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S016816992400317X?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 6 月来源：农业中的计算机和电子，第 221 卷作者：Mustafa Mhamed、Zhao Zhu、于江凡、李逸飞、张曼]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S016816992400317X?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 01 May 2024 06:11:04 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 09:08:54 GMT</pubDate>
     </item>
     <item>
       <title>养鸡机器人在养鸡任务中的发展及趋势：综述</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924003077?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 6 月来源：农业计算机与电子，第 221 卷作者：杨冬儿、崔迪、英宜宾]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003077?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 01 May 2024 06:11:04 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 09:08:53 GMT</pubDate>
     </item>
     <item>
       <title>基于改进ResNet和融合多源信息的活鸡腿长测量方法</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924003569?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: June 2024Source: Computers and Electronics in Agriculture, Volume 221Author(s): Chuang Ma, Tiemin Zhang, Haikun Zheng, Jikang Yang, Ruitian Chen, Cheng Fang]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003569?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 01 May 2024 06:11:04 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 09:08:53 GMT</pubDate>
     </item>
     <item>
       <title>“基于聚类的无人机和地面 LiDAR 森林点云自动配准”的勘误 [Comput.电子。农业，217（2024）108648]</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924003727?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: June 2024Source: Computers and Electronics in Agriculture, Volume 221Author(s): Junhua Chen, Dan Zhao, Zhaoju Zheng, Cong Xu, Yong Pang, Yuan Zeng]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003727?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 01 May 2024 06:11:03 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 09:08:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>农作物生产中的人工智能——大型语言模型 (LLM) 在哪里可以提供巨大的价值？</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924003156?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 6 月来源：农业中的计算机和电子，第 221 卷作者：Matheus Thomas Kuska、Mirwaes Wahabzada ，斯特凡·保卢斯]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003156?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 01 May 2024 09:08:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果自动化果园设备的进步：一项全面的研究</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S016816992400317X?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 6 月来源：农业中的计算机和电子，第 221 卷作者：Mustafa Mhamed、Zhao Zhu、于江凡、李逸飞、张曼]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S016816992400317X?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 01 May 2024 09:08:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
