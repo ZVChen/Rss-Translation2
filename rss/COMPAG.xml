@@ -1,114 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>ScienceDirect 出版物：农业中的计算机和电子</title>
+    <title>ScienceDirect 出版物：农业中的计算机和电子技术</title>
     <link>https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture</link>
     <description>科学直接RSS</description>
-    <lastBuildDate>Sat, 04 May 2024 00:33:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 03:09:06 GMT</lastBuildDate>
+    <item>
+      <title>农场电力系统模拟器 (FESS)：模拟奶牛场用电的平台</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924003685?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 6 月来源：农业中的计算机和电子，第 221 卷作者：F. Buckley, J.厄普顿、R.普伦德加斯特、L.沙卢、医学博士墨菲]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003685?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 04 May 2024 03:09:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>复杂场景中基于 MLP 的多模态番茄检测：从特征融合架构的任务特定分析中获得的见解</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924003429?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: June 2024Source: Computers and Electronics in Agriculture, Volume 221Author(s): Wenjun Chen, Yuan Rao, Fengyi Wang, Yu Zhang, Tan Wang, Xiu Jin, Wenhui Hou, Zhaohui Jiang, Wu Zhang]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003429?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 04 May 2024 03:09:05 GMT</pubDate>
+    </item>
     <item>
       <title>基于先验距离嵌入对比学习的樱桃生长建模：预训练、异常检测、语义分割和时间建模</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924003648?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: June 2024Source: Computers and Electronics in Agriculture, Volume 221Author(s): Wei Xu, Ruiya Guo, Pengyu Chen, Li Li, Maomao Gu, Hao Sun, Lingyan Hu, Zumin Wang, Kefeng Li]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003648?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 04 May 2024 00:33:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于改进ResNet和融合多源信息的活鸡腿长测量方法</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924003569?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: June 2024Source: Computers and Electronics in Agriculture, Volume 221Author(s): Chuang Ma, Tiemin Zhang, Haikun Zheng, Jikang Yang, Ruitian Chen, Cheng Fang]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003569?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 04 May 2024 00:33:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>农场电力系统模拟器（FESS）：模拟奶牛场用电的平台</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924003685?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 6 月来源：农业中的计算机和电子，第 221 卷作者：F. Buckley, J.厄普顿、R.普伦德加斯特、L.沙卢、医学博士墨菲]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003685?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 04 May 2024 00:33:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>复杂场景中基于 MLP 的多模态番茄检测：特征融合架构特定任务分析的见解</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924003429?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: June 2024Source: Computers and Electronics in Agriculture, Volume 221Author(s): Wenjun Chen, Yuan Rao, Fengyi Wang, Yu Zhang, Tan Wang, Xiu Jin, Wenhui Hou, Zhaohui Jiang, Wu Zhang]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003429?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 04 May 2024 00:33:31 GMT</pubDate>
+      <pubDate>Sat, 04 May 2024 03:09:05 GMT</pubDate>
     </item>
     <item>
       <title>基于无人机（UAV）的油菜不同生长阶段作物倒伏易感性和种子产量评估（<em>甘蓝型油菜</em>）</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924003715?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 6 月来源：农业中的计算机和电子，第 221 卷作者：Zhaojie Li、Farooq Shah、李雄、张健、吴伟]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003715?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 04 May 2024 00:33:30 GMT</pubDate>
+      <pubDate>Sat, 04 May 2024 03:09:04 GMT</pubDate>
     </item>
     <item>
       <title>基于学习的双层控制方法后轮独立驱动电动拖拉机犁地作业横摆稳定性仿真研究</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924003764?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: June 2024Source: Computers and Electronics in Agriculture, Volume 221Author(s): Zhen-hao Luo, Bin Xie, Zhong-ju Chen, Sheng-li Zhang, Zi-hao Zhao, Bo-wen Zheng, Chang-kai Wen, Zheng-he Song]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003764?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 04 May 2024 00:33:30 GMT</pubDate>
+      <pubDate>Sat, 04 May 2024 03:09:04 GMT</pubDate>
     </item>
     <item>
-      <title>YOLOv5s-CEDB：一种在复杂自然场景中稳健高效的油茶果实检测算法</title>
+      <title>YOLOv5s-CEDB：复杂自然场景下鲁棒高效的油茶果实检测算法</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924003752?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: June 2024Source: Computers and Electronics in Agriculture, Volume 221Author(s): Aobin Zhu, Ruirui Zhang, Linhuan Zhang, Tongchuan Yi, Liwan Wang, Danzhu Zhang, Liping Chen]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003752?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 04 May 2024 00:33:30 GMT</pubDate>
+      <pubDate>Sat, 04 May 2024 03:09:04 GMT</pubDate>
     </item>
     <item>
-      <title>考虑树木大小和土壤空间变异对果园淋滤的影响</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924003879?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 6 月来源：农业中的计算机和电子产品，第 221 卷作者：Tuvia Turkeltaub、Bar Peltin、阿维兹·达甘、塔林·帕兹-卡根、埃兰·拉夫、萨哈尔·巴拉姆]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003879?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 04 May 2024 00:33:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿根廷卫星大豆产量预测：面板回归与深度学习方法的比较</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924003697?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: June 2024Source: Computers and Electronics in Agriculture, Volume 221Author(s): Yuhao Wang, Kuishuang Feng, Laixiang Sun, Yiqun Xie, Xiao-Peng Song]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003697?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 04 May 2024 00:33:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>模拟果园环境中2D LiDAR SLAM算法的性能评估</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924003855?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 6 月来源：《农业计算机与电子学》，第 221 卷作者：李秋杰、朱宏毅&lt; /p&gt;]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003855?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 04 May 2024 00:33:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>农作物生产中的人工智能——大型语言模型 (LLM) 在哪里可以提供巨大的价值？</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924003156?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 6 月来源：农业中的计算机和电子，第 221 卷作者：Matheus Thomas Kuska、Mirwaes Wahabzada ，斯特凡·保卢斯]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003156?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 04 May 2024 00:33:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果自动化果园设备的进展：综合研究</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S016816992400317X?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 6 月来源：农业中的计算机和电子，第 221 卷作者：Mustafa Mhamed、Zhao Zhu、于江凡、李逸飞、张曼]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S016816992400317X?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 04 May 2024 00:33:28 GMT</pubDate>
+      <title>基于改进ResNet和融合多源信息的活鸡腿长测量方法</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924003569?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: June 2024Source: Computers and Electronics in Agriculture, Volume 221Author(s): Chuang Ma, Tiemin Zhang, Haikun Zheng, Jikang Yang, Ruitian Chen, Cheng Fang]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003569?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 04 May 2024 03:09:04 GMT</pubDate>
     </item>
     <item>
       <title>养鸡机器人在养鸡任务中的发展及趋势：综述</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924003077?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 6 月来源：农业计算机与电子，第 221 卷作者：杨冬儿、崔迪、英宜宾]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003077?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 04 May 2024 00:33:28 GMT</pubDate>
+      <pubDate>Sat, 04 May 2024 03:09:03 GMT</pubDate>
     </item>
     <item>
-      <title>想象人工智能驱动的发展中国家和新兴经济体农业管理决策</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924003375?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 6 月来源：农业中的计算机和电子，第 221 卷作者：Ume Chukwuma、Kifle G.丹尼尔·多尤姆·尤耶 (Daniel Doyum Uyeh) 格布雷梅丁]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003375?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 04 May 2024 00:33:27 GMT</pubDate>
+      <title>考虑树木大小和土壤空间变异对果园淋滤的影响</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924003879?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 6 月来源：农业中的计算机和电子产品，第 221 卷作者：Tuvia Turkeltaub、Bar Peltin、阿维兹·达甘、塔林·帕兹-卡根、埃兰·拉夫、萨哈尔·巴拉姆]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003879?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 04 May 2024 03:09:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于卫星的阿根廷大豆产量预测：面板回归与深度学习方法的比较</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924003697?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: June 2024Source: Computers and Electronics in Agriculture, Volume 221Author(s): Yuhao Wang, Kuishuang Feng, Laixiang Sun, Yiqun Xie, Xiao-Peng Song]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003697?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 04 May 2024 03:09:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>模拟果园环境中2D LiDAR SLAM算法的性能评估</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924003855?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 6 月来源：农业计算机与电子学，第 221 卷作者：李秋杰、朱宏毅&lt; /p&gt;]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003855?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 04 May 2024 03:09:03 GMT</pubDate>
     </item>
     <item>
       <title>“基于聚类的无人机和地面 LiDAR 森林点云自动配准”的勘误 [Comput.电子。农业，217（2024）108648]</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924003727?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: June 2024Source: Computers and Electronics in Agriculture, Volume 221Author(s): Junhua Chen, Dan Zhao, Zhaoju Zheng, Cong Xu, Yong Pang, Yuan Zeng]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003727?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 04 May 2024 00:33:27 GMT</pubDate>
+      <pubDate>Sat, 04 May 2024 03:09:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>农作物生产中的人工智能——大型语言模型 (LLM) 在哪里可以提供巨大的价值？</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924003156?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 6 月来源：《农业中的计算机和电子技术》，第 221 卷作者：Matheus Thomas Kuska、Mirwaes Wahabzada、Stefan Paulus]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003156?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 04 May 2024 03:09:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果自动化果园设备的进展：综合研究</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S016816992400317X?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 6 月来源：农业中的计算机和电子，第 221 卷作者：Mustafa Mhamed、Zhao Zhu、于江凡、李逸飞、张曼]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S016816992400317X?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 04 May 2024 03:09:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>想象人工智能驱动的发展中国家和新兴经济体农业管理决策</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924003375?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 6 月来源：农业中的计算机和电子，第 221 卷作者：Ume Chukwuma、Kifle G.丹尼尔·多尤姆·尤耶 (Daniel Doyum Uyeh) 格布雷梅丁]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003375?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 04 May 2024 03:09:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
