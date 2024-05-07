@@ -4,111 +4,111 @@
     <title>ScienceDirect 出版物：模式识别</title>
     <link>https://www.sciencedirect.com/journal/pattern-recognition</link>
     <description>科学直接RSS</description>
-    <lastBuildDate>Tue, 07 May 2024 06:11:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 09:08:39 GMT</lastBuildDate>
+    <item>
+      <title>用于矩阵补全的正交子空间探索</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324002073?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024年9月来源：模式识别，第153卷作者：张宏远、焦自恒、李学龙&lt; /p&gt;]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002073?dgcid=rss_sd_all</guid>
+      <pubDate>Tue, 07 May 2024 09:08:38 GMT</pubDate>
+    </item>
     <item>
       <title>软独立引导过滤器剪枝</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324002395?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: September 2024Source: Pattern Recognition, Volume 153Author(s): Liu Yang, Shiqiao Gu, Chenyang Shen, Xile Zhao, Qinghua Hu]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002395?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 May 2024 06:11:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于无限混合原型的面部表情早期事件检测</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324002784?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 9 月来源：《模式识别》，第 153 卷作者：杨志芳、邱黛仪]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002784?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 May 2024 06:11:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dual GroupGAN：一种用于视频异常检测的无监督四竞争者 (2V2) 方法</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324002516?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024年9月来源：模式识别，第153卷作者：孙喆、王盼盼、王征、张萌]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002516?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 May 2024 06:11:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>矩阵补全的正交子空间探索</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324002073?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024年9月来源：模式识别，第153卷作者：张宏远、焦自恒、李学龙&lt; /p&gt;]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002073?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 May 2024 06:11:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有嵌入式正则化的深度和广泛的非负矩阵分解</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324002814?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 9 月来源：《模式识别》，第 153 卷作者：Hojjat Moayed、Eghbal G. Mansoorip&gt;]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002814?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 May 2024 06:11:34 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 09:08:38 GMT</pubDate>
     </item>
     <item>
       <title>通过 Universum 嵌入进行特征选择</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324002656?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 9 月来源：模式识别，第 153 卷作者：Chun-Na Li、Ling-Wei Huang 、邵元海、郭婷婷、毛雨]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002656?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 May 2024 06:11:34 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 09:08:37 GMT</pubDate>
     </item>
     <item>
       <title>通过局部归纳偏置合并增强视觉转换器在小数据集上的性能</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324002619?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 9 月来源：《模式识别》，第 153 卷作者：The Forerunner，Bahram Zonooz]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002619?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 May 2024 06:11:34 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 09:08:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于无限混合原型的面部表情早期事件检测</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324002784?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 9 月来源：《模式识别》，第 153 卷作者：杨志芳、邱黛仪]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002784?dgcid=rss_sd_all</guid>
+      <pubDate>Tue, 07 May 2024 09:08:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dual GroupGAN：一种用于视频异常检测的无监督四竞争者 (2V2) 方法</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324002516?dgcid=rss_sd_all</link>
+      <description><![CDATA[发表日期：2024年9月来源：模式识别，第153卷作者：孙喆、王盼盼、王征、张萌]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002516?dgcid=rss_sd_all</guid>
+      <pubDate>Tue, 07 May 2024 09:08:37 GMT</pubDate>
     </item>
     <item>
       <title>具有多级原型的动态异构联邦学习</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324002930?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024年9月来源：模式识别，第153卷作者：郭顺鑫、王红松、耿鑫&lt; /p&gt;]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002930?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 May 2024 06:11:33 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 09:08:36 GMT</pubDate>
     </item>
     <item>
-      <title>重新解耦少类场景中物体检测器的分类分支</title>
+      <title>具有嵌入式正则化的深度和广度非负矩阵分解</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324002814?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 9 月来源：《模式识别》，第 153 卷作者：Hojjat Moayed、Eghbal G. Mansoorip&gt;]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002814?dgcid=rss_sd_all</guid>
+      <pubDate>Tue, 07 May 2024 09:08:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>针对少类场景重新解耦对象检测器中的分类分支</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324002929?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: September 2024Source: Pattern Recognition, Volume 153Author(s): Jie Hua, Zhongyuan Wang, Qin Zou, Jinsheng Xiao, Xin Tian, Yufei Zhang]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002929?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 May 2024 06:11:32 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 09:08:35 GMT</pubDate>
     </item>
     <item>
       <title>半监督图域适应的信息过滤和插值</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324002498?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: September 2024Source: Pattern Recognition, Volume 153Author(s): Ziyue Qiao, Meng Xiao, Weiyu Guo, Xiao Luo, Hui Xiong]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002498?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 May 2024 06:11:32 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 09:08:35 GMT</pubDate>
     </item>
     <item>
-      <title>通过知识提取进行弱特权学习</title>
+      <title>具有知识提取的弱特权学习</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324002681?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: September 2024Source: Pattern Recognition, Volume 153Author(s): Saiji Fu, Tianyi Dong, Zhaoxin Wang, Yingjie Tian]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002681?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 May 2024 06:11:32 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 09:08:35 GMT</pubDate>
     </item>
     <item>
       <title>PARDet：用于旋转对象检测的动态点集对齐</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324002851?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 9 月来源：模式识别，第 153 卷作者：徐一豪、沉继峰、戴明、杨万口]]></description>
+      <description><![CDATA[出版日期：2024年9月来源：模式识别，第153卷作者：徐一豪、沉继峰、戴明、杨万口]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002851?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 May 2024 06:11:31 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 09:08:34 GMT</pubDate>
     </item>
     <item>
       <title>记忆自适应视觉和语言导航</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324002620?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: September 2024Source: Pattern Recognition, Volume 153Author(s): Keji He, Ya Jing, Yan Huang, Zhihe Lu, Dong An, Liang Wang]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002620?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 May 2024 06:11:31 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 09:08:34 GMT</pubDate>
     </item>
     <item>
       <title>通过扩散模型的自估计深度表示进行深度感知引导</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324002255?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 9 月来源：模式识别，第 153 卷作者：Gyeongnyeon Kim、Wooseok Jang、Gyuseong Lee、 Susung Hong、Junyoung Seo、Seungryong Kim]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002255?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 May 2024 06:11:31 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 09:08:34 GMT</pubDate>
     </item>
     <item>
       <title>点亮我：适用于野外条件的无参考自适应低光图像增强</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324002413?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 9 月来源：《模式识别》，第 153 卷作者：Rizwan Khan、Atif Mehmood、Farah Shahid、郑中龙、Mostafa M. Ibrahim]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002413?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 07 May 2024 06:11:30 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 09:08:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
