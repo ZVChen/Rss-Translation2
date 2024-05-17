@@ -4,111 +4,111 @@
     <title>ScienceDirect 出版物：模式识别</title>
     <link>https://www.sciencedirect.com/journal/pattern-recognition</link>
     <description>科学直接RSS</description>
-    <lastBuildDate>Fri, 17 May 2024 00:35:36 GMT</lastBuildDate>
-    <item>
-      <title>复合卷积：用于 3D 点云深度学习的灵活算子</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S003132032400308X?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 9 月来源：《模式识别》，第 153 卷作者：Alberto Floris、Luca Frittoli、Diego Carrera、贾科莫·博拉基]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S003132032400308X?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 17 May 2024 00:35:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有基于 BN 的结构压缩器的高效从头开始训练框架</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324002978?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 9 月来源：模式识别，第 153 卷作者：胡富一、张进、高松、林宇、周伟、王如心]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002978?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 17 May 2024 00:35:35 GMT</pubDate>
-    </item>
+    <lastBuildDate>Fri, 17 May 2024 03:09:05 GMT</lastBuildDate>
     <item>
       <title>Granular3D：深入研究多粒度 3D 场景图预测</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324003133?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: September 2024Source: Pattern Recognition, Volume 153Author(s): Kaixiang Huang, Jingru Yang, Jin Wang, Shengfeng He, Zhan Wang, Haiyan He, Qifeng Zhang, Guodong Lu]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003133?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 17 May 2024 00:35:35 GMT</pubDate>
+      <pubDate>Fri, 17 May 2024 03:09:05 GMT</pubDate>
     </item>
     <item>
-      <title>具有自回归误差的非线性回归的分布式统计学习算法</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324003029?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024年9月来源：模式识别，第153卷作者：李少民、孙晓飞、王康宁&lt; /p&gt;]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003029?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 17 May 2024 00:35:34 GMT</pubDate>
+      <title>复合卷积：一种适用于 3D 点云深度学习的灵活算子</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S003132032400308X?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 9 月来源：《模式识别》，第 153 卷作者：Alberto Floris、Luca Frittoli、Diego Carrera、贾科莫·博拉基]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S003132032400308X?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 17 May 2024 03:09:05 GMT</pubDate>
     </item>
     <item>
-      <title>Robformer：用于长期时间序列预测的稳健分解转换器</title>
+      <title>Robformer：用于长期时间序列预测的稳健分解变压器</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324003030?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024年9月来源：模式识别，第153卷作者：于洋、马瑞哲、马宗敏&lt; /p&gt;]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003030?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 17 May 2024 00:35:34 GMT</pubDate>
+      <pubDate>Fri, 17 May 2024 03:09:04 GMT</pubDate>
     </item>
     <item>
       <title>通过知识提取进行弱特权学习</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324002681?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: September 2024Source: Pattern Recognition, Volume 153Author(s): Saiji Fu, Tianyi Dong, Zhaoxin Wang, Yingjie Tian]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002681?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 17 May 2024 00:35:34 GMT</pubDate>
+      <pubDate>Fri, 17 May 2024 03:09:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有基于 BN 的结构压缩器的高效从头开始训练框架</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324002978?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 9 月来源：模式识别，第 153 卷作者：胡富一、张进、高松、林宇、周伟、王如心]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002978?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 17 May 2024 03:09:04 GMT</pubDate>
     </item>
     <item>
       <title>针对少类场景重新解耦对象检测器中的分类分支</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324002929?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: September 2024Source: Pattern Recognition, Volume 153Author(s): Jie Hua, Zhongyuan Wang, Qin Zou, Jinsheng Xiao, Xin Tian, Yufei Zhang]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002929?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 17 May 2024 00:35:33 GMT</pubDate>
+      <pubDate>Fri, 17 May 2024 03:09:03 GMT</pubDate>
     </item>
     <item>
-      <title>半监督图域自适应的信息过滤和插值</title>
+      <title>半监督图域适应的信息过滤和插值</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324002498?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: September 2024Source: Pattern Recognition, Volume 153Author(s): Ziyue Qiao, Meng Xiao, Weiyu Guo, Xiao Luo, Hui Xiong]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002498?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 17 May 2024 00:35:33 GMT</pubDate>
+      <pubDate>Fri, 17 May 2024 03:09:03 GMT</pubDate>
     </item>
     <item>
-      <title>记忆自适应视觉和语言导航</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324002620?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: September 2024Source: Pattern Recognition, Volume 153Author(s): Keji He, Ya Jing, Yan Huang, Zhihe Lu, Dong An, Liang Wang]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002620?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 17 May 2024 00:35:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过扩散模型的自估计深度表示进行深度感知引导</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324002255?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 9 月来源：模式识别，第 153 卷作者：Gyeongnyeon Kim、Wooseok Jang、Gyuseong Lee、 Susung Hong、Junyoung Seo、Seungryong Kim]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002255?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 17 May 2024 00:35:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>专注于信息图表！用于图级分类的半监督主动学习</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324003182?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: September 2024Source: Pattern Recognition, Volume 153Author(s): Wei Ju, Zhengyang Mao, Ziyue Qiao, Yifang Qin, Siyu Yi, Zhiping Xiao, Xiao Luo, Yanjie Fu, Ming Zhang]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003182?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 17 May 2024 00:35:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>TSAR-MVS：无纹理感知分割和相关细化引导的多视图立体</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324003169?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024年10月来源：模式识别，第154卷作者：袁振龙、曹家凯、王兆琪、李兆新]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003169?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 17 May 2024 00:35:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>点亮我：适用于野外条件的无参考自适应低光图像增强</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324002413?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 9 月来源：《模式识别》，第 153 卷作者：Rizwan Khan、Atif Mehmood、Farah Shahid、郑中龙、Mostafa M. Ibrahim]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002413?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 17 May 2024 00:35:31 GMT</pubDate>
+      <title>具有自回归误差的非线性回归的分布式统计学习算法</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324003029?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024年9月来源：模式识别，第153卷作者：李少民、孙晓飞、王康宁&lt; /p&gt;]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003029?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 17 May 2024 03:09:03 GMT</pubDate>
     </item>
     <item>
       <title>PARDet：用于旋转对象检测的动态点集对齐</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324002851?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024年9月来源：模式识别，第153卷作者：徐一豪、沉继峰、戴明、杨万口]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002851?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 17 May 2024 00:35:31 GMT</pubDate>
+      <pubDate>Fri, 17 May 2024 03:09:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>记忆自适应视觉和语言导航</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324002620?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: September 2024Source: Pattern Recognition, Volume 153Author(s): Keji He, Ya Jing, Yan Huang, Zhihe Lu, Dong An, Liang Wang]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002620?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 17 May 2024 03:09:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过扩散模型的自估计深度表示进行深度感知引导</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324002255?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 9 月来源：模式识别，第 153 卷作者：Gyeongnyeon Kim、Wooseok Jang、Gyuseong Lee、 Susung Hong、Junyoung Seo、Seungryong Kim]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002255?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 17 May 2024 03:09:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>专注于信息图表！用于图级分类的半监督主动学习</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324003182?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: September 2024Source: Pattern Recognition, Volume 153Author(s): Wei Ju, Zhengyang Mao, Ziyue Qiao, Yifang Qin, Siyu Yi, Zhiping Xiao, Xiao Luo, Yanjie Fu, Ming Zhang]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003182?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 17 May 2024 03:09:02 GMT</pubDate>
     </item>
     <item>
       <title>一种用于息肉分割的新型非预训练深度监督网络</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324003054?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: October 2024Source: Pattern Recognition, Volume 154Author(s): Zhenni Yu, Li Zhao, Tangfei Liao, Xiaoqin Zhang, Geng Chen, Guobao Xiao]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003054?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 17 May 2024 00:35:30 GMT</pubDate>
+      <pubDate>Fri, 17 May 2024 03:09:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>TSAR-MVS：无纹理感知分割和相关细化引导的多视图立体</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324003169?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024年10月来源：模式识别，第154卷作者：袁振龙、曹家凯、王兆琪、李兆新]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003169?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 17 May 2024 03:09:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>点亮我：适用于野外条件的免费参考自适应低光图像增强</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324002413?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 9 月来源：《模式识别》，第 153 卷作者：Rizwan Khan、Atif Mehmood、Farah Shahid、郑中龙、Mostafa M. Ibrahim]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002413?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 17 May 2024 03:09:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
