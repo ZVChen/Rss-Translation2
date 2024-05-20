@@ -3,7 +3,7 @@
   <channel>
     <title>IEEE 机器人学报 - 新目录</title>
     <link>http://ieeexplore.ieee.org</link>
-    <description>出版物 TOC 警报# 8860</description>
+    <description>出版物编号 8860 的目录提醒</description>
     <lastBuildDate>Tue, 19 Dec 2023 05:00:00 GMT</lastBuildDate>
     <item>
       <title>IEEE 机器人学刊物信息</title>
@@ -62,7 +62,7 @@
       <pubDate>Wed, 25 Oct 2023 13:16:27 GMT</pubDate>
     </item>
     <item>
-      <title>分布式位姿图优化的主要化最小化方法</title>
+      <title>分布式位姿图优化的主化最小化方法</title>
       <link>http://ieeexplore.ieee.org/document/10286063</link>
       <description><![CDATA[我们考虑分布式位姿图优化（PGO）问题，该问题在多机器人同时定位和建图（SLAM）中具有重要应用。我们提出了分布式 PGO 的主化最小化 (MM) 方法 ($\mathsf {MM\text{--}PGO}$)，该方法适用于广泛的鲁棒损失内核。 $\mathsf {MM\text{--}PGO}$方法保证在温和条件下收敛到一阶临界点。此外，注意到 $\mathsf {MM\text{--}PGO}$ 方法让人想起近端方法，我们利用 Nesterov 的方法并采用自适应重启来加速收敛。由此产生的分布式 PGO 的加速 MM 方法——网络中具有主节点 ($\mathsf {AMM\text{--}PGO}^*$) 和不具有 ($\mathsf {AMM\text{--}PGO) }^{\#}$)—与 $\mathsf {MM\text{--}PGO}$ 方法相比，收敛速度更快，且不牺牲理论保证。特别是$\mathsf {AMM\text{--}PGO}^{\#}$方法，不需要主节点并且完全去中心化，具有新颖的自适应重启方案，并且具有与$\mathsf {AMM\text{--}PGO}^*$ 方法使用主节点聚合来自所有节点的信息。这项工作的有效性通过对 2-D 和 3-D SLAM 基准数据集的广泛应用以及与现有最先进方法的全面比较得到了验证，表明我们的 MM 方法收敛速度更快，并为分布式 PGO 提供了更好的解决方案。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10286063</guid>
@@ -71,7 +71,7 @@
     <item>
       <title>基于优化的动态腿式机器人控制</title>
       <link>http://ieeexplore.ieee.org/document/10286076</link>
-      <description><![CDATA[在一个为腿部设计的世界中，四足动物、两足动物和类人动物有机会影响新兴的机器人应用，从物流到农业再到家庭援助。本调查的目的是涵盖这些应用的最新进展，这些进展是由基于模型的优化推动的，用于实时生成和控制运动。大多数研究界都集中在通过以基于模型或数据驱动的方式解决最优控制问题 (OCP) 来生成运动控制律的想法上。然而，由于间歇性单向接触环境的复杂性以及腿式机器人的众多自由度，在线解决这些问题中最普遍的问题仍然难以解决。本调查涵盖了使这些 OCP 在计算上易于处理的方法，特别关注如何处理环境接触、如何简化模型以及这些选择如何影响所采用的数值解方法。本调查侧重于基于模型的优化，同时为更广泛地结合基于学习的公式以加速这一不断发展的领域的进步铺平了道路。]]></description>
+      <description><![CDATA[在一个专为腿部设计的世界中，四足动物、两足动物和类人动物有机会影响从物流、农业到家庭援助等新兴机器人应用。本次调查的目的是涵盖这些应用的最新进展，这些应用是由基于模型的运动实时生成和控制优化驱动的。大多数研究界都集中在通过以基于模型或数据驱动的方式解决最优控制问题（OCP）来生成运动控制律的想法上。然而，由于与环境的间歇性单向接触以及腿式机器人的多个自由度的复杂性，在线解决这些最常见的问题仍然很棘手。这项调查涵盖了使这些 OCP 易于计算处理的方法，特别关注如何处理环境接触、如何简化模型以及这些选择如何影响所采用的数值求解方法。该调查重点关注基于模型的优化，同时为与基于学习的公式更广泛的结合铺平道路，以加速这一不断发展的领域的进展。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10286076</guid>
       <pubDate>Mon, 16 Oct 2023 13:17:19 GMT</pubDate>
     </item>
