@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>IEEE Transactions on Neural Networks and Learning Systems - 新目录</title>
+    <title>IEEE 神经网络和学习系统学报 - 新目录</title>
     <link>http://ieeexplore.ieee.org</link>
     <description>出版物目录提醒# 5962385</description>
     <lastBuildDate>Thu, 02 May 2024 04:00:00 GMT</lastBuildDate>
@@ -62,7 +62,7 @@
       <pubDate>Wed, 20 Sep 2023 14:12:53 GMT</pubDate>
     </item>
     <item>
-      <title>用于解决复杂梁系统中正问题和逆问题的物理信息神经网络</title>
+      <title>用于解决复杂梁系统中的正向和逆向问题的物理信息神经网络</title>
       <link>http://ieeexplore.ieee.org/document/10255379</link>
       <description><![CDATA[本文提出了一种新的框架，使用物理信息神经网络（PINN）来模拟由基于欧拉-伯努利和铁木辛科理论的单梁和双梁组成的复杂结构系统，其中双梁与温克勒基础相连。特别是，欧拉-伯努利和铁莫申科偏微分方程 (PDE) 的正向和逆向问题可以使用具有物理信息损失函数的无量纲方程来求解。高阶复梁偏微分方程可有效求解正向问题，以计算横向位移和横截面旋转，误差小于 $1e-3$%。此外，即使在有噪声数据的情况下，也可以稳健地解决反问题，以确定未知的无量纲模型参数和整个时空域中的施加力。结果表明，PINN 是解决涉及梁系统的工程结构和机器问题的一种有前途的策略。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10255379</guid>
@@ -97,9 +97,9 @@
       <pubDate>Fri, 16 Jun 2023 14:01:04 GMT</pubDate>
     </item>
     <item>
-      <title>用于过程监控的基于 VAE 的可解释潜变量模型</title>
+      <title>基于 VAE 的可解释隐变量过程监控模型</title>
       <link>http://ieeexplore.ieee.org/document/10149177</link>
-      <description><![CDATA[基于潜在变量的过程监控（PM）模型已经通过浅层学习方法（例如多元统计分析和核技术）得到了广泛的开发。由于其明确的投影目标，提取的潜在变量通常是有意义的并且易于用数学术语解释。最近，深度学习（DL）被引入到PM中，并因其强大的表示能力而表现出了优异的性能。然而，其复杂的非线性使其无法被解释为人类友好的。如何设计合适的网络结构以使基于深度学习的潜变量模型 (LVM) 获得令人满意的 PM 性能是一个谜。在本文中，为 PM 开发了一种基于变分自动编码器的可解释 LVM (VAE-ILVM)。基于泰勒展开式，提出了两个命题来指导 VAE-ILVM 适当激活函数的设计，允许生成的监控指标（MM）中包含非消失的故障影响项。在阈值学习期间，测试统计量超过阈值的计数序列被认为是鞅，是弱相关随机过程的代表。然后采用德拉佩尼亚不等式来学习合适的阈值。最后，两个化学例子验证了该方法的有效性。德拉佩纳不等式的使用显着减少了建模所需的最小样本量。]]></description>
+      <description><![CDATA[基于潜变量的过程监控 (PM) 模型已通过浅层学习方法（例如多元统计分析和核技术）得到了广泛的开发。由于其明确的投影目标，提取的潜变量通常有意义且易于用数学术语解释。最近，深度学习 (DL) 已被引入 PM，并因其强大的呈现能力而表现出色。然而，其复杂的非线性使其无法被解释为人性化的。如何设计适当的网络结构以实现基于 DL 的潜变量模型 (LVM) 令人满意的 PM 性能是一个谜。在本文中，为 PM 开发了一种基于变分自编码器的可解释 LVM (VAE-ILVM)。基于泰勒展开，提出了两个命题来指导 VAE-ILVM 的适当激活函数的设计，允许生成的监控指标 (MM) 中包含不消失的故障影响项。在阈值学习期间，测试统计量超过阈值的计数序列被视为马丁格尔，这是弱相关随机过程的代表。然后采用de la Peña不等式来学习合适的阈值。最后，两个化学例子验证了所提方法的有效性。de la Peña不等式的使用大大减少了建模所需的最小样本量。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10149177</guid>
       <pubDate>Tue, 13 Jun 2023 14:00:57 GMT</pubDate>
     </item>
