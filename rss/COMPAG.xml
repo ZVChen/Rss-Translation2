@@ -1,114 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>ScienceDirect 出版物：农业中的计算机和电子</title>
+    <title>ScienceDirect 出版物：农业中的计算机和电子技术</title>
     <link>https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture</link>
     <description>科学直接RSS</description>
-    <lastBuildDate>Wed, 22 May 2024 18:10:32 GMT</lastBuildDate>
-    <item>
-      <title>用于精准家禽监测的创新分段模型</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924004368?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: July 2024Source: Computers and Electronics in Agriculture, Volume 222Author(s): Xiao Yang, Haixing Dai, Zihao Wu, Ramesh Bahadur Bist, Sachin Subedi, Jin Sun, Guoyu Lu, Changying Li, Tianming Liu, Lilong Chai]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924004368?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 22 May 2024 18:10:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于双分支组合模型的苜蓿多深度土壤湿度预测方法</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924004290?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 7 月来源：《农业中的计算机和电子技术》，第 222 卷作者：刘锐、陆立峰、葛永琪、董立国、周娟]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924004290?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 22 May 2024 18:10:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>FieldSeg-DA2.0：利用多源遥感和土地覆盖数据进一步增强单个耕地（IAF）提取网络的时空可转移性</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924004411?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 7 月来源：农业中的计算机和电子，第 222 卷作者：田春、陈雪红、陈金、曹如茵、刘帅军]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924004411?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 22 May 2024 18:10:31 GMT</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 May 2024 21:08:35 GMT</lastBuildDate>
     <item>
       <title>天气发生器与作物模型的耦合，用于中国河南省增强型低温胁迫样本增强</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924004447?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: July 2024Source: Computers and Electronics in Agriculture, Volume 222Author(s): Jiameng Chen, Junming Liu, Zhirong Xia, Wei Su, Jianxi Huang, Pengxin Wang, Ying Li]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924004447?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 22 May 2024 18:10:31 GMT</pubDate>
+      <pubDate>Wed, 22 May 2024 21:08:34 GMT</pubDate>
     </item>
     <item>
       <title>使用可展开剪刀机构进行收获的新型机器人末端执行器的运动学设计</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924004307?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: July 2024Source: Computers and Electronics in Agriculture, Volume 222Author(s): Yanqin Zhao, Yan Jin, Yinglun Jian, Wen Zhao, Xiaoling Zhong]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924004307?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 22 May 2024 18:10:31 GMT</pubDate>
+      <pubDate>Wed, 22 May 2024 21:08:34 GMT</pubDate>
     </item>
     <item>
-      <title>不同速度范围内的电驱动排种系统的比较研究和评估，以增强高精度播种应用</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924003673?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: July 2024Source: Computers and Electronics in Agriculture, Volume 222Author(s): Haoyu Wang, Li Yang, Dongxing Zhang, Tao Cui, Xiantao He, Tainpu Xiao, Hongsheng Li, Zhaohui Du, Chunji Xie]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003673?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 22 May 2024 18:10:30 GMT</pubDate>
+      <title>用于精准家禽监测的创新分段模型</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924004368?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: July 2024Source: Computers and Electronics in Agriculture, Volume 222Author(s): Xiao Yang, Haixing Dai, Zihao Wu, Ramesh Bahadur Bist, Sachin Subedi, Jin Sun, Guoyu Lu, Changying Li, Tianming Liu, Lilong Chai]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924004368?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 22 May 2024 21:08:34 GMT</pubDate>
     </item>
     <item>
       <title>基于自动调整标签分配的卷积神经网络用于定向小麦病害检测</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924004204?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: July 2024Source: Computers and Electronics in Agriculture, Volume 222Author(s): Haiyun Liu, Hongbo Chen, Jianming Du, Chengjun Xie, Qiong Zhou, Rujing Wang, Lin Jiao]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924004204?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 22 May 2024 18:10:30 GMT</pubDate>
+      <pubDate>Wed, 22 May 2024 21:08:33 GMT</pubDate>
     </item>
     <item>
-      <title>果园、苗圃智能多变量喷药机器人的研制与评价</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924004472?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 7 月来源：农业中的计算机和电子，第 222 卷作者：刘辉、杜志鹏、沉悦、杜伟、张轩]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924004472?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 22 May 2024 18:10:29 GMT</pubDate>
+      <title>基于双分支组合模型的苜蓿多深度土壤湿度预测方法</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924004290?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 7 月来源：《农业中的计算机和电子技术》，第 222 卷作者：刘锐、陆立峰、葛永琪、董立国、周娟]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924004290?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 22 May 2024 21:08:33 GMT</pubDate>
     </item>
     <item>
-      <title>主成分分析 (PCA) 和基于特征重要性的参考蒸发量降维 (ET<math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si169.svg" display= "inline" id="d1e2315" class="math"><msub><mrow></mrow><mrow><mn>0</mn></mrow></msub></math>）的预测沙特阿拉伯塔伊夫</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924004277?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 7 月来源：农业计算机和电子学，第 222 卷作者：Rab Nawaz Bashir、Olfa Mzoughi 、穆罕默德·阿里·沙希德、纳齐克·阿尔图基、Oumaima Saidani]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924004277?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 22 May 2024 18:10:29 GMT</pubDate>
+      <title>FieldSeg-DA2.0：利用多源遥感和土地覆盖数据进一步增强单个耕地（IAF）提取网络的时空可转移性</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924004411?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 7 月来源：农业中的计算机和电子，第 222 卷作者：田春、陈雪红、陈金、曹如茵、刘帅军]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924004411?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 22 May 2024 21:08:33 GMT</pubDate>
     </item>
     <item>
       <title>基于内外影响因素的深度时间序列水位预测框架：以农业灌溉水库为目标</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924004514?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: July 2024Source: Computers and Electronics in Agriculture, Volume 222Author(s): Guotao Wang, Xiangjiang Zhao, Yue Sun, Renxie Shen, Wenxuan Zheng, Yaoyang Wu]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924004514?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 22 May 2024 18:10:29 GMT</pubDate>
+      <pubDate>Wed, 22 May 2024 21:08:32 GMT</pubDate>
     </item>
     <item>
       <title>使用 FPDat II 机载计算机进行自动生产时间分析：基于整树地面采伐作业的验证研究</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924004381?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 7 月来源：农业计算机和电子学，第 222 卷作者：Omar Mologni、Steffen Lahrsen、多米尼克·勒瑟]]></description>
+      <description><![CDATA[出版日期：2024 年 7 月来源：《农业中的计算机和电子技术》，第 222 卷作者：Omar Mologni、Steffen Lahrsen、Dominik Roeser]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924004381?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 22 May 2024 18:10:29 GMT</pubDate>
+      <pubDate>Wed, 22 May 2024 21:08:32 GMT</pubDate>
     </item>
     <item>
-      <title>深度学习在农田识别中的应用：综述</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924004332?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: July 2024Source: Computers and Electronics in Agriculture, Volume 222Author(s): Fan Xu, Xiaochuang Yao, Kangxin Zhang, Hao Yang, Quanlong Feng, Ying Li, Shuai Yan, Bingbo Gao, Shaoshuai Li, Jianyu Yang, Chao Zhang, Yahui Lv, Dehai Zhu, Sijing Ye]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924004332?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 22 May 2024 18:10:28 GMT</pubDate>
+      <title>不同速度范围内的电驱动排种系统的比较研究和评估，以增强高精度播种应用</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924003673?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: July 2024Source: Computers and Electronics in Agriculture, Volume 222Author(s): Haoyu Wang, Li Yang, Dongxing Zhang, Tao Cui, Xiantao He, Tainpu Xiao, Hongsheng Li, Zhaohui Du, Chunji Xie]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924003673?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 22 May 2024 21:08:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>主成分分析 (PCA) 和基于特征重要性的参考蒸发量降维 (ET<math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si169.svg" display= "inline" id="d1e2315" class="math"><msub><mrow></mrow><mrow><mn>0</mn></mrow></msub></math>）的预测沙特阿拉伯塔伊夫</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924004277?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 7 月来源：农业计算机和电子学，第 222 卷作者：Rab Nawaz Bashir、Olfa Mzoughi 、穆罕默德·阿里·沙希德、纳齐克·阿尔图基、Oumaima Saidani]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924004277?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 22 May 2024 21:08:31 GMT</pubDate>
     </item>
     <item>
       <title>仿生收获技术研究进展及发展趋势</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924004046?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: July 2024Source: Computers and Electronics in Agriculture, Volume 222Author(s): Yuanqiang Luo, Junlin Li, Beihuo Yao, Qing Luo, Zhicheng Zhu, Weibin Wu]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924004046?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 22 May 2024 18:10:28 GMT</pubDate>
+      <pubDate>Wed, 22 May 2024 21:08:30 GMT</pubDate>
     </item>
     <item>
       <title>高光谱成像在精准农业中的系统综述：现状分析及未来前景</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924004289?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 7 月来源：农业中的计算机和电子，第 222 卷作者：Billy G. Ram, Peter Oduor、C. Igathinathane、Kirk Howatt、Xin Sun]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924004289?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 22 May 2024 18:10:28 GMT</pubDate>
+      <pubDate>Wed, 22 May 2024 21:08:30 GMT</pubDate>
     </item>
     <item>
-      <title>揭开植物的秘密：植物表型分析技术中 3D 成像的系统评价</title>
+      <title>果园、苗圃智能多变量喷药机器人的研制与评价</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924004472?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 7 月来源：农业中的计算机和电子，第 222 卷作者：刘辉、杜志鹏、沉悦、杜伟、张轩]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924004472?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 22 May 2024 21:08:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>解开植物的秘密：植物表型分析技术中 3D 成像的系统综述</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924004241?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 7 月来源：《农业中的计算机和电子技术》，第 222 卷作者：Muhammad Salman Akhtar、Zuhair Zafar、Raheel Nawaz、Muhammad Moazam Fraz]]></description>
+      <description><![CDATA[出版日期：2024 年 7 月来源：农业中的计算机和电子，第 222 卷作者：Muhammad Salman Akhtar、Zuhair Zafar 、拉希尔·纳瓦兹、穆罕默德·莫阿扎姆·弗拉兹]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924004241?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 22 May 2024 18:10:27 GMT</pubDate>
+      <pubDate>Wed, 22 May 2024 21:08:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>深度学习在农田识别中的应用：综述</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924004332?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: July 2024Source: Computers and Electronics in Agriculture, Volume 222Author(s): Fan Xu, Xiaochuang Yao, Kangxin Zhang, Hao Yang, Quanlong Feng, Ying Li, Shuai Yan, Bingbo Gao, Shaoshuai Li, Jianyu Yang, Chao Zhang, Yahui Lv, Dehai Zhu, Sijing Ye]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924004332?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 22 May 2024 21:08:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
