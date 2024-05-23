@@ -4,111 +4,111 @@
     <title>ScienceDirect 出版物：模式识别</title>
     <link>https://www.sciencedirect.com/journal/pattern-recognition</link>
     <description>科学直接RSS</description>
-    <lastBuildDate>Thu, 23 May 2024 09:10:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 12:14:20 GMT</lastBuildDate>
     <item>
-      <title>用于多视图聚类的潜在子空间和结构化图的联合学习</title>
+      <title>LDDMM-Face：用于交叉注释人脸对齐的大变形微分同胚度量学习</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324003200?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024年10月来源：模式识别，第154卷作者：杨惠林、吕俊彦、程璞金、谭罗杰、唐小英]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003200?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 23 May 2024 12:14:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>潜在子空间与结构图的联合学习用于多视图聚类</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324003431?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: October 2024Source: Pattern Recognition, Volume 154Author(s): Yinuo Wang, Yu Guo, Zheng Wang, Fei Wang]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003431?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 23 May 2024 09:10:05 GMT</pubDate>
+      <pubDate>Thu, 23 May 2024 12:14:19 GMT</pubDate>
     </item>
     <item>
       <title>学习形状分类的复杂网络表示</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324003170?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 10 月来源：《模式识别》，第 154 卷作者：Lucas C. Ribas、Odemir M. Bruno ]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003170?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 23 May 2024 09:10:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>LDDMM-Face：用于交叉注释人脸对齐的大变形微分同胚度量学习</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324003200?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024年10月来源：模式识别，第154卷作者：杨惠林、吕俊彦、程璞金、谭罗杰、唐小英]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003200?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 23 May 2024 09:10:05 GMT</pubDate>
+      <pubDate>Thu, 23 May 2024 12:14:19 GMT</pubDate>
     </item>
     <item>
       <title>OA-Pose：用于机器人操作的几何对齐下的遮挡感知单目 6-DoF 物体姿态估计</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324003273?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: October 2024Source: Pattern Recognition, Volume 154Author(s): Jikun Wang, Luqing Luo, Weixiang Liang, Zhi-Xin Yang]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003273?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 23 May 2024 09:10:04 GMT</pubDate>
+      <pubDate>Thu, 23 May 2024 12:14:18 GMT</pubDate>
     </item>
     <item>
       <title>用于多模态图像美学评估的情感感知分层交互网络</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324003352?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024年10月来源：模式识别，第154卷作者：朱同、李蕾达、陈鹏飞、吴金健、杨宇哲、李亚倩]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003352?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 23 May 2024 09:10:04 GMT</pubDate>
+      <pubDate>Thu, 23 May 2024 12:14:18 GMT</pubDate>
     </item>
     <item>
       <title>GANN：用于半监督学习的图对齐神经网络</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324002358?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024年10月来源：模式识别，第154卷作者：宋林轩、屠文轩、周思航、在朱]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002358?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 23 May 2024 09:10:04 GMT</pubDate>
+      <pubDate>Thu, 23 May 2024 12:14:18 GMT</pubDate>
     </item>
     <item>
       <title>NCART：表格数据的神经分类和回归树</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324003297?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 10 月来源：《模式识别》，第 154 卷作者：罗嘉琪、徐世新]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003297?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 23 May 2024 09:10:03 GMT</pubDate>
+      <pubDate>Thu, 23 May 2024 12:14:17 GMT</pubDate>
     </item>
     <item>
-      <title>基于判别性标签相关性的鲁棒结构学习，用于多标签特征选择</title>
+      <title>基于判别标签相关性的稳健结构学习，用于多标签特征选择</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324003340?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 10 月来源：《模式识别》，第 154 卷作者：贾庆伟、邓廷泉、王岩、王长忠的]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003340?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 23 May 2024 09:10:03 GMT</pubDate>
+      <pubDate>Thu, 23 May 2024 12:14:17 GMT</pubDate>
     </item>
     <item>
       <title>一种用于息肉分割的新型非预训练深度监督网络</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324003054?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: October 2024Source: Pattern Recognition, Volume 154Author(s): Zhenni Yu, Li Zhao, Tangfei Liao, Xiaoqin Zhang, Geng Chen, Guobao Xiao]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003054?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 23 May 2024 09:10:03 GMT</pubDate>
+      <pubDate>Thu, 23 May 2024 12:14:17 GMT</pubDate>
     </item>
     <item>
       <title>通过类信息融合进行人脸识别的多尺度协作表示</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324003376?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 10 月来源：《模式识别》，第 154 卷作者：王昌中、裴世兵、吕翔、丁卫平]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003376?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 23 May 2024 09:10:02 GMT</pubDate>
+      <pubDate>Thu, 23 May 2024 12:14:16 GMT</pubDate>
     </item>
     <item>
       <title>基于自监督集群异构图变压器的异构网络影响力最大化</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324003467?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: October 2024Source: Pattern Recognition, Volume 154Author(s): Ying Li, Linlin Li, Xiangyu Liu, Yijun Liu, Qianqian Li]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003467?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 23 May 2024 09:10:02 GMT</pubDate>
+      <pubDate>Thu, 23 May 2024 12:14:16 GMT</pubDate>
     </item>
     <item>
       <title>集成滤波器-迁移学习算法</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324003327?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024年10月来源：模式识别，第154卷作者：韩红贵、李萌萌、杨红艳、吴小龙、韩华云]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003327?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 23 May 2024 09:10:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>CRTrack：用于视觉对象跟踪的学习关联细化网络</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324003339?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: October 2024Source: Pattern Recognition, Volume 154Author(s): Wenkang Zhang, Fei Xie, Tianyang Xu, Jiang Zhai, Wankou Yang]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003339?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 23 May 2024 09:10:01 GMT</pubDate>
+      <pubDate>Thu, 23 May 2024 12:14:16 GMT</pubDate>
     </item>
     <item>
       <title>用于动态图归纳表示学习的循环图神经网络</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324003285?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 10 月来源：模式识别，第 154 卷作者：姚洪宇、张春阳, 姚志良, C.L.陈飞利、胡俊峰]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003285?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 23 May 2024 09:10:01 GMT</pubDate>
+      <pubDate>Thu, 23 May 2024 12:14:15 GMT</pubDate>
     </item>
     <item>
       <title>用于可解释的降维和图形噪声建模的矩阵正态 PCA</title>
       <link>https://www.sciencedirect.com/science/article/pii/S003132032400342X?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024年10月来源：模式识别，第154卷作者：张驰豪、盖郭、张世华&lt; /p&gt;]]></description>
+      <description><![CDATA[出版日期：2024 年 10 月来源：《模式识别》，第 154 卷作者：张志豪、Kuo Gai、张世华]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S003132032400342X?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 23 May 2024 09:10:01 GMT</pubDate>
+      <pubDate>Thu, 23 May 2024 12:14:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>CRTrack：学习相关-优化网络用于视觉对象跟踪</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324003339?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: October 2024Source: Pattern Recognition, Volume 154Author(s): Wenkang Zhang, Fei Xie, Tianyang Xu, Jiang Zhai, Wankou Yang]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003339?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 23 May 2024 12:14:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
