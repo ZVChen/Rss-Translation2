@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>IEEE Transactions on Neural Networks and Learning Systems - 新目录</title>
+    <title>IEEE 神经网络和学习系统学报 - 新目录</title>
     <link>http://ieeexplore.ieee.org</link>
     <description>出版物目录提醒# 5962385</description>
     <lastBuildDate>Thu, 02 May 2024 04:00:00 GMT</lastBuildDate>
@@ -20,7 +20,7 @@
       <pubDate>Thu, 02 May 2024 13:15:56 GMT</pubDate>
     </item>
     <item>
-      <title>IEEE Transactions on Neural Networks and Learning Systems 出版信息</title>
+      <title>IEEE 神经网络与学习系统学报出版信息</title>
       <link>http://ieeexplore.ieee.org/document/10517723</link>
       <description><![CDATA[无效的]]></description>
       <guid>http://ieeexplore.ieee.org/document/10517723</guid>
@@ -48,7 +48,7 @@
       <pubDate>Thu, 26 Oct 2023 13:18:59 GMT</pubDate>
     </item>
     <item>
-      <title>半监督缺陷分割的扰动渐进学习</title>
+      <title>用于半监督缺陷分割的扰动渐进学习</title>
       <link>http://ieeexplore.ieee.org/document/10293173</link>
       <description><![CDATA[近年来，随着智能制造的发展，表面缺陷检测的需求不断增加。深度学习在缺陷检测方面取得了可喜的成果。然而，由于缺陷数据的稀缺性和像素级标注的困难，现有的监督缺陷检测方法在实践中效果较差。为了解决标记数据较少的缺陷分割问题，我们提出了一种简单有效的半监督缺陷分割（SSDS）方法，称为扰动渐进学习（PPL）。一方面，PPL 解耦了学生和教师网络的预测，并减轻了对噪声伪标签的过度拟合。另一方面，PPL 鼓励在更广泛的阶段范围内各种扰动的一致性，从而减轻由噪声伪标签引起的漂移。具体来说，PPL包含两个训练阶段。在第一阶段，教师网络为未标记的数据提供伪标签，并将其分为简单组和困难组。简单组中的标记数据和未标记数据及其扰动都用于训练性能更好的学生网络。第二阶段，通过获得的学生网络对hard组中的未标记数据进行预测，从而放大了细化的伪标记数据。所有伪标记数据和带有扰动的标记数据都用于重新训练学生网络，逐步改进缺陷特征表示。我们构建了一个包含三类缺陷的移动屏幕缺陷数据集 (MSDD-3)。 PPL 在 MSDD-3 以及其他公共数据集上实现。大量的实验结果表明，PPL 在所有评估分区协议中都显着超越了最先进的方法。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10293173</guid>
@@ -64,7 +64,7 @@
     <item>
       <title>用于解决复杂梁系统中的正向和逆向问题的物理信息神经网络</title>
       <link>http://ieeexplore.ieee.org/document/10255379</link>
-      <description><![CDATA[本文提出了一个新框架，使用物理信息神经网络 (PINN) 来模拟基于欧拉-伯努利和铁木辛科理论的由单梁和双梁组成的复杂结构系统，其中双梁与温克勒基础相连。具体来说，使用具有物理信息损失函数的无量纲方程来求解欧拉-伯努利和铁木辛科偏微分方程 (PDE) 的正问题和逆问题。高阶复杂梁 PDE 可以有效地求解正问题，以计算横向位移和横截面旋转，误差小于 $1e-3$ %。此外，即使在数据嘈杂的情况下，也可以稳健地求解逆问题以确定整个时空域中未知的无量纲模型参数和施加的力。结果表明，PINN 是解决涉及梁系统的工程结构和机器问题的一种很有前途的策略。]]></description>
+      <description><![CDATA[本文提出了一种新的框架，使用物理信息神经网络（PINN）来模拟由基于欧拉-伯努利和铁木辛科理论的单梁和双梁组成的复杂结构系统，其中双梁与温克勒基础相连。特别是，欧拉-伯努利和铁莫申科偏微分方程 (PDE) 的正向和逆向问题可以使用具有物理信息损失函数的无量纲方程来求解。高阶复梁偏微分方程可有效求解正向问题，以计算横向位移和横截面旋转，误差小于 $1e-3$%。此外，即使在有噪声数据的情况下，也可以稳健地解决反问题，以确定未知的无量纲模型参数和整个时空域中的施加力。结果表明，PINN 是解决涉及梁系统的工程结构和机器问题的一种有前途的策略。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10255379</guid>
       <pubDate>Tue, 19 Sep 2023 14:02:33 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>用于过程监控的基于 VAE 的可解释潜变量模型</title>
       <link>http://ieeexplore.ieee.org/document/10149177</link>
-      <description><![CDATA[基于潜变量的过程监控 (PM) 模型已通过浅层学习方法（例如多元统计分析和核技术）得到了广泛的发展。由于其明确的投影目标，提取的潜变量通常有意义且易于用数学术语解释。最近，深度学习 (DL) 已被引入 PM，并因其强大的呈现能力而表现出色。然而，其复杂的非线性阻碍了它被解释为人性化的。如何设计适当的网络结构以实现基于 DL 的潜变量模型 (LVM) 令人满意的 PM 性能是一个谜。在本文中，为 PM 开发了一种基于变分自编码器的可解释 LVM (VAE-ILVM)。基于泰勒展开，提出了两个命题来指导 VAE-ILVM 的适当激活函数的设计，允许生成的监控指标 (MM) 中包含不消失的故障影响项。在阈值学习期间，测试统计量超过阈值的计数序列被视为马丁格尔，这是弱相关随机过程的代表。然后采用de la Peña不等式来学习合适的阈值。最后，两个化学例子验证了所提方法的有效性。de la Peña不等式的使用大大减少了建模所需的最小样本量。]]></description>
+      <description><![CDATA[基于潜在变量的过程监控（PM）模型已经通过浅层学习方法（例如多元统计分析和核技术）得到了广泛的开发。由于其明确的投影目标，提取的潜在变量通常是有意义的并且易于用数学术语解释。最近，深度学习（DL）被引入PM，并因其强大的表达能力而展现出优异的性能。然而，其复杂的非线性使其无法被解释为人类友好的。如何设计合适的网络结构以使基于深度学习的潜变量模型 (LVM) 获得令人满意的 PM 性能是一个谜。在本文中，为 PM 开发了一种基于变分自动编码器的可解释 LVM (VAE-ILVM)。基于泰勒展开式，提出了两个命题来指导 VAE-ILVM 适当激活函数的设计，允许生成的监控指标（MM）中包含非消失的故障影响项。在阈值学习期间，测试统计量超过阈值的计数序列被认为是鞅，是弱相关随机过程的代表。然后采用德拉佩尼亚不等式来学习合适的阈值。最后，两个化学例子验证了该方法的有效性。德拉佩纳不等式的使用显着减少了建模所需的最小样本量。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10149177</guid>
       <pubDate>Tue, 13 Jun 2023 14:00:57 GMT</pubDate>
     </item>
