@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>IEEE 模式分析与机器智能学报 - 新目录</title>
+    <title>IEEE 模式分析和机器智能汇刊 - 新目录</title>
     <link>http://ieeexplore.ieee.org</link>
     <description>出版物 TOC 提醒# 34</description>
     <lastBuildDate>Tue, 07 May 2024 04:00:00 GMT</lastBuildDate>
     <item>
-      <title>MotionDiffuse：利用扩散模型生成文本驱动的人体运动</title>
+      <title>MotionDiffuse：使用扩散模型生成文本驱动的人体运动</title>
       <link>http://ieeexplore.ieee.org/document/10416192</link>
       <description><![CDATA[人体运动建模对于许多现代图形应用程序非常重要，这通常需要专业技能。为了消除外行人的技能障碍，最近的动作生成方法可以直接生成以自然语言为条件的人类动作。然而，利用各种文本输入实现多样化和细粒度的运动生成仍然具有挑战性。为了解决这个问题，我们提出了 MotionDiffuse，它是第一个基于扩散模型的文本驱动运动生成框架之一，它展示了现有方法的几个所需属性。 1）概率映射。 MotionDiffuse 不是确定性的语言运动映射，而是通过一系列注入变化的去噪步骤生成运动。 2）现实综合。 MotionDiffuse 擅长对复杂的数据分布进行建模并生成生动的运动序列。 3）多级操纵。 MotionDiffuse 响应身体部位的细粒度指令，以及随时间变化的文本提示的任意长度的运动合成。我们的实验表明，MotionDiffuse 在文本驱动的运动生成和动作条件运动生成方面具有令人信服的优势，优于现有的 SoTA 方法。定性分析进一步证明了 MotionDiffuse 对综合运动生成的可控性。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10416192</guid>
@@ -22,7 +22,7 @@
     <item>
       <title>Dropout 的隐式正则化</title>
       <link>http://ieeexplore.ieee.org/document/10412142</link>
-      <description><![CDATA[了解 dropout（一种流行的正则化方法）如何帮助在神经网络训练期间实现良好的泛化解决方案非常重要。在这项工作中，我们提出了 dropout 的隐式正则化的理论推导，并通过一系列实验进行了验证。此外，我们在数值上研究了隐式正则化的两个含义，直观地解释了为什么 dropout 有助于泛化。首先，我们发现隐藏神经元的输入权重倾向于压缩在用 dropout 训练的孤立方向上。压缩是非线性学习过程中的一个特征，它使网络变得不那么复杂。其次，我们发现与标准梯度下降训练相比，使用 dropout 进行训练会导致神经网络具有更平坦的最小值，而隐式正则化是找到平坦解决方案的关键。虽然我们的理论主要关注最后隐藏层中使用的 dropout，但我们的实验适用于训练神经网络中的一般 dropout。这项工作指出了 dropout 与随机梯度下降相比的显着特征，并作为充分理解 dropout 的重要基础。]]></description>
+      <description><![CDATA[了解流行的正则化方法 dropout 如何帮助在神经网络训练期间实现良好的泛化解决方案非常重要。在这项工作中，我们提出了 dropout 隐式正则化的理论推导，并通过一系列实验进行了验证。此外，我们通过数值研究了隐式正则化的两个含义，直观地解释了 dropout 有助于泛化的原因。首先，我们发现使用 dropout 训练的隐藏神经元的输入权重倾向于在孤立方向上凝聚。凝聚是非线性学习过程中的一个特征，它使网络变得不那么复杂。其次，我们发现与标准梯度下降训练相比，使用 dropout 进行训练可使神经网络具有更平坦的最小值，而隐式正则化是找到平坦解决方案的关键。虽然我们的理论主要关注最后一个隐藏层中使用的 dropout，但我们的实验适用于训练神经网络的一般 dropout。这项工作指出了 dropout 与随机梯度下降相比的一个独特特征，并为充分理解 dropout 奠定了重要基础。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10412142</guid>
       <pubDate>Tue, 23 Jan 2024 13:17:59 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>联合高斯过程：收敛、自动个性化和多保真度建模</title>
       <link>http://ieeexplore.ieee.org/document/10402074</link>
-      <description><![CDATA[在本文中，我们提出了 FGPR：一种联邦高斯过程 ($\mathcal {GP}$GP) 回归框架，它使用平均策略进行模型聚合，并使用随机梯度下降进行局部计算。值得注意的是，由于 FGPR 在所有设备之间联合学习共享先验，因此生成的全局模型在个性化方面表现出色。然后通过利用这种共享先验并对本地数据进行条件化来获得预测后验，该本地数据对来自特定数据集的个性化特征进行编码。从理论上讲，我们表明 FGPR 会收敛到完整对数边际似然函数的临界点，但会受到统计误差的影响。该结果提供了独立价值，因为它将联邦学习理论结果带入了相关范式。通过对几个回归任务的大量案例研究，我们表明 FGPR 在广泛的应用中表现出色，并且是一种有前途的隐私保护多保真度数据建模方法。]]></description>
+      <description><![CDATA[在本文中，我们提出了 FGPR：一种联邦高斯过程 ($\mathcal {GP}$GP) 回归框架，它使用模型聚合的平均策略和本地计算的随机梯度下降。值得注意的是，由于 FGPR 共同学习所有设备上共享的先验，由此产生的全局模型在个性化方面表现出色。然后通过利用这个共享先验和对本地数据进行调节来获得预测后验，该数据对来自特定数据集的个性化特征进行编码。理论上，我们表明 FGPR 收敛到完整对数边际似然函数的临界点，但会受到统计误差的影响。这一结果提供了独立的价值，因为它将联邦学习理论结果引入了相关范式。通过对多个回归任务的广泛案例研究，我们表明 FGPR 在广泛的应用中表现出色，并且是隐私保护多保真数据建模的一种有前景的方法。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10402074</guid>
       <pubDate>Wed, 17 Jan 2024 13:16:23 GMT</pubDate>
     </item>
