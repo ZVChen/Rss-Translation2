@@ -92,7 +92,7 @@
     <item>
       <title>基于自适应高阶控制屏障函数的迭代 LQR，用于实时安全关键运动规划</title>
       <link>http://ieeexplore.ieee.org/document/10522835</link>
-      <description><![CDATA[本信提出了一种基于自适应高阶控制屏障函数的迭代线性二次调节器 (AHOCBF-ILQR) 算法，用于实时安全关键运动规划。首先，我们提出了一种 HOCBF-ILQR 方法，其中基于 HOCBF 的控制器被设计为 ILQR 的安全过滤器以保证安全性。然后，为了解决 HOCBF-ILQR 中潜在的不可行性问题，通过引入辅助变量提出了 AHOCBF-ILQR。在 AHOCBF-ILQR 中，只需要在采样间隔内解决无约束优化问题和二次规划。低计算负担显著提高了 AHOCBF-ILQR 的时间效率。此外，我们提供了 AHOCBF-ILQR 安全性和可行性的理论证明。通过对轮式移动机器人的运动规划实验测试了该算法，其中机器人需要绕过事先未知的静态或移动障碍物。实验结果表明，AHOCBF-ILQR能够求解$\text{0.05}\,s$以内的控制输入，并且保证安全性。]]></description>
+      <description><![CDATA[本信提出了一种基于自适应高阶控制屏障函数的迭代线性二次调节器 (AHOCBF-ILQR) 算法，用于实时安全关键运动规划。首先，我们提出了一种 HOCBF-ILQR 方法，其中基于 HOCBF 的控制器被设计为 ILQR 的安全过滤器以保证安全性。然后，为了解决 HOCBF-ILQR 中潜在的不可行性问题，通过引入辅助变量提出了 AHOCBF-ILQR。在 AHOCBF-ILQR 中，只需要在采样间隔内解决无约束优化问题和二次规划。低计算负担显著提高了 AHOCBF-ILQR 的时间效率。此外，我们提供了 AHOCBF-ILQR 安全性和可行性的理论证明。通过对轮式移动机器人的运动规划实验测试了算法，其中机器人需要绕过事先未知的静态或移动障碍物。实验结果表明，AHOCBF-ILQR能够求解$\text{0.05}\,s$以内的控制输入，并且保证安全性。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10522835</guid>
       <pubDate>Wed, 08 May 2024 13:16:43 GMT</pubDate>
     </item>
