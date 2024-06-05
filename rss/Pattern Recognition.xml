@@ -4,111 +4,111 @@
     <title>ScienceDirect 出版物：模式识别</title>
     <link>https://www.sciencedirect.com/journal/pattern-recognition</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Wed, 05 Jun 2024 00:35:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 03:11:51 GMT</lastBuildDate>
+    <item>
+      <title>矩阵正态 PCA 用于可解释的降维和图形噪声建模</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S003132032400342X?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 10 月来源：《模式识别》，第 154 卷作者：张志豪、Kuo Gai、张世华]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S003132032400342X?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 05 Jun 2024 03:11:50 GMT</pubDate>
+    </item>
     <item>
       <title>通过类别信息融合进行人脸识别的多尺度协同表示</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324003376?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 10 月来源：《模式识别》，第 154 卷作者：王昌中、裴世兵、吕翔、丁卫平]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003376?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 05 Jun 2024 00:35:59 GMT</pubDate>
+      <pubDate>Wed, 05 Jun 2024 03:11:50 GMT</pubDate>
     </item>
     <item>
       <title>通过半监督学习和嘈杂支持图像实现小样本分割</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324002541?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: October 2024Source: Pattern Recognition, Volume 154Author(s): Runtong Zhang, Hongyuan Zhu, Hanwang Zhang, Chen Gong, Joey Tianyi Zhou, Fanman Meng]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324002541?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 05 Jun 2024 00:35:58 GMT</pubDate>
+      <pubDate>Wed, 05 Jun 2024 03:11:49 GMT</pubDate>
     </item>
     <item>
       <title>通过集成基于 <math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si8.svg" display="inline" id="d1e807" class="math"><msub><mrow><mi>ℓ</mi></mrow><mrow><mn>1</mn></mrow></msub></math> 的切片拉普拉斯正则化和 <math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si424.svg" display="inline" id="d1e817" class="math"><msub><mrow><mi>ℓ</mi></mrow><mrow><mn>2</mn><mo>,</mo><mi>p</mi></mrow></msub></math>-稀疏性实现非凸张量多视图聚类</title>
       <link>https://www.sciencedirect.com/science/article/pii/S003132032400356X?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024年10月来源：模式识别，第154卷作者：谢德言、杨明、高全学、宋伟]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S003132032400356X?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 05 Jun 2024 00:35:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>矩阵正态 PCA 用于可解释的降维和图形噪声建模</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S003132032400342X?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 10 月来源：《模式识别》，第 154 卷作者：张志豪、Kuo Gai、张世华]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S003132032400342X?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 05 Jun 2024 00:35:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于动态图归纳表示学习的循环图神经网络</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324003285?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 10 月来源：模式识别，第 154 卷作者：姚洪宇、张春阳, 姚志良, C.L.陈飞利、胡俊峰]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003285?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 05 Jun 2024 00:35:57 GMT</pubDate>
+      <pubDate>Wed, 05 Jun 2024 03:11:49 GMT</pubDate>
     </item>
     <item>
       <title>用于领域泛化的联合变分推理网络</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324003388?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: October 2024Source: Pattern Recognition, Volume 154Author(s): Jun-Zheng Chu, Bin Pan, Xia Xu, Tian-Yang Shi, Zhen-Wei Shi, Tao Li]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003388?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 05 Jun 2024 00:35:57 GMT</pubDate>
+      <pubDate>Wed, 05 Jun 2024 03:11:48 GMT</pubDate>
     </item>
     <item>
       <title>PIPE：通过集成残差量化扩展实现并行推理</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324003224?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 10 月来源：《模式识别》，第 154 卷作者：Edouard Yvinec、Arnaud Dapogny、Kevin Bailly]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003224?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 05 Jun 2024 00:35:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于协同过滤的轻量级双超图卷积</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324003479?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024年10月来源：模式识别，第154卷作者：孟健、郎辰朗、郭晶晶、李尊、王拓、吴丽芳]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003479?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 05 Jun 2024 00:35:56 GMT</pubDate>
+      <pubDate>Wed, 05 Jun 2024 03:11:48 GMT</pubDate>
     </item>
     <item>
       <title>深度图层信息挖掘卷积网络</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324003443?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 10 月来源：模式识别，第 154 卷作者：Guangfeng Lin、Wenchao Wei、Xiaobing Kang、廖开阳、张二虎]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003443?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 05 Jun 2024 00:35:56 GMT</pubDate>
+      <pubDate>Wed, 05 Jun 2024 03:11:47 GMT</pubDate>
     </item>
     <item>
-      <title>因果推断的观测权重匹配方法</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324003005?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 10 月来源： Pattern Recognition，第 154 卷作者：Kangbok Lee、Sumin Han、Hyeoncheol Baik、郑艺盛、朴英雄]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003005?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 05 Jun 2024 00:35:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>CRTrack：学习相关性-优化网络用于视觉对象跟踪</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324003339?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: October 2024Source: Pattern Recognition, Volume 154Author(s): Wenkang Zhang, Fei Xie, Tianyang Xu, Jiang Zhai, Wankou Yang]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003339?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 05 Jun 2024 00:35:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>自适应传播深度图神经网络</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324003583?dgcid=rss_sd_all</link>
-      <description><![CDATA[发表日期：2024年10月来源：模式识别，第154卷作者：陈伟、严文旭、王文渊&lt; /p&gt;]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003583?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 05 Jun 2024 00:35:55 GMT</pubDate>
+      <title>用于动态图归纳表示学习的循环图神经网络</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324003285?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 10 月来源：模式识别，第 154 卷作者：姚洪宇、张春阳, 姚志良, C.L.陈飞利、胡俊峰]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003285?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 05 Jun 2024 03:11:47 GMT</pubDate>
     </item>
     <item>
       <title>基于模块的图池化用于图分类</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324003571?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: October 2024Source: Pattern Recognition, Volume 154Author(s): Sucheng Deng, Geping Yang, Yiyang Yang, Zhiguo Gong, Can Chen, Xiang Chen, Zhifeng Hao]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003571?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 05 Jun 2024 00:35:55 GMT</pubDate>
+      <pubDate>Wed, 05 Jun 2024 03:11:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于协同过滤的轻量级双超图卷积</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324003479?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024年10月来源：模式识别，第154卷作者：孟健、郎辰朗、郭晶晶、李尊、王拓、吴丽芳]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003479?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 05 Jun 2024 03:11:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>自适应传播深度图神经网络</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324003583?dgcid=rss_sd_all</link>
+      <description><![CDATA[发表日期：2024年10月来源：模式识别，第154卷作者：陈伟、严文旭、王文渊&lt; /p&gt;]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003583?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 05 Jun 2024 03:11:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>因果推断的观测权重匹配方法</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324003005?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 10 月来源： Pattern Recognition，第 154 卷作者：Kangbok Lee、Sumin Han、Hyeoncheol Baik、郑艺盛、朴英雄]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003005?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 05 Jun 2024 03:11:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>CRTrack：学习相关-优化网络用于视觉对象跟踪</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324003339?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: October 2024Source: Pattern Recognition, Volume 154Author(s): Wenkang Zhang, Fei Xie, Tianyang Xu, Jiang Zhai, Wankou Yang]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003339?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 05 Jun 2024 03:11:44 GMT</pubDate>
     </item>
     <item>
       <title>具有局部图信号表示的图域自适应</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324003790?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 11 月来源： Pattern Recognition，第 155 卷作者：Yusuf Yiğit Pilavcı、Eylem Tuğçe Güneyi、Cemil埃利夫·乌拉尔·森吉兹]]></description>
+      <description><![CDATA[出版日期：2024 年 11 月来源：模式识别，第 155 卷作者：Yusuf Yiğit Pilavcı、Eylem Tuğçe Güneyi、Cemil埃利夫·乌拉尔·森吉兹]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003790?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 05 Jun 2024 00:35:54 GMT</pubDate>
+      <pubDate>Wed, 05 Jun 2024 03:11:43 GMT</pubDate>
     </item>
     <item>
       <title>DSFusion：结合细节和场景信息的红外和可见光图像融合方法</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324003844?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: October 2024Source: Pattern Recognition, Volume 154Author(s): Kuizhuang Liu, Min Li, Cheng Chen, Chengwei Rao, Enguang Zuo, Yunling Wang, Ziwei Yan, Bo Wang, Chen Chen, Xiaoyi Lv]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003844?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 05 Jun 2024 00:35:54 GMT</pubDate>
+      <pubDate>Wed, 05 Jun 2024 03:11:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
