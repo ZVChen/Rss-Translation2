@@ -4,111 +4,111 @@
     <title>ScienceDirect 出版物：模式识别</title>
     <link>https://www.sciencedirect.com/journal/pattern-recognition</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Sun, 23 Jun 2024 00:39:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 03:09:22 GMT</lastBuildDate>
     <item>
       <title>采用 RGB-T 跟踪的 token 划分策略进行多模态交互</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324003777?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 11 月来源：《模式识别》，第 155 卷作者：蔡玉珏、隋秀宝、顾国华、陈倩]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003777?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 23 Jun 2024 00:39:39 GMT</pubDate>
+      <pubDate>Sun, 23 Jun 2024 03:09:22 GMT</pubDate>
     </item>
     <item>
       <title>通过自我监督预训练和原型感知注意力进行小样本意图检测</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324003923?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: November 2024Source: Pattern Recognition, Volume 155Author(s): Shun Yang, YaJun Du, Xin Zheng, XianYong Li, XiaoLiang Chen, YanLi Li, ChunZhi Xie]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003923?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 23 Jun 2024 00:39:39 GMT</pubDate>
+      <pubDate>Sun, 23 Jun 2024 03:09:22 GMT</pubDate>
     </item>
     <item>
       <title>基于散度的模糊邻域粗糙集中利用自信息的多标签特征选择</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324004357?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 11 月来源：《模式识别》，第 155 卷作者：蒋洁芳、张先勇、钟原]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324004357?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 23 Jun 2024 00:39:38 GMT</pubDate>
+      <pubDate>Sun, 23 Jun 2024 03:09:21 GMT</pubDate>
     </item>
     <item>
       <title>对抗领域适应的原型学习</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324004047?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: November 2024Source: Pattern Recognition, Volume 155Author(s): Yuchun Fang, Chen Chen, Wei Zhang, Jiahua Wu, Zhaoxiang Zhang, Shaorong Xie]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324004047?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 23 Jun 2024 00:39:38 GMT</pubDate>
+      <pubDate>Sun, 23 Jun 2024 03:09:21 GMT</pubDate>
     </item>
     <item>
       <title><math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si134.svg" display="inline" id="d1e6373" class="math"><mi>ν</mi></math> 支持向量机的双层优化安全筛选规则</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324003959?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: November 2024Source: Pattern Recognition, Volume 155Author(s): Zhiji Yang, Wanyi Chen, Huan Zhang, Yitian Xu, Lei Shi, Jianhua Zhao]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003959?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 23 Jun 2024 00:39:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMMD：针对小样本图像分类的注意力最大平均差异</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S003132032400431X?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 11 月来源：《模式识别》，第 155 卷作者：吴吉、王世鹏、孙建]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S003132032400431X?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 23 Jun 2024 00:39:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于细粒度小样本类增量学习的伪集频率细化架构</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324004370?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: November 2024Source: Pattern Recognition, Volume 155Author(s): Zicheng Pan, Weichuan Zhang, Xiaohan Yu, Miaohua Zhang, Yongsheng Gao]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324004370?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 23 Jun 2024 00:39:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>高斯过程中的谱核压缩：增强泛化和可解释性</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324003935?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 11 月来源：《模式识别》，第 155 卷作者：Kai Chen、Twan van Laarhoven、Elena Marchiori]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003935?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 23 Jun 2024 00:39:36 GMT</pubDate>
+      <pubDate>Sun, 23 Jun 2024 03:09:21 GMT</pubDate>
     </item>
     <item>
       <title>具有数值先验的低秩张量补全的通用框架</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324004291?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 11 月来源：《模式识别》，第 155 卷作者：袁诗然、黄凯珠]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324004291?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 23 Jun 2024 00:39:36 GMT</pubDate>
+      <pubDate>Sun, 23 Jun 2024 03:09:20 GMT</pubDate>
     </item>
     <item>
-      <title>具有局部图信号表示的图域自适应</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324003790?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 11 月来源： Pattern Recognition，第 155 卷作者：Yusuf Yiğit Pilavcı、Eylem Tuğçe Güneyi、Cemil埃利夫·乌拉尔·森吉兹]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003790?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 23 Jun 2024 00:39:35 GMT</pubDate>
+      <title>AMMD：针对小样本图像分类的注意力最大平均差异</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S003132032400431X?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 11 月来源：《模式识别》，第 155 卷作者：吴吉、王世鹏、孙建]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S003132032400431X?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 23 Jun 2024 03:09:20 GMT</pubDate>
     </item>
     <item>
-      <title>DGRM：Diffusion-GAN推荐模型，缓解稀疏环境下的模式崩溃问题</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324004436?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: November 2024Source: Pattern Recognition, Volume 155Author(s): Deng Jiangzhou, Wang Songli, Ye Jianmei, Ji Lianghao, Wang Yong]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324004436?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 23 Jun 2024 00:39:35 GMT</pubDate>
+      <title>用于细粒度小样本类增量学习的伪集频率细化架构</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324004370?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: November 2024Source: Pattern Recognition, Volume 155Author(s): Zicheng Pan, Weichuan Zhang, Xiaohan Yu, Miaohua Zhang, Yongsheng Gao]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324004370?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 23 Jun 2024 03:09:20 GMT</pubDate>
     </item>
     <item>
       <title>保持一致性的离散在线跨模态哈希算法</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324004394?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: November 2024Source: Pattern Recognition, Volume 155Author(s): Xiao Kang, Xingbo Liu, Wen Xue, Xuening Zhang, Xiushan Nie, Yilong Yin]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324004394?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 23 Jun 2024 00:39:35 GMT</pubDate>
+      <pubDate>Sun, 23 Jun 2024 03:09:19 GMT</pubDate>
     </item>
     <item>
       <title>基于混合上下文的多先验熵建模用于学习无损图像压缩</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324003832?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 11 月来源：《模式识别》，第 155 卷作者：Chuan Fu、Bo Du、Liangpei Zhang]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003832?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 23 Jun 2024 00:39:35 GMT</pubDate>
+      <pubDate>Sun, 23 Jun 2024 03:09:19 GMT</pubDate>
     </item>
     <item>
-      <title>IRCNN：一种基于迭代残差卷积神经网络的新型信号分解方法</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324004217?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2024 年 11 月来源：《模式识别》，第 155 卷作者：Feng Zhou、Antonio Cicone、Haomin Zhou]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324004217?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 23 Jun 2024 00:39:34 GMT</pubDate>
+      <title>高斯过程中的谱核压缩：增强泛化和可解释性</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324003935?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 11 月来源：《模式识别》，第 155 卷作者：Kai Chen、Twan van Laarhoven、Elena Marchiori]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003935?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 23 Jun 2024 03:09:19 GMT</pubDate>
     </item>
     <item>
       <title>用于监督主成分分析的线性质心编码器</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324003856?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2024 年 11 月来源：《模式识别》，第 155 卷作者：Tomojit Ghosh、Michael Kirby]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003856?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 23 Jun 2024 00:39:34 GMT</pubDate>
+      <pubDate>Sun, 23 Jun 2024 03:09:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有局部图信号表示的图域自适应</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324003790?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 11 月来源：模式识别，第 155 卷作者：Yusuf Yiğit Pilavcı、Eylem Tuğçe Güneyi、Cemil埃利夫·乌拉尔·森吉兹]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324003790?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 23 Jun 2024 03:09:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>DGRM：Diffusion-GAN推荐模型，缓解稀疏环境下的模式崩溃问题</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324004436?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: November 2024Source: Pattern Recognition, Volume 155Author(s): Deng Jiangzhou, Wang Songli, Ye Jianmei, Ji Lianghao, Wang Yong]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324004436?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 23 Jun 2024 03:09:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>IRCNN：一种基于迭代残差卷积神经网络的新型信号分解方法</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324004217?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2024 年 11 月来源：《模式识别》，第 155 卷作者：Feng Zhou、Antonio Cicone、Haomin Zhou]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324004217?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 23 Jun 2024 03:09:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
