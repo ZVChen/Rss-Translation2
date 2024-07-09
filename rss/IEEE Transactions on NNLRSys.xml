@@ -4,48 +4,48 @@
     <title>IEEE 神经网络和学习系统学报 - 新目录</title>
     <link>http://ieeexplore.ieee.org</link>
     <description>出版物目录提醒# 5962385</description>
-    <lastBuildDate>Mon, 03 Jun 2024 04:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 04:00:00 GMT</lastBuildDate>
     <item>
-      <title>IEEE 神经网络与学习系统学报出版信息</title>
-      <link>http://ieeexplore.ieee.org/document/10547142</link>
+      <title>目录</title>
+      <link>http://ieeexplore.ieee.org/document/10589510</link>
       <description><![CDATA[无效的]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10547142</guid>
-      <pubDate>Mon, 03 Jun 2024 13:17:13 GMT</pubDate>
+      <guid>http://ieeexplore.ieee.org/document/10589510</guid>
+      <pubDate>Mon, 08 Jul 2024 13:16:57 GMT</pubDate>
     </item>
     <item>
-      <title>关于医学成像的可解释和可推广的深度学习的编辑特刊</title>
-      <link>http://ieeexplore.ieee.org/document/10547163</link>
-      <description><![CDATA[深度学习技术的快速发展深刻影响了医学图像分析领域，但它们与临床放射学实践的全面融合并没有像预期的那样迅速推进。放射科医生和临床医生广泛采用这些技术的一个重要障碍是普遍缺乏对这些技术产生的结果的信任和信心。这种担忧主要源于对医学成像领域深度学习模型的可解释性和可推广性的担忧。作为医学图像分析社区对这些关键问题的回应的一部分，我们组织了 IEEE 神经网络和学习系统学报 (TNNLS) 特刊，主题是医学成像的可解释和可推广的深度学习。本 IEEE TNNLS 特刊呼吁原创和创新的方法贡献，旨在解决医学成像深度学习的可解释性和可推广性的关键挑战。本 IEEE TNNLS 特刊强调新图像分析方法技术方面的研究和先进开发，所有开发的新方法也应在真实的大规模医学成像数据上进行评估或验证。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10547163</guid>
-      <pubDate>Mon, 03 Jun 2024 13:17:13 GMT</pubDate>
+      <title>IEEE 神经网络与学习系统学报出版信息</title>
+      <link>http://ieeexplore.ieee.org/document/10589528</link>
+      <description><![CDATA[无效的]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10589528</guid>
+      <pubDate>Mon, 08 Jul 2024 13:16:57 GMT</pubDate>
     </item>
     <item>
       <title>IEEE 计算智能协会信息</title>
-      <link>http://ieeexplore.ieee.org/document/10547165</link>
+      <link>http://ieeexplore.ieee.org/document/10589529</link>
       <description><![CDATA[无效的]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10547165</guid>
-      <pubDate>Mon, 03 Jun 2024 13:17:13 GMT</pubDate>
+      <guid>http://ieeexplore.ieee.org/document/10589529</guid>
+      <pubDate>Mon, 08 Jul 2024 13:16:56 GMT</pubDate>
     </item>
     <item>
       <title>IEEE 神经网络与学习系统学报 作者须知</title>
-      <link>http://ieeexplore.ieee.org/document/10547164</link>
+      <link>http://ieeexplore.ieee.org/document/10589509</link>
       <description><![CDATA[无效的]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10547164</guid>
-      <pubDate>Mon, 03 Jun 2024 13:17:12 GMT</pubDate>
+      <guid>http://ieeexplore.ieee.org/document/10589509</guid>
+      <pubDate>Mon, 08 Jul 2024 13:16:52 GMT</pubDate>
     </item>
     <item>
-      <title>目录</title>
-      <link>http://ieeexplore.ieee.org/document/10547144</link>
-      <description><![CDATA[无效的]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10547144</guid>
-      <pubDate>Mon, 03 Jun 2024 13:17:01 GMT</pubDate>
+      <title>用于图像集分类的 SPD 流形深度度量学习</title>
+      <link>http://ieeexplore.ieee.org/document/10467142</link>
+      <description><![CDATA[通过将每个图像集表征为对称正定 (SPD) 流形上的非奇异协方差矩阵，使用图像集进行视觉内容分类的方法取得了令人瞩目的进展。然而，类内变异性过大和类间表示相似性这一关键挑战迄今为止仍然存在。虽然最近的一些研究通过在原始 SPD 流形上联合学习嵌入映射和相似性度量来缓解这两个问题，但它们固有的浅层线性特征转换机制不足以捕捉有用的几何特征，尤其是在复杂场景中。为此，本文探讨了一种用于图像集分类的新方法，称为 SPD 流形深度度量学习 (SMDML)。具体而言，SMDML 首先选择流行的 SPD 流形神经网络 (SPDNet) 作为主干（编码器），以推导出 SPD 矩阵非线性表示。为了抵消多阶段特征嵌入过程中结构信息的退化，我们在编码器末端构建了一个黎曼解码器，由重构误差项（RT）训练，以诱导隐藏层生成的低维特征流形捕捉描述成像场景的视觉数据的关键信息。我们通过理论和实验证明在 RT 中用欧几里得距离代替黎曼度量是可行的。然后，在建立的黎曼网络中引入ReCov层，以正则化每个输入特征矩阵内的局部统计信息，从而增强学习过程的有效性。对ReCov层中使用的激活函数的连续性和生成正定矩阵的条件的理论分析有利于网络设计。受到用于训练的单一交叉熵损失无法有效解析深度表示的几何分布这一事实的启发，我们最终为建议的模型赋予了一个新的度量学习正则化项。该项通过将数据变化的编码和处理明确地纳入网络学习过程，不仅可以得到强大的黎曼表示，还可以训练出有效的分类器。实验结果表明，该方法在三个典型的视觉分类任务上具有优越性。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10467142</guid>
+      <pubDate>Tue, 12 Mar 2024 13:16:14 GMT</pubDate>
     </item>
     <item>
-      <title>异步并行大规模高斯过程回归</title>
-      <link>http://ieeexplore.ieee.org/document/10494336</link>
-      <description><![CDATA[高斯过程回归 (GPR) 是机器学习研究中一种重要的非参数学习方法，具有许多实际应用。众所周知，训练大规模 GPR 是一项具有挑战性的任务，因为它需要大量的计算成本和大量的内存。为了解决这个具有挑战性的问题，在本文中，我们提出了一种异步双随机梯度算法来处理 GPR 的大规模训练。我们将 GPR 公式化为凸优化问题，即核岭回归。之后，为了有效地解决这个凸核问题，我们首先使用随机特征映射方法来近似核模型，然后利用两个无偏随机近似，即随机方差减小梯度和随机坐标下降，异步并行地更新解。通过这种方式，我们的算法在样本大小和维度上都具有很好的扩展性，并加快了训练计算速度。更重要的是，我们证明了我们的算法具有全局线性收敛速度。我们在八个大规模基准数据集上进行的回归和分类任务的实验结果表明，所提出的算法优于现有的最先进的 GPR 方法。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10494336</guid>
-      <pubDate>Mon, 08 Apr 2024 13:17:25 GMT</pubDate>
+      <title>具有类感知内存对齐的无监督域自适应</title>
+      <link>http://ieeexplore.ieee.org/document/10454017</link>
+      <description><![CDATA[无监督域自适应 (UDA) 是通过从标签丰富的源域中学习知识来对未标记的目标域进行预测。在实践中，现有的 UDA 方法主要侧重于通过小批量训练来最小化不同域之间的差异，其中每次迭代只能访问少数实例。由于采样的随机性，这种批次级对齐模式不稳定并且可能导致错位。为了减轻这种风险，我们提出了类感知内存对齐 (CMA)，它通过两个辅助类感知内存对两个域的分布进行建模，并对这些预定义内存执行域自适应。CMA 具有两个不同的特点：类感知内存为不同的域创建两个对称的类感知分布，以及两个基于可靠性的过滤策略，可增强构建的内存的可靠性。我们进一步设计了一个统一的基于内存的损失，以共同提高内存中特征的可转移性和可辨别性。最新 (SOTA) 比较和仔细的消融研究表明了我们提出的 CMA 的有效性。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10454017</guid>
+      <pubDate>Thu, 29 Feb 2024 13:16:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
