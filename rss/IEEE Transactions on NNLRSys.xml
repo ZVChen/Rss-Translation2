@@ -4,48 +4,41 @@
     <title>IEEE 神经网络和学习系统学报 - 新目录</title>
     <link>http://ieeexplore.ieee.org</link>
     <description>出版物目录提醒# 5962385</description>
-    <lastBuildDate>Mon, 08 Jul 2024 04:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 04:00:00 GMT</lastBuildDate>
+    <item>
+      <title>IEEE 计算智能协会信息</title>
+      <link>http://ieeexplore.ieee.org/document/10623567</link>
+      <description><![CDATA[无效的]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10623567</guid>
+      <pubDate>Mon, 05 Aug 2024 13:16:50 GMT</pubDate>
+    </item>
     <item>
       <title>目录</title>
-      <link>http://ieeexplore.ieee.org/document/10589510</link>
+      <link>http://ieeexplore.ieee.org/document/10623583</link>
       <description><![CDATA[无效的]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10589510</guid>
-      <pubDate>Mon, 08 Jul 2024 13:16:57 GMT</pubDate>
+      <guid>http://ieeexplore.ieee.org/document/10623583</guid>
+      <pubDate>Mon, 05 Aug 2024 13:16:49 GMT</pubDate>
     </item>
     <item>
       <title>IEEE 神经网络与学习系统学报出版信息</title>
-      <link>http://ieeexplore.ieee.org/document/10589528</link>
+      <link>http://ieeexplore.ieee.org/document/10623565</link>
       <description><![CDATA[无效的]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10589528</guid>
-      <pubDate>Mon, 08 Jul 2024 13:16:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>IEEE 计算智能协会信息</title>
-      <link>http://ieeexplore.ieee.org/document/10589529</link>
-      <description><![CDATA[无效的]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10589529</guid>
-      <pubDate>Mon, 08 Jul 2024 13:16:56 GMT</pubDate>
+      <guid>http://ieeexplore.ieee.org/document/10623565</guid>
+      <pubDate>Mon, 05 Aug 2024 13:16:49 GMT</pubDate>
     </item>
     <item>
       <title>IEEE 神经网络与学习系统学报 作者须知</title>
-      <link>http://ieeexplore.ieee.org/document/10589509</link>
+      <link>http://ieeexplore.ieee.org/document/10623566</link>
       <description><![CDATA[无效的]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10589509</guid>
-      <pubDate>Mon, 08 Jul 2024 13:16:52 GMT</pubDate>
+      <guid>http://ieeexplore.ieee.org/document/10623566</guid>
+      <pubDate>Mon, 05 Aug 2024 13:16:48 GMT</pubDate>
     </item>
     <item>
-      <title>用于图像集分类的 SPD 流形深度度量学习</title>
-      <link>http://ieeexplore.ieee.org/document/10467142</link>
-      <description><![CDATA[通过将每个图像集表征为对称正定 (SPD) 流形上的非奇异协方差矩阵，使用图像集进行视觉内容分类的方法取得了令人瞩目的进展。然而，类内变异性过大和类间表示相似性这一关键挑战迄今为止仍然存在。虽然最近的一些研究通过在原始 SPD 流形上联合学习嵌入映射和相似性度量来缓解这两个问题，但它们固有的浅层线性特征转换机制不足以捕捉有用的几何特征，尤其是在复杂场景中。为此，本文探讨了一种用于图像集分类的新方法，称为 SPD 流形深度度量学习 (SMDML)。具体而言，SMDML 首先选择流行的 SPD 流形神经网络 (SPDNet) 作为主干（编码器），以推导出 SPD 矩阵非线性表示。为了抵消多阶段特征嵌入过程中结构信息的退化，我们在编码器末端构建了一个黎曼解码器，由重构误差项（RT）训练，以诱导隐藏层生成的低维特征流形捕捉描述成像场景的视觉数据的关键信息。我们通过理论和实验证明在 RT 中用欧几里得距离代替黎曼度量是可行的。然后，在建立的黎曼网络中引入ReCov层，以正则化每个输入特征矩阵内的局部统计信息，从而增强学习过程的有效性。对ReCov层中使用的激活函数的连续性和生成正定矩阵的条件的理论分析有利于网络设计。受到用于训练的单一交叉熵损失无法有效解析深度表示的几何分布这一事实的启发，我们最终为建议的模型赋予了一个新的度量学习正则化项。该项通过将数据变化的编码和处理明确地纳入网络学习过程，不仅可以得到强大的黎曼表示，还可以训练出有效的分类器。实验结果表明，该方法在三个典型的视觉分类任务上具有优越性。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10467142</guid>
-      <pubDate>Tue, 12 Mar 2024 13:16:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有类感知内存对齐的无监督域自适应</title>
-      <link>http://ieeexplore.ieee.org/document/10454017</link>
-      <description><![CDATA[无监督域自适应 (UDA) 是通过从标签丰富的源域中学习知识来对未标记的目标域进行预测。在实践中，现有的 UDA 方法主要侧重于通过小批量训练来最小化不同域之间的差异，其中每次迭代只能访问少数实例。由于采样的随机性，这种批次级对齐模式不稳定并且可能导致错位。为了减轻这种风险，我们提出了类感知内存对齐 (CMA)，它通过两个辅助类感知内存对两个域的分布进行建模，并对这些预定义内存执行域自适应。CMA 具有两个不同的特点：类感知内存为不同的域创建两个对称的类感知分布，以及两个基于可靠性的过滤策略，可增强构建的内存的可靠性。我们进一步设计了一个统一的基于内存的损失，以共同提高内存中特征的可转移性和可辨别性。最新 (SOTA) 比较和仔细的消融研究表明了我们提出的 CMA 的有效性。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10454017</guid>
-      <pubDate>Thu, 29 Feb 2024 13:16:21 GMT</pubDate>
+      <title>ES-dRNN：用于短期负荷预测的混合指数平滑和扩张循环神经网络模型</title>
+      <link>http://ieeexplore.ieee.org/document/10236525</link>
+      <description><![CDATA[短期负荷预测 (STLF) 具有挑战性，因为复杂的时间序列 (TS) 表达了三种季节性模式和一种非线性趋势。本文提出了一种新型混合分层深度学习 (DL) 模型，该模型处理多个季节性并产生点预测和预测区间 (PI)。它结合了指数平滑 (ES) 和循环神经网络 (RNN)。ES 动态提取每个 TS 的主要成分并实现动态去季节化，这在处理相对较小的数据集时特别有用。多层 RNN 配备了一种新型扩张循环单元，旨在有效地模拟 TS 中的短期和长期依赖关系。为了改进内部 TS 表示并从而提高模型的性能，RNN 同时学习 ES 参数和将输入转换为预测的主要映射函数。我们将我们的方法与几种基线方法（包括经典统计方法和机器学习 (ML) 方法）进行了比较，针对 35 个欧洲国家的 STLF 问题。实证研究清楚地表明，所提出的模型具有很强的表达能力，可以解决具有多个季节性和显著随机波动的 TS 的非线性随机预测问题。事实上，它在准确性方面优于统计和最先进的 ML 模型。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10236525</guid>
+      <pubDate>Thu, 31 Aug 2023 14:03:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
