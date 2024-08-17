@@ -92,7 +92,7 @@
     <item>
       <title>Sim-Grasp：使用合成基准学习杂乱环境下的 6 自由度抓取策略</title>
       <link>http://ieeexplore.ieee.org/document/10602737</link>
-      <description><![CDATA[在本信中，我们介绍了 Sim-Grasp，这是一种强大的 6 自由度双指抓取系统，它集成了高级语言模型，可在杂乱环境中增强物体操控能力。我们推出了 Sim-Grasp-Dataset，其中包括 500 个场景中的 1,550 个物体，带有 790 万个带注释的标签，并开发了 Sim-GraspNet 以从点云生成抓取姿势。Sim-Grasp-Polices 分别实现了单个物体的 97.14% 抓取成功率以及 1-2 级和 3-4 级物体的混合杂乱场景的 87.43% 和 83.33% 抓取成功率。通过结合语言模型通过文本和框提示进行目标识别，Sim-Grasp 实现了物体不可知和目标拾取，突破了智能机器人系统的界限。]]></description>
+      <description><![CDATA[在本信中，我们介绍了 Sim-Grasp，这是一种强大的 6 自由度双指抓取系统，它集成了高级语言模型，可在杂乱环境中增强对象操纵能力。我们推出了 Sim-Grasp-Dataset，其中包括 500 个场景中的 1,550 个对象，带有 790 万个带注释的标签，并开发了 Sim-GraspNet 以从点云生成抓取姿势。Sim-Grasp-Polices 分别实现了单个对象的 97.14% 的抓取成功率以及 1-2 级和 3-4 级对象的混合杂乱场景中的 87.43% 和 83.33% 的抓取成功率。通过结合语言模型通过文本和框提示进行目标识别，Sim-Grasp 实现了与对象无关和目标拾取，突破了智能机器人系统的界限。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10602737</guid>
       <pubDate>Thu, 18 Jul 2024 13:17:20 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>具有差异化缺陷设计的 Kresling 折纸，适用于多向爬行机器人</title>
       <link>http://ieeexplore.ieee.org/document/10602744</link>
-      <description><![CDATA[多向运动能力是爬行机器人的重要特征。本工作受Kresling折纸图案的启发，设计了一种软体气动执行器，可在单一气源的控制下实现扭转、收缩和多向弯曲等复合运动。通过对Kresling侧面双稳态缺陷的差异化设计，通过调节内部气压实现Kresling缺陷模块及其组合模块的多向运动。此外，该系统易于基于3D打印技术制造和组装。通过连接各种模块，我们实现了一个可重构的爬行机器人，能够进行多向运动（向前、向后、向左和向右）。双稳态缺陷与Kresling或其他折纸结构相结合的差异化设计为折纸机器人提供了一种引入更多运动模式的方法。]]></description>
+      <description><![CDATA[多向运动能力是爬行机器人的重要特征。本工作受Kresling折纸图案的启发，设计了一种软体气动执行器，可在单一气源的控制下实现扭转、收缩和多向弯曲等复合运动。通过对Kresling侧面双稳态裂纹的差异化设计，通过调节内部气压实现Kresling裂纹模块及其组合模块的多向运动。此外，该系统易于基于3D打印技术制造和组装。通过连接各种模块，我们实现了一个可重构的爬行机器人，能够进行多向运动（向前、向后、向左和向右）。双稳态裂纹与Kresling或其他折纸结构相结合的差异化设计为折纸机器人提供了一种引入更多运动模式的方法。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10602744</guid>
       <pubDate>Thu, 18 Jul 2024 13:17:20 GMT</pubDate>
     </item>
