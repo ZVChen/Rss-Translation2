@@ -92,7 +92,7 @@
     <item>
       <title>Sim-Grasp：使用合成基准学习杂乱环境下的 6 自由度抓取策略</title>
       <link>http://ieeexplore.ieee.org/document/10602737</link>
-      <description><![CDATA[在本信中，我们介绍了 Sim-Grasp，这是一种强大的 6 自由度双指抓取系统，它集成了高级语言模型，可在杂乱环境中增强对象操纵能力。我们推出了 Sim-Grasp-Dataset，其中包括 500 个场景中的 1,550 个对象，带有 790 万个带注释的标签，并开发了 Sim-GraspNet 以从点云生成抓取姿势。Sim-Grasp-Polices 分别实现了单个对象的 97.14% 的抓取成功率以及 1-2 级和 3-4 级对象的混合杂乱场景中的 87.43% 和 83.33% 的抓取成功率。通过结合语言模型通过文本和框提示进行目标识别，Sim-Grasp 实现了与对象无关和目标拾取，突破了智能机器人系统的界限。]]></description>
+      <description><![CDATA[在本信中，我们介绍了 Sim-Grasp，这是一种强大的 6 自由度双指抓取系统，它集成了高级语言模型，可在杂乱环境中增强物体操控能力。我们推出了 Sim-Grasp-Dataset，其中包括 500 个场景中的 1,550 个物体，带有 790 万个带注释的标签，并开发了 Sim-GraspNet 以从点云生成抓取姿势。Sim-Grasp-Polices 分别实现了单个物体的 97.14% 抓取成功率以及 1-2 级和 3-4 级物体的混合杂乱场景的 87.43% 和 83.33% 抓取成功率。通过结合语言模型通过文本和框提示进行目标识别，Sim-Grasp 实现了物体不可知和目标拾取，突破了智能机器人系统的界限。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10602737</guid>
       <pubDate>Thu, 18 Jul 2024 13:17:20 GMT</pubDate>
     </item>
