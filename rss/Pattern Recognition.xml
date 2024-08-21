@@ -4,111 +4,111 @@
     <title>ScienceDirect 出版物：模式识别</title>
     <link>https://www.sciencedirect.com/journal/pattern-recognition</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Tue, 20 Aug 2024 21:08:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 00:38:34 GMT</lastBuildDate>
     <item>
-      <title>DMANet：用于可见红外行人重新识别的双模态对齐网络</title>
+      <title>半监督双模态显著物体检测的渐进扩展</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006198?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：王杰、张子豪、余娜娜、韩亚红]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006198?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 21 Aug 2024 00:38:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>DMANet：用于可见光红外行人重新识别的双模态对齐网络</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324006101?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：徐成、邓姝雅、余浩、赵国英]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006101?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 20 Aug 2024 21:08:47 GMT</pubDate>
+      <pubDate>Wed, 21 Aug 2024 00:38:34 GMT</pubDate>
     </item>
     <item>
       <title>迈向真正的文本篡改检测：新数据集和新解决方案</title>
       <link>https://www.sciencedirect.com/science/article/pii/S003132032400579X?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: January 2025Source: Pattern Recognition, Volume 157Author(s): Dongliang Luo, Yuliang Liu, Rui Yang, Xianjin Liu, Jishen Zeng, Yu Zhou, Xiang Bai]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S003132032400579X?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 20 Aug 2024 21:08:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于三维特征的红外与可见光图像融合策略</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006368?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：刘晓文、霍洪涛、杨欣、李静]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006368?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 20 Aug 2024 21:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于对象重新识别的特征聚合和连接</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006204?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：韩东晨、刘宝娣、邵帅、刘伟峰、周逸聪]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006204?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 20 Aug 2024 21:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>分数阶加权球面贝塞尔-傅里叶矩的图像分析</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S003132032400623X?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: January 2025Source: Pattern Recognition, Volume 157Author(s): Tengfei Yang, Zhiquan Liu, Jingjing Guo, Yong Yu, Fang Ren, Teng Wang]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S003132032400623X?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 20 Aug 2024 21:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>半监督双模态显著物体检测的渐进扩展</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006198?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：王杰、张子豪、余娜娜、韩亚红]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006198?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 20 Aug 2024 21:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>迈向值得信赖的数据集提炼</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006265?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：马世杰、朱飞、程臻、张旭耀]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006265?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 20 Aug 2024 21:08:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>面向任务的对话系统的多智能体好奇心奖励模型</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006356?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：孙静涛、寇嘉音、侯文燕、白玉杰]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006356?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 20 Aug 2024 21:08:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>测量多种分布的广义散度并应用于深度聚类</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006150?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：Mingfei Lu、Lei Xing、Badong Chen]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006150?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 20 Aug 2024 21:08:45 GMT</pubDate>
+      <pubDate>Wed, 21 Aug 2024 00:38:34 GMT</pubDate>
     </item>
     <item>
       <title>通过块混合跨模态学习实现可见光-红外人体重新识别</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324006241?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：钱志豪、林雨田、杜波]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006241?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 20 Aug 2024 21:08:45 GMT</pubDate>
+      <pubDate>Wed, 21 Aug 2024 00:38:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于三维特征的红外与可见光图像融合策略</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006368?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：刘晓文、霍洪涛、杨欣、李静]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006368?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 21 Aug 2024 00:38:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于对象重新识别的特征聚合和连接</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006204?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：韩东晨、刘宝娣、邵帅、刘伟峰、周逸聪]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006204?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 21 Aug 2024 00:38:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>分数阶加权球面贝塞尔-傅里叶矩的图像分析</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S003132032400623X?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: January 2025Source: Pattern Recognition, Volume 157Author(s): Tengfei Yang, Zhiquan Liu, Jingjing Guo, Yong Yu, Fang Ren, Teng Wang]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S003132032400623X?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 21 Aug 2024 00:38:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>迈向值得信赖的数据集提炼</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006265?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：马世杰、朱飞、程臻、张旭耀]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006265?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 21 Aug 2024 00:38:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>面向任务的对话系统的多智能体好奇心奖励模型</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006356?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：孙静涛、寇嘉音、侯文燕、白玉杰]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006356?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 21 Aug 2024 00:38:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>测量多种分布的广义散度并应用于深度聚类</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006150?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：Mingfei Lu、Lei Xing、Badong Chen]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006150?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 21 Aug 2024 00:38:32 GMT</pubDate>
     </item>
     <item>
       <title>用于多视图多标签特征选择的嵌入式特征融合</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324006393?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：郝娉婷、高万福、胡良]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006393?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 20 Aug 2024 21:08:44 GMT</pubDate>
+      <pubDate>Wed, 21 Aug 2024 00:38:31 GMT</pubDate>
     </item>
     <item>
       <title>多类不平衡分类任务的一种新数据复杂度度量</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324006320?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：Mingming Han、Husheng Guo、Wenjian Wang]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006320?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 20 Aug 2024 21:08:44 GMT</pubDate>
+      <pubDate>Wed, 21 Aug 2024 00:38:31 GMT</pubDate>
     </item>
     <item>
       <title>一种适用于复杂自然环境的图像去雾新算法</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324006162?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：郑远舟、钱龙、张元峰、曹静欣、刘新宇、马勇]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006162?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 20 Aug 2024 21:08:44 GMT</pubDate>
+      <pubDate>Wed, 21 Aug 2024 00:38:31 GMT</pubDate>
     </item>
     <item>
       <title>半监督医学图像分割的平衡特征融合协同训练</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324006071?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：赵忠达、王海燕、雷涛、王宣、沈小红、姚海洋]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006071?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 20 Aug 2024 21:08:43 GMT</pubDate>
+      <pubDate>Wed, 21 Aug 2024 00:38:30 GMT</pubDate>
     </item>
     <item>
       <title>为二元相似性发展元相关类</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324006228?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：Valentina Franzoni、Giulio Biondi、Yang Liu、阿尔弗雷多·米拉尼]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006228?dgcid=rss_sd_all</guid>
-      <pubDate>Tue, 20 Aug 2024 21:08:43 GMT</pubDate>
+      <pubDate>Wed, 21 Aug 2024 00:38:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
