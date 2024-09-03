@@ -3,7 +3,7 @@
   <channel>
     <title>IEEE 神经网络和学习系统学报 - 新目录</title>
     <link>http://ieeexplore.ieee.org</link>
-    <description>出版物编号 5962385 的目录提醒</description>
+    <description>出版物目录提醒# 5962385</description>
     <lastBuildDate>Mon, 05 Aug 2024 04:00:00 GMT</lastBuildDate>
     <item>
       <title>IEEE 计算智能协会信息</title>
@@ -32,13 +32,6 @@
       <description><![CDATA[无效的]]></description>
       <guid>http://ieeexplore.ieee.org/document/10623566</guid>
       <pubDate>Mon, 05 Aug 2024 13:16:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>ES-dRNN：用于短期负荷预测的混合指数平滑和扩张循环神经网络模型</title>
-      <link>http://ieeexplore.ieee.org/document/10236525</link>
-      <description><![CDATA[短期负荷预测 (STLF) 具有挑战性，因为复杂的时间序列 (TS) 表达了三种季节性模式和一种非线性趋势。本文提出了一种新型混合分层深度学习 (DL) 模型，该模型处理多个季节性并产生点预测和预测区间 (PI)。它结合了指数平滑 (ES) 和循环神经网络 (RNN)。ES 动态提取每个 TS 的主要成分并实现动态去季节化，这在处理相对较小的数据集时特别有用。多层 RNN 配备了一种新型扩张循环单元，旨在有效地模拟 TS 中的短期和长期依赖关系。为了改进内部 TS 表示并从而提高模型的性能，RNN 同时学习 ES 参数和将输入转换为预测的主要映射函数。我们将我们的方法与几种基线方法（包括经典统计方法和机器学习 (ML) 方法）进行了比较，针对 35 个欧洲国家的 STLF 问题。实证研究清楚地表明，所提出的模型具有很强的表达能力，可以解决具有多个季节性和显著随机波动的 TS 的非线性随机预测问题。事实上，它在准确性方面优于统计和最先进的 ML 模型。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10236525</guid>
-      <pubDate>Thu, 31 Aug 2023 14:03:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
