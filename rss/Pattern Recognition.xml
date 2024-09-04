@@ -4,111 +4,111 @@
     <title>ScienceDirect 出版物：模式识别</title>
     <link>https://www.sciencedirect.com/journal/pattern-recognition</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Wed, 04 Sep 2024 15:09:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 18:11:30 GMT</lastBuildDate>
     <item>
-      <title>卷积神经网络的自蒸馏增强自适应剪枝</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006939?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: January 2025Source: Pattern Recognition, Volume 157Author(s): Huabin Diao, Gongyan Li, Shaoyun Xu, Chao Kong, Wei Wang, Shuai Liu, Yuefeng He]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006939?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 04 Sep 2024 15:09:35 GMT</pubDate>
+      <title>通过局部维度估计分析 GAN 的潜在空间以进行解缠评估</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006654?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：Jaewoong Choi、Geonho Hwang、Hyunsoo Cho、Myungjoo Kang]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006654?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 04 Sep 2024 18:11:29 GMT</pubDate>
     </item>
     <item>
       <title>有限数据的脑电图分类：一种深度聚类方法</title>
       <link>https://www.sciencedirect.com/science/article/pii/S003132032400685X?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：Mohsen Tabejamaat、Hoda Mohammadzade、Farhood Negin、Francois Bremond]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S003132032400685X?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 04 Sep 2024 15:09:34 GMT</pubDate>
+      <pubDate>Wed, 04 Sep 2024 18:11:29 GMT</pubDate>
     </item>
     <item>
       <title>迈向可靠的领域泛化：来自 PF2HC 基准和动态评估的见解</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324006770?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：张娇、敖翔、张旭耀、刘成林]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006770?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 04 Sep 2024 15:09:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于 RGB-T 跟踪的多尺度特征提取和融合以及注意力交互</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S003132032400668X?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：Haijiao Xing、Wei Wei、Lei Zhang、Yanning Zhang]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S003132032400668X?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 04 Sep 2024 15:09:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个模型对于估计来说需要数万个示例，对于分类来说需要数千个示例</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006551?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：Thomas Dagès、Laurent D. Cohen、Alfred M. Bruckstein]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006551?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 04 Sep 2024 15:09:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于互补相位交错的条纹顺序识别用于时间相位展开</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006885?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：吴海涛、曹一平]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006885?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 04 Sep 2024 15:09:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>为二元相似性发展元相关类</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006228?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：Valentina Franzoni、Giulio Biondi、Yang Liu、阿尔弗雷多·米拉尼]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006228?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 04 Sep 2024 15:09:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用局部密度和全局结构进行异常值检测</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006988?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：刘华文、张世超、吴宗达、李学龙]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006988?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 04 Sep 2024 15:09:33 GMT</pubDate>
+      <pubDate>Wed, 04 Sep 2024 18:11:29 GMT</pubDate>
     </item>
     <item>
       <title>CARLA：用于时间序列异常检测的自监督对比表征学习</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324006253?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：Zahra Zamanzadeh Darban、Geoffrey I. Webb、Shirui Pan、Charu C. Aggarwal、Mahsa Salehi]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006253?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 04 Sep 2024 15:09:33 GMT</pubDate>
+      <pubDate>Wed, 04 Sep 2024 18:11:28 GMT</pubDate>
     </item>
     <item>
-      <title>通过上下文感知的快捷方式探索和异常特征距离学习进行快速视频异常检测</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006289?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：Chaewon Park、Donghyeong Kim、MyeongAh Cho、Minjung Kim、Minseok Lee、Seungwook Park、Sangyoun Lee]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006289?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 04 Sep 2024 15:09:32 GMT</pubDate>
+      <title>时间矩阵分解：潜在因子估计的多项式方法</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006563?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：Prasad Bhavana、Vineet Padmanabhan]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006563?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 04 Sep 2024 18:11:28 GMT</pubDate>
     </item>
     <item>
-      <title>从稀疏输入快速重建辐射场</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006149?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：宋来、崔林燕、尹吉浩]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006149?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 04 Sep 2024 15:09:32 GMT</pubDate>
+      <title>COLAFormer：以线性计算复杂度传达局部-全局特征</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006216?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：苗正伟、罗辉、李美辉、张建林]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006216?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 04 Sep 2024 18:11:28 GMT</pubDate>
     </item>
     <item>
-      <title>半监督医学图像分割的平衡特征融合协同训练</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006071?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：赵忠达、王海燕、雷涛、王宣、沈小红、姚海洋]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006071?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 04 Sep 2024 15:09:32 GMT</pubDate>
+      <title>基于互补相位交错的条纹顺序识别用于时间相位展开</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006885?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：吴海涛、曹一平]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006885?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 04 Sep 2024 18:11:27 GMT</pubDate>
     </item>
     <item>
-      <title>FastUNet：用于工业循环水养殖的快速分层多块水下增强网络</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006794?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：安顺民、徐丽红、邓志超]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006794?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 04 Sep 2024 15:09:31 GMT</pubDate>
+      <title>为二元相似性发展元相关类</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006228?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：Valentina Franzoni、Giulio Biondi、Yang Liu、阿尔弗雷多·米拉尼]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006228?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 04 Sep 2024 18:11:27 GMT</pubDate>
     </item>
     <item>
-      <title>GADNet：通过基于图的聚合和解耦改进图像文本匹配</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006514?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：肖普、王志文、林园、吴宇、荆丽萍、高新波]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006514?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 04 Sep 2024 15:09:31 GMT</pubDate>
+      <title>使用局部密度和全局结构进行异常值检测</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006988?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：刘华文、张世超、吴宗达、李学龙]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006988?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 04 Sep 2024 18:11:27 GMT</pubDate>
     </item>
     <item>
       <title>用于引导图像翻译的纯基于 MLP-Mixer 的 GAN 框架</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324006459?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：唐浩、任斌、Nicu Sebe]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006459?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 04 Sep 2024 15:09:31 GMT</pubDate>
+      <pubDate>Wed, 04 Sep 2024 18:11:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过上下文感知的快捷方式探索和异常特征距离学习进行快速视频异常检测</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006289?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：Chaewon Park、Donghyeong Kim、MyeongAh Cho、Minjung Kim、Minseok Lee、Seungwook Park、Sangyoun Lee]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006289?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 04 Sep 2024 18:11:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>从稀疏输入快速重建辐射场</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006149?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：宋来、崔林燕、尹继浩]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006149?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 04 Sep 2024 18:11:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>半监督医学图像分割的平衡特征融合协同训练</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006071?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：赵忠达、王海燕、雷涛、王宣、沈小红、姚海洋]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006071?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 04 Sep 2024 18:11:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>FastUNet：用于工业循环水养殖的快速分层多块水下增强网络</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006794?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：安顺民、徐丽红、邓志超]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006794?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 04 Sep 2024 18:11:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>GADNet：通过基于图的聚合和解耦改进图像文本匹配</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324006514?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 1 月来源：《模式识别》，第 157 卷作者：肖普、王志文、林园、吴宇、荆丽萍、高新波]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324006514?dgcid=rss_sd_all</guid>
+      <pubDate>Wed, 04 Sep 2024 18:11:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
