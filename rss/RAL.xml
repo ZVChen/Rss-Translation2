@@ -6,14 +6,14 @@
     <description>出版物目录提醒# 7083369</description>
     <lastBuildDate>Thu, 12 Sep 2024 04:00:00 GMT</lastBuildDate>
     <item>
-      <title>斜腔和对称斜腔气动网软执行器的建模与分析</title>
+      <title>斜腔及对称斜腔气动网软执行器的建模与分析</title>
       <link>http://ieeexplore.ieee.org/document/10659073</link>
       <description><![CDATA[斜腔气动网软体执行器（OC-PNSAs）在充气时呈现螺旋形变。对称斜腔气动网软体执行器（SOC-PNSA）由两个对称的OC-PNSAs组成，通过调节两个腔内的压力，可以控制其变形形状，使其能够抓取不同形状的物体。本文首先建立了OC-PNSAs的变形模型，证明了OC-PNSA在充气时绕斜壁弯曲，从而揭示了其螺旋形变的机理。此外，证明了OC-PNSA的螺旋弯曲角度等于同尺寸PNSA的弯曲角度。因此，现有的PNSA弯曲模型可以应用于OC-PNSAs。此外，考虑到对称斜腔的耦合效应，我们基于OC-PNSA模型和等效效应原理，建立了SOC-PNSAs的变形模型。实验和模拟均验证了理论模型在预测执行器变形方面的准确性。所提出的模型对于优化螺旋执行器的设计和控制很有价值，有助于其应用于抓取各种形状的物体。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10659073</guid>
       <pubDate>Thu, 29 Aug 2024 13:17:29 GMT</pubDate>
     </item>
     <item>
-      <title>基于仿射变换的完全不可检测的虚假数据注入攻击，针对带有攻击检测器的远程机械手运动控制</title>
+      <title>基于仿射变换的完全不可检测的远程机械手运动控制虚假数据注入攻击与攻击检测器</title>
       <link>http://ieeexplore.ieee.org/document/10654498</link>
       <description><![CDATA[这封信证明了针对机器人操纵器进行完全不可检测的仿射变换攻击的可行性，其中智能攻击者可以注入乘性和加性虚假数据，同时完全隐藏在系统用户面前。攻击者可以通过满足本文提出的三个条件来实施这些通信线路攻击。通过将标准（未受攻击）试验和可检测攻击案例与三种完全不可检测的轨迹攻击场景进行比较，在 FANUC 6$^{\circ }$ 自由度操纵器上对这些说法进行了实验验证：缩放、反射和剪切。结果显示，在攻击场景和标准情况下观察到的末端执行器误差相似，表明完全不可检测的仿射变换攻击方法使攻击者完全隐藏，同时使他们能够攻击操纵器轨迹。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10654498</guid>
