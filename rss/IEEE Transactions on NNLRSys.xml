@@ -33,12 +33,5 @@
       <guid>http://ieeexplore.ieee.org/document/10737912</guid>
       <pubDate>Tue, 29 Oct 2024 13:19:40 GMT</pubDate>
     </item>
-    <item>
-      <title>百人引领百万：专家指导下的自适应离线强化学习</title>
-      <link>http://ieeexplore.ieee.org/document/10310284</link>
-      <description><![CDATA[离线强化学习 (RL) 可在之前收集的数据集上优化策略，而无需与环境进行任何交互，但通常会受到分布偏移问题的影响。为了缓解此问题，一种典型的解决方案是对策略改进目标施加策略约束。然而，现有方法通常采用“一刀切”的做法，即对小批量中的所有样本甚至整个离线数据集仅保持单一的改进约束平衡。在这项工作中，我们认为应该用不同的策略约束强度来处理不同的样本。基于这个想法，提出了一种名为引导离线 RL (GORL) 的新型插件方法。GORL 采用引导网络以及少数专家演示来自适应地确定每个样本的策略改进和策略约束的相对重要性。我们从理论上证明了我们的方法提供的指导是合理的并且接近最优的。在各种环境中进行的大量实验表明，GORL 可以轻松安装在大多数离线 RL 算法上，并具有统计上显着的性能改进。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10310284</guid>
-      <pubDate>Tue, 07 Nov 2023 13:17:15 GMT</pubDate>
-    </item>
     </channel>
 </rss>
