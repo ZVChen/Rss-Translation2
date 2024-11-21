@@ -4,111 +4,111 @@
     <title>ScienceDirect 出版物：模式识别</title>
     <link>https://www.sciencedirect.com/journal/pattern-recognition</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Wed, 20 Nov 2024 21:09:16 GMT</lastBuildDate>
-    <item>
-      <title>忘记学习（F2L）：在连续无监督领域适应中规避可塑性-稳定性权衡</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324008902?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 3 月来源：《模式识别》，第 159 卷作者：Mohamed Abubakr Hassan、Chi-Guhn Lee]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324008902?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 20 Nov 2024 21:09:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spcolor：基于语义先验引导的示例图像着色</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324008604?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: March 2025Source: Pattern Recognition, Volume 159Author(s): Siqi Chen, Xianlin Zhang, Mingdao Wang, Xueming Li, Yu Zhang, Yue Zhang]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324008604?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 20 Nov 2024 21:09:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>表格数据中基于损坏的异常检测和解释</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324009002?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 3 月来源：《模式识别》，第 159 卷作者：Chunghyup Mok、Seoung Bum Kim]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324009002?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 20 Nov 2024 21:09:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>拓扑重组图对比学习，减轻语义漂移</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324009117?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025年3月来源：模式识别，第159卷作者：张家强、陈松灿]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324009117?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 20 Nov 2024 21:09:15 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 21 Nov 2024 00:45:56 GMT</lastBuildDate>
     <item>
       <title>通过多粒度交叉注意和冻结图像编码器对文本视频检索进行重新排序</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324008501?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 3 月来源：《模式识别》，第 159 卷作者：Zuozhuo Dai、Kaihui Cheng、Fangtao Shao、Zilong Dong、Siyu Zhu]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324008501?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 20 Nov 2024 21:09:15 GMT</pubDate>
+      <pubDate>Thu, 21 Nov 2024 00:45:55 GMT</pubDate>
     </item>
     <item>
       <title>用于视觉语言检索的跨模式适配器</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324008951?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: March 2025Source: Pattern Recognition, Volume 159Author(s): Haojun Jiang, Jianke Zhang, Rui Huang, Chunjiang Ge, Zanlin Ni, Shiji Song, Gao Huang]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324008951?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 20 Nov 2024 21:09:15 GMT</pubDate>
+      <pubDate>Thu, 21 Nov 2024 00:45:55 GMT</pubDate>
     </item>
     <item>
-      <title>用于图像文本检索的跨模态独立匹配网络</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324008471?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: March 2025Source: Pattern Recognition, Volume 159Author(s): Xiao Ke, Baitao Chen, Xiong Yang, Yuhang Cai, Hao Liu, Wenzhong Guo]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324008471?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 20 Nov 2024 21:09:14 GMT</pubDate>
+      <title>忘记学习（F2L）：在连续无监督领域适应中规避可塑性-稳定性权衡</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324008902?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 3 月来源：《模式识别》，第 159 卷作者：Mohamed Abubakr Hassan、Chi-Guhn Lee]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324008902?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 21 Nov 2024 00:45:55 GMT</pubDate>
     </item>
     <item>
-      <title>可扩展高斯过程回归的联合随机全对称插值规则和局部近似</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324008768?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 3 月来源：《模式识别》，第 159 卷作者：张红丽、刘静蕾]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324008768?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 20 Nov 2024 21:09:14 GMT</pubDate>
+      <title>Spcolor：基于语义先验引导的示例图像着色</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324008604?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: March 2025Source: Pattern Recognition, Volume 159Author(s): Siqi Chen, Xianlin Zhang, Mingdao Wang, Xueming Li, Yu Zhang, Yue Zhang]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324008604?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 21 Nov 2024 00:45:55 GMT</pubDate>
     </item>
     <item>
       <title>CAST：Transformers 中跨维度注意力结构的创新框架</title>
       <link>https://www.sciencedirect.com/science/article/pii/S003132032400904X?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 3 月来源：《模式识别》，第 159 卷作者：王德政、魏晓毅、陈聪彦]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S003132032400904X?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 20 Nov 2024 21:09:14 GMT</pubDate>
+      <pubDate>Thu, 21 Nov 2024 00:45:54 GMT</pubDate>
     </item>
     <item>
       <title>稳健概率学习机的嵌入式特征选择</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324009087?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 3 月来源：模式识别，第 159 卷作者：Miguel Carrasco、Benjamin Ivorra、Julio López、安赫尔·M·拉莫斯]]></description>
+      <description><![CDATA[出版日期：2025 年 3 月来源：《模式识别》，第 159 卷作者：Miguel Carrasco、Benjamin Ivorra、Julio López、安赫尔·M·拉莫斯]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324009087?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 20 Nov 2024 21:09:14 GMT</pubDate>
+      <pubDate>Thu, 21 Nov 2024 00:45:54 GMT</pubDate>
     </item>
     <item>
-      <title>用于图像文本检索的全局感知片段表示聚合网络</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324008367?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 3 月来源：《模式识别》，第 159 卷作者：王迪、田嘉波、梁晓、田玉敏、何利霍]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324008367?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 20 Nov 2024 21:09:13 GMT</pubDate>
+      <title>表格数据中基于损坏的异常检测和解释</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324009002?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 3 月来源：《模式识别》，第 159 卷作者：Chunghyup Mok、Seoung Bum Kim]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324009002?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 21 Nov 2024 00:45:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>拓扑重组图对比学习，减轻语义漂移</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324009117?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025年3月来源：模式识别，第159卷作者：张家强、陈松灿]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324009117?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 21 Nov 2024 00:45:54 GMT</pubDate>
     </item>
     <item>
       <title>TransMatch：通过局部和全局共识进行基于 Transformer 的对应修剪</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324008719?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 3 月来源：《模式识别》，第 159 卷作者：刘义章、李艳萍、赵胜杰]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324008719?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 20 Nov 2024 21:09:13 GMT</pubDate>
+      <pubDate>Thu, 21 Nov 2024 00:45:53 GMT</pubDate>
     </item>
     <item>
       <title>利用高阶经验重放进行持续学习以实现动态网络嵌入</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324008446?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: March 2025Source: Pattern Recognition, Volume 159Author(s): Zhizheng Wang, Yuanyuan Sun, Xiaokun Zhang, Bo Xu, Zhihao Yang, Hongfei Lin]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324008446?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 20 Nov 2024 21:09:13 GMT</pubDate>
+      <pubDate>Thu, 21 Nov 2024 00:45:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于图像文本检索的跨模态独立匹配网络</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324008471?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: March 2025Source: Pattern Recognition, Volume 159Author(s): Xiao Ke, Baitao Chen, Xiong Yang, Yuhang Cai, Hao Liu, Wenzhong Guo]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324008471?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 21 Nov 2024 00:45:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>可扩展高斯过程回归的联合随机全对称插值规则和局部近似</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324008768?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 3 月来源：《模式识别》，第 159 卷作者：张红丽、刘静蕾]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324008768?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 21 Nov 2024 00:45:53 GMT</pubDate>
     </item>
     <item>
       <title>“快速自适应平衡最小割聚类”勘误表 [模式识别 158 (2025) 111027]</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324008355?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 3 月来源：《模式识别》，第 159 卷作者：聂飞平、谢方圆、王静宇、李学龙]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324008355?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 20 Nov 2024 21:09:12 GMT</pubDate>
+      <pubDate>Thu, 21 Nov 2024 00:45:52 GMT</pubDate>
     </item>
     <item>
-      <title>针对少量监督视频字幕的关键字精炼伪标签</title>
+      <title>用于少监督视频字幕的关键字细化伪标签</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324009270?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 3 月来源：《模式识别》，第 159 卷作者：李平、王涛、赵新奎、徐向华、宋明丽]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324009270?dgcid=rss_sd_all</guid>
-      <pubDate>Wed, 20 Nov 2024 21:09:12 GMT</pubDate>
+      <pubDate>Thu, 21 Nov 2024 00:45:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于图像文本检索的全局感知片段表示聚合网络</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324008367?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 3 月来源：《模式识别》，第 159 卷作者：王迪、田嘉波、梁晓、田玉敏、何利霍]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324008367?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 21 Nov 2024 00:45:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
