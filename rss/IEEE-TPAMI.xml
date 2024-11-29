@@ -6,7 +6,7 @@
     <description>出版物 # 34 的目录提醒</description>
     <lastBuildDate>Wed, 06 Nov 2024 05:00:00 GMT</lastBuildDate>
     <item>
-      <title>双粒度轻量级策略</title>
+      <title>双粒度轻量策略</title>
       <link>http://ieeexplore.ieee.org/document/10713325</link>
       <description><![CDATA[在模型训练之前去除冗余参数和计算引起了人们的极大兴趣，因为它可以有效减少模型的存储空间，加快模型的训练和推理速度，并节省模型运行过程中的能耗。此外，深度神经网络模型的简化可以使高性能的网络模型部署到资源受限的边缘设备，从而促进智能世界的发展。然而，现有的初始化剪枝方法在极端稀疏性下表现不佳。为了提高模型在极端稀疏性下的性能，该论文提出了一种双粒度的轻量级策略——TEDEPR。这是TEDEPR首次将张量理论引入初始化剪枝方法中，以优化稀疏子网络模型的结构并提高其性能。具体而言，首先，在粗粒度层面，我们将模型的权重矩阵或权重张量表示为低秩张量分解形式，并采用多步骤链式操作增强基模块的特征提取能力，构建低秩紧凑网络模型。其次，在模型训练之前，根据低秩模型中权重的可训练性，在细粒度层面对不重要的权重进行剪枝，得到最终的压缩模型。为了评估TEDEPR的优越性，我们使用LeNet、LSTM、VGGNet、ResNet和Transformer架构在MNIST、UCF11、CIFAR-10、CIFAR-100、Tiny-ImageNet和ImageNet数据集上进行了大量的实验，并与最新方法进行了比较。实验结果表明，在极端稀疏性下，TEDEPR比其他初始化时剪枝方法具有更高的准确率、更快的训练和推理速度以及更少的存储空间。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10713325</guid>
