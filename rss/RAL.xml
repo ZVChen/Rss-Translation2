@@ -4,7 +4,7 @@
     <title>IEEE 机器人与自动化快报 - 新目录</title>
     <link>http://ieeexplore.ieee.org</link>
     <description>出版物目录提醒# 7083369</description>
-    <lastBuildDate>Wed, 27 Nov 2024 05:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 05:00:00 GMT</lastBuildDate>
     <item>
       <title>具有语义图优化的自动驾驶汽车实时时空轨迹规划器</title>
       <link>http://ieeexplore.ieee.org/document/10759749</link>
@@ -38,6 +38,13 @@
       <link>http://ieeexplore.ieee.org/document/10759717</link>
       <description><![CDATA[本文介绍了一种用于大规模多会话 3D LiDAR 点云地图合并的开源框架 LAMM。LAMM 可以自动集成来自携带具有不同扫描模式的 LiDAR 的多个代理的子地图，从而促进各种环境中的位置特征提取、数据关联和全局优化。我们的框架结合了两个关键的创新之处，可实现稳健、准确的大规模地图合并。第一个创新之处是时间双向过滤机制，可从 3D LiDAR 点云数据中删除动态对象。这消除了动态对象对 3D 地图模型的影响，从而提供了更高质量的地图合并结果。第二个创新之处是针对检测到的回环的稳健而高效的异常值去除算法。该算法可确保位置检索中的高召回率和低误报率，从而显着减少大规模合并期间重复环境中的异常值。我们使用各种数据集评估我们的框架，包括 KITTI、HeLiPR、WildPlaces 和自收集的彩色点云数据集。结果表明，我们提出的框架可以准确地合并不同类型的激光雷达和数据采集设备在不同场景下捕获的地图。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10759717</guid>
+      <pubDate>Thu, 21 Nov 2024 13:22:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>CapsuleBot：一种新型混合式空中地面双旋翼机器人，配备两个驱动轮转子</title>
+      <link>http://ieeexplore.ieee.org/document/10759756</link>
+      <description><![CDATA[本文介绍了 CapsuleBot 的设计、建模和实验验证，CapsuleBot 是一种新型的混合式空地双旋翼机器人，专为长航时和低噪音操作而设计。CapsuleBot 结合了空中双旋翼的机动性以及地面两轮自平衡机器人的低功耗和低噪音。为了实现这一点，我们设计了一种创新的机械结构，称为驱动轮转子，它使用伺服电机和无刷电机，既可用作空中的倾斜转子，又可用作地面的驱动轮。CapsuleBot 配备了两个驱动轮转子，使其能够仅使用四个电机实现空地混合推进，与双旋翼相比无需额外的电机。此外，我们基于双旋翼模型和两轮自平衡机器人模型，为空中和车轮模式开发了全面的动力学和控制系统。构建了CapsuleBot原型机，并通过实验验证了其低功耗、低噪音等性能，通过具有挑战性的任务验证了CapsuleBot爬坡、飞越悬崖、穿越崎岖地形的能力。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10759756</guid>
       <pubDate>Thu, 21 Nov 2024 13:22:56 GMT</pubDate>
     </item>
     <item>
@@ -90,25 +97,18 @@
       <pubDate>Mon, 18 Nov 2024 13:17:46 GMT</pubDate>
     </item>
     <item>
+      <title>可拥抱机器人对话过程中拥抱手势的建模与实现</title>
+      <link>http://ieeexplore.ieee.org/document/10753004</link>
+      <description><![CDATA[社交接触是一种使用物理体现的行为，由于其对身体和精神都有好处，因此人们积极研究其适应社交机器人的潜力。机器人的社交接触（包括拥抱）报告了与人与人之间的互动类似的积极影响。可拥抱的机器人已被开发出来，可以在拥抱过程中做出拍打和摩擦等拥抱间手势。然而，还没有建立模型来确定对话过程中提供支持的此类手势的频率、类型、接触面积、启动时间和持续时间。作为解决这一差距的第一步，本研究旨在建立对话过程中拥抱间手势的模型。我们从扮演收件人的参与者那里收集数据，以人体模型作为发言人。根据数据分析估计的概率分布，我们构建了一个模型来确定手势的参数。我们通过机器人实现了一个带有拥抱间手势的自主对话系统。本研究的结果对可拥抱机器人的拥抱间手势对话设计具有启示意义。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10753004</guid>
+      <pubDate>Thu, 14 Nov 2024 13:17:45 GMT</pubDate>
+    </item>
+    <item>
       <title>具有可重构被动关节的欠驱动灵巧机器人抓取</title>
       <link>http://ieeexplore.ieee.org/document/10752376</link>
       <description><![CDATA[我们介绍了一种新型可重构被动关节 (RP-joint)，该关节已在欠驱动三指机器人夹持器上实施和测试。RP-joint 没有驱动装置，但重量轻且结构紧凑。它可以通过施加外力轻松重新配置并锁定以执行复杂的灵巧操作任务，但只有在对连接的肌腱施加张力后才能实现。此外，我们提出了一种方法，允许从单个欠驱动夹持器示例中学习灵巧抓握，并自动配置 RP-joint 以进行灵巧操作。通过集成运动接触优化，可以增强这一点，从而进一步提高抓握性能。所提出的 RP-joint 夹持器和抓握规划器已在 42 个宜家物体和 YCB 物体数据集上执行的 370 多次抓握中进行了测试，在宜家和 YCB 上的抓握成功率分别达到 80% 和 87%。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10752376</guid>
       <pubDate>Wed, 13 Nov 2024 13:17:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>GAP-RL：将抓取作为 RL 的点，以实现动态物体抓取</title>
-      <link>http://ieeexplore.ieee.org/document/10750070</link>
-      <description><![CDATA[在复杂的连续运动场景中动态抓取移动物体仍然具有挑战性。强化学习 (RL) 已应用于各种机器人操作任务，得益于其闭环特性。然而，现有的基于 RL 的方法并未充分探索增强视觉表征的潜力。在本信中，我们提出了一种名为 Grasps As Points for RL (GAP-RL) 的新框架，以有效可靠地抓取移动物体。通过实现基于区域的快速抓取检测器，我们构建了一个 Grasp Encoder，将 6D 抓取姿势转换为高斯点，并提取抓取特征作为比原始物体点特征更高级别的抽象。此外，我们开发了一个可抓取区域探索器用于实际部署，它可以搜索一致的可抓取区域，从而实现更流畅的抓取生成和稳定的策略执行。为了公平地评估性能，我们构建了一个模拟动态抓取基准，涉及具有各种复杂运动的物体。实验结果表明，与其他基线相比，我们的方法可以有效地推广到新物体和看不见的动态运动。真实世界的实验进一步验证了该框架的模拟到现实的可转移性。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10750070</guid>
-      <pubDate>Mon, 11 Nov 2024 13:17:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于推力分配模型的水下机器人不确定性感知改进运动策略</title>
-      <link>http://ieeexplore.ieee.org/document/10747295</link>
-      <description><![CDATA[随着对水下机器人研究的不断深入，考虑实际约束和复杂环境水下扰动的水下机器人稳定运动模式与控制策略研究尚不成熟，缺乏对扰动对控制器影响的定量分析与比较。本文首先建立了适用于水下机器人的推力分配模型，使其能够适应海洋中复杂的三维运动；然后，基于推力分配方法提出了一种水下机器人运动控制策略，该策略包括改进的线性自抗扰控制器（LADRC）并考虑了水下机器人螺旋桨的约束；最后，建立了更加实用、全面的扰动模型。详细分析了所提运动控制策略在不同类型和强度的扰动下的性能；此外，本文还分析了所提策略对性能的影响机理，为控制器设计提供参考。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10747295</guid>
-      <pubDate>Thu, 07 Nov 2024 13:18:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
