@@ -6,6 +6,13 @@
     <description>出版物目录提醒# 5962385</description>
     <lastBuildDate>Mon, 02 Dec 2024 05:00:00 GMT</lastBuildDate>
     <item>
+      <title>2024 索引 IEEE 神经网络和学习系统学报 第 35 卷</title>
+      <link>http://ieeexplore.ieee.org/document/10791322</link>
+      <description><![CDATA[无效的]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10791322</guid>
+      <pubDate>Wed, 11 Dec 2024 05:09:57 GMT</pubDate>
+    </item>
+    <item>
       <title>IEEE 神经网络与学习系统学报出版信息</title>
       <link>http://ieeexplore.ieee.org/document/10772362</link>
       <description><![CDATA[无效的]]></description>
@@ -67,13 +74,6 @@
       <description><![CDATA[图像聚类是机器学习和计算机视觉领域的研究热点。现有的基于图的半监督深度聚类方法存在三个问题：1）由于聚类仅利用了高层特征，忽略了浅层特征所蕴含的详细信息；2）大部分特征提取网络采用奇数阶卷积核，导致感受野强度分布不均匀；3）由于邻接矩阵是预先计算且固定的，无法适应样本间关系的变化。针对以上问题，提出了一种基于图的半监督深度聚类图像聚类方法。首先利用奇偶交叉卷积特征提取与融合模块提取高质量图像特征；然后设计聚类约束层提高聚类效率；定制输出层实现无监督正则化训练；最后通过实际网络预测推断邻接矩阵。对无监督训练网络采用基于图的正则化方法。实验结果表明，我们的方法在 ACC、归一化互信息 (NMI) 和 ARI 方面明显优于 USPS、MNIST、街景门牌号 (SVHN) 和时尚 MNIST (FMNIST) 数据集上的最先进方法。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10453294</guid>
       <pubDate>Wed, 28 Feb 2024 13:16:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>可学习的中心相似性量化，实现高效的图像和视频检索</title>
-      <link>http://ieeexplore.ieee.org/document/10355913</link>
-      <description><![CDATA[数据相关哈希方法旨在从数据之间的成对或三元组关系中学习哈希函数，这通常由于仅捕获数据的局部分布而导致效率低下和碰撞率低。为了解决这一限制，我们提出了中心相似性，其中鼓励相似数据对的哈希码接近共同的中心，而不同数据对的哈希码则收敛到不同的中心。作为一种新的全局相似性度量，中心相似性可以提高哈希学习的效率和检索准确性。通过引入一个新概念哈希中心，我们主要公式化了所提出的中心相似性度量的计算，其中哈希中心是指散布在汉明空间中且彼此之间具有足够相互距离的一组点。为了构建分离良好的哈希中心，我们提供了两种有效的方法：1）利用 Hadamard 矩阵和伯努利分布生成数据独立的哈希中心；2）从数据表示中学习数据相关的哈希中心。基于所提出的相似性度量和哈希中心，我们提出了中心相似性量化 (CSQ)，它优化数据点相对于其哈希中心的中心相似性，而不是优化局部相似性，以生成高质量的深度哈希函数。我们还进一步改进了具有数据相关哈希中心的 CSQ，称为具有可学习中心的 CSQ (CSQLC)。所提出的 CSQ 和 CSQLC 是通用的，适用于图像和视频哈希场景。我们对大规模图像和视频检索任务进行了广泛的实验，所提出的 CSQ 显着提高了检索性能，即平均精度 (mAP) 比以前最先进的方法高出 3%-20%，这也表明我们的方法可以为相似的数据对生成内聚哈希码，为不相似的数据对生成分散哈希码。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10355913</guid>
-      <pubDate>Tue, 12 Dec 2023 13:16:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
