@@ -4,111 +4,111 @@
     <title>ScienceDirect 出版物：模式识别</title>
     <link>https://www.sciencedirect.com/journal/pattern-recognition</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Sun, 15 Dec 2024 00:53:51 GMT</lastBuildDate>
-    <item>
-      <title>ClickTrack：面向实时交互式单目标跟踪</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324009622?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: May 2025Source: Pattern Recognition, Volume 161Author(s): Kuiran Wang, Xuehui Yu, Wenwen Yu, Guorong Li, Xiangyuan Lan, Qixiang Ye, Jianbin Jiao, Zhenjun Han]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324009622?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 15 Dec 2024 00:53:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于跨层交互融合网络的远距离目标 RGB-T 语义分割</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324009695?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: May 2025Source: Pattern Recognition, Volume 161Author(s): Yu Chen, Xiang Li, Chao Luan, Weimin Hou, Haochen Liu, Zihui Zhu, Lian Xue, Jianqi Zhang, Delian Liu, Xin Wu, Linfang Wei, Chaochao Jian, Jinze Li]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324009695?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 15 Dec 2024 00:53:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于多尺度特征融合和注意力的少样本学习重捕图像检测</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324009993?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 5 月来源：模式识别，第 161 卷作者：Israr Hussain、Shunquan Tan、Jiwu Huang&lt; /p&gt;]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324009993?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 15 Dec 2024 00:53:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>CCDFormer：带变压器的双主干复杂裂纹检测网络</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324010021?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 5 月来源：《模式识别》，第 161 卷作者：胡祥昆、李华、冯义雄、钱松荣、李建、李少波]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324010021?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 15 Dec 2024 00:53:50 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sun, 15 Dec 2024 03:32:04 GMT</lastBuildDate>
     <item>
       <title>FrePrompter：频率自我提示，实现一体化图像恢复</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324009749?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 5 月来源：《模式识别》，第 161 卷作者：吴志建、刘文辉、王静超、李俊、黄定江]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324009749?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 15 Dec 2024 00:53:50 GMT</pubDate>
+      <pubDate>Sun, 15 Dec 2024 03:32:03 GMT</pubDate>
     </item>
     <item>
       <title>探索立体超分辨率图像伪造定位的多尺度伪造线索</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324009816?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 5 月来源：《模式识别》，第 161 卷作者：Ziqi Sheng、Chengxi Yin、Wei Lu]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324009816?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 15 Dec 2024 00:53:50 GMT</pubDate>
+      <pubDate>Sun, 15 Dec 2024 03:32:03 GMT</pubDate>
     </item>
     <item>
-      <title>LDH-ViT：通过局部隐藏和特征选择进行细粒度视觉分类</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324009750?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 5 月来源：《模式识别》，第 161 卷作者：石艳丽、洪启华、闫勇、李静]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324009750?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 15 Dec 2024 00:53:49 GMT</pubDate>
+      <title>ClickTrack：面向实时交互式单目标跟踪</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324009622?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: May 2025Source: Pattern Recognition, Volume 161Author(s): Kuiran Wang, Xuehui Yu, Wenwen Yu, Guorong Li, Xiangyuan Lan, Qixiang Ye, Jianbin Jiao, Zhenjun Han]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324009622?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 15 Dec 2024 03:32:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于跨层交互融合网络的远距离目标 RGB-T 语义分割</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324009695?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: May 2025Source: Pattern Recognition, Volume 161Author(s): Yu Chen, Xiang Li, Chao Luan, Weimin Hou, Haochen Liu, Zihui Zhu, Lian Xue, Jianqi Zhang, Delian Liu, Xin Wu, Linfang Wei, Chaochao Jian, Jinze Li]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324009695?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 15 Dec 2024 03:32:03 GMT</pubDate>
     </item>
     <item>
       <title>解释强度水平：事后 XAI 方法的定量评估技术</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324009725?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 5 月来源：模式识别，第 161 卷作者：Marilyn Bello、Rosalís Amador、María-Matilde加西亚、哈维尔·德尔·瑟、巴勃罗·梅塞霍、奥斯卡·科尔东]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324009725?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 15 Dec 2024 00:53:49 GMT</pubDate>
+      <pubDate>Sun, 15 Dec 2024 03:32:02 GMT</pubDate>
     </item>
     <item>
       <title>用于多任务个性化学习的多层级网络Lasso</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324009646?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 5 月来源：《模式识别》，第 161 卷作者：王建昆、费鲁欢、孙璐]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324009646?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 15 Dec 2024 00:53:49 GMT</pubDate>
+      <pubDate>Sun, 15 Dec 2024 03:32:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于多尺度特征融合和注意力的少样本学习重捕图像检测</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324009993?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 5 月来源：模式识别，第 161 卷作者：Israr Hussain、Shunquan Tan、Jiwu Huang&lt; /p&gt;]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324009993?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 15 Dec 2024 03:32:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>CCDFormer：带变压器的双主干复杂裂纹检测网络</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324010021?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 5 月来源：《模式识别》，第 161 卷作者：胡祥昆、李华、冯义雄、钱松荣、李建、李少波]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324010021?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 15 Dec 2024 03:32:02 GMT</pubDate>
     </item>
     <item>
       <title>用于高螺距 CT 重建的双域深度网络</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324009841?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 5 月来源：《模式识别》，第 161 卷作者：王伟、夏祥根、何川江]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324009841?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 15 Dec 2024 00:53:48 GMT</pubDate>
+      <pubDate>Sun, 15 Dec 2024 03:32:01 GMT</pubDate>
     </item>
     <item>
       <title>一种图像隐写驱动的可触发感知后门攻击框架</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324010136?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 5 月来源：《模式识别》，第 161 卷作者：唐伟轩、李嘉豪、饶远、周志丽、彭飞]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324010136?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 15 Dec 2024 00:53:48 GMT</pubDate>
+      <pubDate>Sun, 15 Dec 2024 03:32:01 GMT</pubDate>
     </item>
     <item>
       <title>用于归纳网络表征学习的动态多尺度特征增强</title>
       <link>https://www.sciencedirect.com/science/article/pii/S003132032401001X?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 5 月来源：《模式识别》，第 161 卷作者：崔诗成、李德强、张静]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S003132032401001X?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 15 Dec 2024 00:53:48 GMT</pubDate>
+      <pubDate>Sun, 15 Dec 2024 03:32:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>LDH-ViT：通过局部隐藏和特征选择进行细粒度视觉分类</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324009750?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 5 月来源：《模式识别》，第 161 卷作者：石艳丽、洪启华、闫勇、李静]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324009750?dgcid=rss_sd_all</guid>
+      <pubDate>Sun, 15 Dec 2024 03:32:01 GMT</pubDate>
     </item>
     <item>
       <title>基于残差误差的互补 CatBoost 用于学生成绩预测</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324010161?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 5 月来源：《模式识别》，第 161 卷作者：范宗文、金苟、翁少远]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324010161?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 15 Dec 2024 00:53:47 GMT</pubDate>
+      <pubDate>Sun, 15 Dec 2024 03:32:00 GMT</pubDate>
     </item>
     <item>
       <title>MSAttnFlow：使用多尺度注意力机制实现无监督异常检测的规范化流程</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324009713?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: May 2025Source: Pattern Recognition, Volume 161Author(s): Zhengnan Hu, Xiangrui Zeng, Yiqun Li, Zhouping Yin, Erli Meng, Ziyu Wei, Leyan Zhu, Zitian Wang]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324009713?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 15 Dec 2024 00:53:47 GMT</pubDate>
+      <pubDate>Sun, 15 Dec 2024 03:32:00 GMT</pubDate>
     </item>
     <item>
       <title>用于跨模态检索的在线加权哈希</title>
       <link>https://www.sciencedirect.com/science/article/pii/S003132032400983X?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 5 月来源：《模式识别》，第 161 卷作者：蒋子宁、翁振宇、李润豪、庄惠平、林志平]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S003132032400983X?dgcid=rss_sd_all</guid>
-      <pubDate>Sun, 15 Dec 2024 00:53:47 GMT</pubDate>
+      <pubDate>Sun, 15 Dec 2024 03:32:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
