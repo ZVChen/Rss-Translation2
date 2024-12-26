@@ -4,111 +4,111 @@
     <title>ScienceDirect 出版物：模式识别</title>
     <link>https://www.sciencedirect.com/journal/pattern-recognition</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Thu, 26 Dec 2024 09:10:02 GMT</lastBuildDate>
-    <item>
-      <title>自适应绕过视觉变换器模块，实现高效的视觉跟踪</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S003132032401029X?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: May 2025Source: Pattern Recognition, Volume 161Author(s): Xiangyang Yang, Dan Zeng, Xucheng Wang, You Wu, Hengzhou Ye, Qijun Zhao, Shuiwang Li]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S003132032401029X?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 26 Dec 2024 09:10:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于归纳网络表征学习的动态多尺度特征增强</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S003132032401001X?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 5 月来源：《模式识别》，第 161 卷作者：崔诗成、李德强、张静]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S003132032401001X?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 26 Dec 2024 09:10:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>LDH-ViT：通过局部隐藏和特征选择进行细粒度视觉分类</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324009750?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 5 月来源：《模式识别》，第 161 卷作者：石艳丽、洪启华、闫勇、李静]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324009750?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 26 Dec 2024 09:10:01 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Dec 2024 12:17:34 GMT</lastBuildDate>
     <item>
       <title>解释强度水平：事后 XAI 方法的定量评估技术</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324009725?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 5 月来源：模式识别，第 161 卷作者：Marilyn Bello、Rosalís Amador、María-Matilde加西亚、哈维尔·德尔·瑟、巴勃罗·梅塞霍、奥斯卡·科尔东]]></description>
+      <description><![CDATA[出版日期：2025 年 5 月来源：《模式识别》，第 161 卷作者：Marilyn Bello、Rosalís Amador、María-Matilde加西亚、哈维尔·德尔·瑟、巴勃罗·梅塞霍、奥斯卡·科尔东]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324009725?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 26 Dec 2024 09:10:01 GMT</pubDate>
+      <pubDate>Thu, 26 Dec 2024 12:17:33 GMT</pubDate>
     </item>
     <item>
       <title>用于多任务个性化学习的多层级网络Lasso</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324009646?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 5 月来源：《模式识别》，第 161 卷作者：王建昆、费鲁欢、孙璐]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324009646?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 26 Dec 2024 09:10:01 GMT</pubDate>
+      <pubDate>Thu, 26 Dec 2024 12:17:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于归纳网络表征学习的动态多尺度特征增强</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S003132032401001X?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 5 月来源：《模式识别》，第 161 卷作者：崔诗成、李德强、张静]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S003132032401001X?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 26 Dec 2024 12:17:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>LDH-ViT：通过局部隐藏和特征选择进行细粒度视觉分类</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324009750?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 5 月来源：《模式识别》，第 161 卷作者：石艳丽、洪启华、闫勇、李静]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324009750?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 26 Dec 2024 12:17:32 GMT</pubDate>
     </item>
     <item>
       <title>微社区领域适配</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324010215?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: May 2025Source: Pattern Recognition, Volume 161Author(s): Zefeng Zheng, Shaohua Teng, Luyao Teng, Naiqi Wu, Wei Zhang]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324010215?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 26 Dec 2024 09:10:00 GMT</pubDate>
+      <pubDate>Thu, 26 Dec 2024 12:17:31 GMT</pubDate>
     </item>
     <item>
       <title>利用模块化网络对损坏图像进行 LDCT 去噪的自监督噪声对噪声方法</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324010367?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 5 月来源：《模式识别》，第 161 卷作者：朱玉婷、何强、姚玉东、滕岳阳]]></description>
+      <description><![CDATA[出版日期：2025年5月来源：模式识别，第161卷作者：朱雨婷、何强、姚玉栋、滕岳阳]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324010367?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 26 Dec 2024 09:10:00 GMT</pubDate>
+      <pubDate>Thu, 26 Dec 2024 12:17:31 GMT</pubDate>
     </item>
     <item>
       <title>一种图像隐写驱动的可触发感知后门攻击框架</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324010136?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 5 月来源：《模式识别》，第 161 卷作者：唐伟轩、李嘉豪、饶远、周志丽、彭飞]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324010136?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 26 Dec 2024 09:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于高螺距 CT 重建的双域深度网络</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324009841?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 5 月来源：《模式识别》，第 161 卷作者：王伟、夏祥根、何川江]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324009841?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 26 Dec 2024 09:09:59 GMT</pubDate>
+      <pubDate>Thu, 26 Dec 2024 12:17:31 GMT</pubDate>
     </item>
     <item>
       <title>用于多输出回归的语义引导多任务遗传规划</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324010409?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 5 月来源：《模式识别》，第 161 卷作者：王春雨、陈琪、薛冰、张梦洁]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324010409?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 26 Dec 2024 09:09:59 GMT</pubDate>
+      <pubDate>Thu, 26 Dec 2024 12:17:30 GMT</pubDate>
     </item>
     <item>
       <title>多密度数据的相对邻域粗特征选择与稳健分类</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0031320324010549?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025年5月来源：模式识别，第161卷作者：安爽、张亚楠、王昌中&lt; /p&gt;]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0031320324010549?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 26 Dec 2024 09:09:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于残差误差的互补 CatBoost 用于学生成绩预测</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324010161?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 5 月来源：《模式识别》，第 161 卷作者：范宗文、金苟、翁少远]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324010161?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 26 Dec 2024 09:09:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>MSAttnFlow：使用多尺度注意力机制进行无监督异常检测的规范化流程</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0031320324009713?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: May 2025Source: Pattern Recognition, Volume 161Author(s): Zhengnan Hu, Xiangrui Zeng, Yiqun Li, Zhouping Yin, Erli Meng, Ziyu Wei, Leyan Zhu, Zitian Wang]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324009713?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 26 Dec 2024 09:09:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>集成基于标签置信度的特征选择进行部分多标签学习</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S003132032401032X?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 5 月来源：《模式识别》，第 161 卷作者：韩庆奇、胡良、高万福]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S003132032401032X?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 26 Dec 2024 09:09:58 GMT</pubDate>
+      <pubDate>Thu, 26 Dec 2024 12:17:30 GMT</pubDate>
     </item>
     <item>
       <title>用于跨模态检索的在线加权哈希</title>
       <link>https://www.sciencedirect.com/science/article/pii/S003132032400983X?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 5 月来源：《模式识别》，第 161 卷作者：蒋子宁、翁振宇、李润豪、庄惠平、林志平]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S003132032400983X?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 26 Dec 2024 09:09:58 GMT</pubDate>
+      <pubDate>Thu, 26 Dec 2024 12:17:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于高螺距 CT 重建的双域深度网络</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324009841?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 5 月来源：《模式识别》，第 161 卷作者：王伟、夏祥根、何川江]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324009841?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 26 Dec 2024 12:17:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>MSAttnFlow：使用多尺度注意力机制进行无监督异常检测的规范化流程</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324009713?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: May 2025Source: Pattern Recognition, Volume 161Author(s): Zhengnan Hu, Xiangrui Zeng, Yiqun Li, Zhouping Yin, Erli Meng, Ziyu Wei, Leyan Zhu, Zitian Wang]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324009713?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 26 Dec 2024 12:17:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>集成基于标签置信度的特征选择进行部分多标签学习</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S003132032401032X?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 5 月来源：《模式识别》，第 161 卷作者：韩庆奇、胡良、高万福]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S003132032401032X?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 26 Dec 2024 12:17:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于残差误差的互补 CatBoost 用于学生成绩预测</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324010161?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 5 月来源：《模式识别》，第 161 卷作者：范宗文、金苟、翁少远]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324010161?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 26 Dec 2024 12:17:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于语义结构的情绪引导模型用于情绪-原因对提取</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0031320324010471?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025年5月来源：模式识别，第161卷作者：Yuwei Wang、Yuling Li、Kui Yu、杨静]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0031320324010471?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 26 Dec 2024 12:17:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
