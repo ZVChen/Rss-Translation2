@@ -4,111 +4,111 @@
     <title>ScienceDirect 出版物：农业中的计算机和电子技术</title>
     <link>https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Sat, 11 Jan 2025 18:12:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 21:07:51 GMT</lastBuildDate>
+    <item>
+      <title>利用天气监测、机器学习和可解释人工智能预测小麦白粉病风险的决策支持系统</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169925000110?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 3 月来源：《农业中的计算机和电子技术》，第 230 卷作者：Grygorii Diachenko、Ivan Laktionov、Oleksandr Vinyukov、Hanna Likhushyna]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925000110?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 11 Jan 2025 21:07:50 GMT</pubDate>
+    </item>
     <item>
       <title>PWDViTNet：基于 ViT 与 CNN 融合的轻量级早期松树枯萎病检测模型</title>
       <link>https://www.sciencedirect.com/science/article/pii/S016816992500016X?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 3 月来源：《农业计算机与电子技术》，第 230 卷作者：陈志超、林海峰、白迪, 钱菁菁, 周红萍, 高云雅]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S016816992500016X?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 11 Jan 2025 18:12:21 GMT</pubDate>
+      <pubDate>Sat, 11 Jan 2025 21:07:50 GMT</pubDate>
     </item>
     <item>
       <title>结合DeepLabV3+与LSTM实现基于外观品质的果蔬干燥策略智能优化——以杏鲍菇为例</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169925000353?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: March 2025Source: Computers and Electronics in Agriculture, Volume 230Author(s): Jiale Guo, Yanhong Liu, Dengwen Lei, Zekang Peng, Samir Mowafy, Xingyi Li, Zehui Jia, Ziping Ai, Hongwei Xiao]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169925000353?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 11 Jan 2025 18:12:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>SIDEST：通过整合超分辨率图像重建和双边缘校正 Segment Anything 模型来绘制农田边界的无样本框架</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169925000031?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: March 2025Source: Computers and Electronics in Agriculture, Volume 230Author(s): Haoran Sun, Zhijian Wei, Weiguo Yu, Gaoxiang Yang, Junnan She, Hengbiao Zheng, Chongya Jiang, Xia Yao, Yan Zhu, Weixing Cao, Tao Cheng, Iftikhar Ali]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925000031?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 11 Jan 2025 18:12:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用可解释的深度学习的激光诱导击穿光谱对超积累植物中重金属的转运和积累进行定量元素映射</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169925000134?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: March 2025Source: Computers and Electronics in Agriculture, Volume 230Author(s): Yi Lu, Zhengyu Tao, Linjie Nie, Xinyu Guo, Tiantian Pan, Rongqin Chen, Tingqiang Li, Wenwen Kong, Fei Liu]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925000134?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 11 Jan 2025 18:12:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用天气监测、机器学习和可解释人工智能预测小麦白粉病风险的决策支持系统</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169925000110?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 3 月来源：《农业中的计算机和电子技术》，第 230 卷作者：Grygorii Diachenko、Ivan Laktionov、Oleksandr Vinyukov、Hanna Likhushyna]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925000110?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 11 Jan 2025 18:12:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用多模式和多视图图像融合技术在复杂的麦田中有效检测多种杂草</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169925000304?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 3 月来源：《农业计算机与电子技术》，第 230 卷作者：徐可、谢琪、朱燕、曹卫星、倪军]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925000304?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 11 Jan 2025 18:12:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用双分支多尺度模型从无人机多光谱图像检测小麦黄矮病</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169925000043?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 3 月来源：《农业计算机与电子技术》，第 230 卷作者：Xingan Hao、Zezi Wang、Yuchen Zhang、Feilong Li、Meili Wang、Jialin Li、Rui Mao]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925000043?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 11 Jan 2025 18:12:19 GMT</pubDate>
+      <pubDate>Sat, 11 Jan 2025 21:07:50 GMT</pubDate>
     </item>
     <item>
       <title>基于 LiDAR 的 3D SLAM 在堆叠式笼养农场中的自主导航：评估</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924012766?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 3 月来源：《农业计算机与电子技术》，第 230 卷作者：蒋家成、张铁民、李灿]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924012766?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 11 Jan 2025 18:12:19 GMT</pubDate>
+      <pubDate>Sat, 11 Jan 2025 21:07:49 GMT</pubDate>
     </item>
     <item>
       <title>并行 RepConv 网络：高效葡萄园障碍物检测，适应多光照条件</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169925000079?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: March 2025Source: Computers and Electronics in Agriculture, Volume 230Author(s): Xuezhi Cui, Licheng Zhu, Bo Zhao, Ruixue Wang, Zhenhao Han, Weipeng Zhang, Lizhong Dong]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169925000079?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 11 Jan 2025 18:12:19 GMT</pubDate>
+      <pubDate>Sat, 11 Jan 2025 21:07:49 GMT</pubDate>
     </item>
     <item>
-      <title>整合多角度和多尺度遥感技术实现农业精准氮素管理：综述</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924012201?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 3 月来源：《农业计算机与电子技术》，第 230 卷作者：周叶英、马云涛、Syed Tahir Ata-Ul-Karim、王胜、Ignacio Ciampitti、Vita Antoniuk、吴彩聪、Mathias Neumann Andersen、Davide Cammarano]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924012201?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 11 Jan 2025 18:12:18 GMT</pubDate>
+      <title>SIDEST：通过整合超分辨率图像重建和双边缘校正 Segment Anything 模型来绘制农田边界的无样本框架</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169925000031?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: March 2025Source: Computers and Electronics in Agriculture, Volume 230Author(s): Haoran Sun, Zhijian Wei, Weiguo Yu, Gaoxiang Yang, Junnan She, Hengbiao Zheng, Chongya Jiang, Xia Yao, Yan Zhu, Weixing Cao, Tao Cheng, Iftikhar Ali]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925000031?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 11 Jan 2025 21:07:49 GMT</pubDate>
     </item>
     <item>
-      <title>立方体卫星星座：精准农业的新时代？</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924011554?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 3 月来源：《农业中的计算机和电子技术》，第 230 卷作者：Lamia Rahali、Salvatore Praticò、西蒙尼·拉努卡拉、朱塞佩·莫迪卡]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924011554?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 11 Jan 2025 18:12:18 GMT</pubDate>
+      <title>使用可解释的深度学习的激光诱导击穿光谱对超积累植物中重金属的转运和积累进行定量元素映射</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169925000134?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: March 2025Source: Computers and Electronics in Agriculture, Volume 230Author(s): Yi Lu, Zhengyu Tao, Linjie Nie, Xinyu Guo, Tiantian Pan, Rongqin Chen, Tingqiang Li, Wenwen Kong, Fei Liu]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925000134?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 11 Jan 2025 21:07:49 GMT</pubDate>
     </item>
     <item>
-      <title>概述高光谱成像在蛋品和孵化场行业的最新进展</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924012389?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 3 月来源：《农业中的计算机和电子技术》，第 230 卷作者：Md Wadud Ahmed、Alin Khaliduzzaman、Jason Lee Emmert、Mohammed Kamruzzaman]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924012389?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 11 Jan 2025 18:12:18 GMT</pubDate>
+      <title>使用多模式和多视图图像融合技术在复杂的麦田中有效检测多种杂草</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169925000304?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 3 月来源：《农业计算机与电子技术》，第 230 卷作者：徐可、谢琪、朱燕、曹卫星、倪军]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925000304?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 11 Jan 2025 21:07:48 GMT</pubDate>
     </item>
     <item>
-      <title>用于计算灌溉调度的作物水分胁迫指数的基于网络的原型平台 - 应用说明</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169924012614?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 3 月来源：《农业中的计算机和电子技术》，第 230 卷作者：Huihui Zhang、Linh Ho Manh、Dang Ho Ha、Allan Andales、Shouyi Wang]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924012614?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 11 Jan 2025 18:12:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>生成人工智能在农业中的应用和前景</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169925000250?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 3 月来源：《农业中的计算机和电子技术》，第 230 卷作者：Federico Pallottino、Simona Violino、 Simone Figorilli、Catello Pane、Jacopo Aguzzi、Giacomo Colle、Eugenio Nerio Nemmi、Alessandro Montaghi、Damianos Chatzievangelou、Francesca Antonucci、Lavinia Moscovini、Alessandro Mei、Corrado Costa、Luciano Ortenzi]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925000250?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 11 Jan 2025 18:12:17 GMT</pubDate>
+      <title>利用双分支多尺度模型从无人机多光谱图像检测小麦黄矮病</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169925000043?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 3 月来源：《农业计算机与电子技术》，第 230 卷作者：Xingan Hao、Zezi Wang、Yuchen Zhang、Feilong Li、Meili Wang、Jialin Li、Rui Mao]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925000043?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 11 Jan 2025 21:07:48 GMT</pubDate>
     </item>
     <item>
       <title>玉米产量预测机器学习研究中评估结果的过度解读：系统评价</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169924012833?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 3 月来源：《农业中的计算机和电子技术》，第 230 卷作者：Joerg Leukel、Luca Scheurer、Tobias Zimpel]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169924012833?dgcid=rss_sd_all</guid>
-      <pubDate>Sat, 11 Jan 2025 18:12:17 GMT</pubDate>
+      <pubDate>Sat, 11 Jan 2025 21:07:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>整合多角度和多尺度遥感技术实现农业精准氮素管理：综述</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924012201?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 3 月来源：《农业计算机与电子技术》，第 230 卷作者：周叶英、马云涛、Syed Tahir Ata-Ul-Karim、王胜、Ignacio Ciampitti、Vita Antoniuk、吴彩聪、Mathias Neumann Andersen、Davide Cammarano]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924012201?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 11 Jan 2025 21:07:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>立方体卫星星座：精准农业的新时代？</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924011554?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 3 月来源：《农业中的计算机和电子技术》，第 230 卷作者：Lamia Rahali、Salvatore Praticò、西蒙尼·拉努卡拉、朱塞佩·莫迪卡]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924011554?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 11 Jan 2025 21:07:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>概述高光谱成像在蛋品和孵化场行业的最新进展</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924012389?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 3 月来源：《农业中的计算机和电子技术》，第 230 卷作者：Md Wadud Ahmed、Alin Khaliduzzaman、Jason Lee Emmert、Mohammed Kamruzzaman]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924012389?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 11 Jan 2025 21:07:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于计算灌溉调度的作物水分胁迫指数的基于网络的原型平台 - 应用说明</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169924012614?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 3 月来源：《农业中的计算机和电子技术》，第 230 卷作者：Huihui Zhang、Linh Ho Manh、Dang Ho Ha、Allan Andales、Shouyi Wang]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169924012614?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 11 Jan 2025 21:07:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>生成人工智能在农业中的应用和前景</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169925000250?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 3 月来源：《农业中的计算机和电子技术》，第 230 卷作者：Federico Pallottino、Simona Violino、 Simone Figorilli、Catello Pane、Jacopo Aguzzi、Giacomo Colle、Eugenio Nerio Nemmi、Alessandro Montaghi、Damianos Chatzievangelou、Francesca Antonucci、Lavinia Moscovini、Alessandro Mei、Corrado Costa、Luciano Ortenzi]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925000250?dgcid=rss_sd_all</guid>
+      <pubDate>Sat, 11 Jan 2025 21:07:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
