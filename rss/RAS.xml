@@ -4,111 +4,111 @@
     <title>ScienceDirect 出版物：机器人和自主系统</title>
     <link>https://www.sciencedirect.com/journal/robotics-and-autonomous-systems</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Thu, 06 Feb 2025 06:14:31 GMT</lastBuildDate>
-    <item>
-      <title>基于连续时间轨迹估计的动静态联合摄像机-IMU外标定方法</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0921889025000028?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 4 月来源：《机器人与自主系统》，第 186 卷作者：欧阳文澜、林万彪、孙蕾]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0921889025000028?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 06 Feb 2025 06:14:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>dGrasp：具有监督优化斜率的 NeRF 信息隐式抓取策略</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0921889025000077?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 4 月来源：《机器人与自主系统》，第 186 卷作者：Gergely Sóti、Xi Huang、Christian Wurll、Björn Hein]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0921889025000077?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 06 Feb 2025 06:14:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用嵌入神经网络的高阶模型进行三维磁力仪校准</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0921889024002872?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 4 月来源：《机器人与自主系统》，第 186 卷作者：Jon Cowart、Jan Petrich]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0921889024002872?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 06 Feb 2025 06:14:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>光学运动捕捉定位系统下领航跟随四旋翼无人机群编队跟踪理论与实验</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0921889025000041?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 4 月来源：《机器人与自主系统》，第 186 卷作者：党洪涛、郭诗菁、奚建祥、王峰、王程、郑元实]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0921889025000041?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 06 Feb 2025 06:14:30 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Feb 2025 09:10:50 GMT</lastBuildDate>
     <item>
       <title>采用平行力/视觉控制的半自主无人机机械手遥控操作进行推滑检查</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0921889024002963?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 4 月来源：《机器人与自主系统》，第 186 卷作者：Simone D’Angelo、Mario Selvaggio、Vincenzo Lippiello、Fabio Ruggiero]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0921889024002963?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 06 Feb 2025 06:14:30 GMT</pubDate>
+      <pubDate>Thu, 06 Feb 2025 09:10:50 GMT</pubDate>
     </item>
     <item>
-      <title>基于积分终端滑模的穿越未知斜面的自适应控制方法</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0921889025000144?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 4 月来源：《机器人与自主系统》，第 186 卷作者：Lin Zhang、Lei Chen、Muhammad Saqib、Baoyu Wang、Pengjie Xu、Yanzheng Zhao]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0921889025000144?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 06 Feb 2025 06:14:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>双边约束走廊环境下车式移动机器人效率优化路径规划算法</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0921889025000090?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 4 月来源：《机器人与自主系统》，第 186 卷作者：Junkui Zhong、Deyi Kong、Yuliang Wei、Xiaojuan Hu、Yang Yang]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0921889025000090?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 06 Feb 2025 06:14:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>RainSD：使用特征级风格分布进行图像合成增强的 Rain 风格多样化模块</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0921889025000089?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 4 月来源：《机器人与自主系统》，第 186 卷作者：Hyeonjae Jeon、Junghyun Seo、Taesoo Kim、Sungho Son、Jungki Lee、Gyeungho Choi、Yongseob Lim]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0921889025000089?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 06 Feb 2025 06:14:29 GMT</pubDate>
+      <title>基于连续时间轨迹估计的动静态联合摄像机-IMU外标定方法</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0921889025000028?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 4 月来源：《机器人与自主系统》，第 186 卷作者：欧阳文澜、林万彪、孙蕾]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0921889025000028?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 06 Feb 2025 09:10:50 GMT</pubDate>
     </item>
     <item>
       <title>通过触觉深度强化学习实现对细长圆柱形物体的灵巧手操作</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0921889024002884?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 4 月来源：《机器人与自主系统》，第 186 卷作者：Wenbin Hu、Bidan Huang、Wang Wei Lee、Sicheng Yang、Yu Zheng、Zhibin Li]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0921889024002884?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 06 Feb 2025 06:14:29 GMT</pubDate>
+      <pubDate>Thu, 06 Feb 2025 09:10:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>dGrasp：具有监督优化斜率的 NeRF 信息隐式抓取策略</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0921889025000077?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 4 月来源：《机器人与自主系统》，第 186 卷作者：Gergely Sóti、Xi Huang、Christian Wurll、Björn Hein]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0921889025000077?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 06 Feb 2025 09:10:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用嵌入神经网络的高阶模型进行三维磁力仪校准</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0921889024002872?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 4 月来源：《机器人与自主系统》，第 186 卷作者：Jon Cowart、Jan Petrich]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0921889024002872?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 06 Feb 2025 09:10:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>光学运动捕捉定位系统下领航跟随四旋翼无人机群编队跟踪理论与实验</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0921889025000041?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 4 月来源：《机器人与自主系统》，第 186 卷作者：党洪涛、郭诗菁、奚建祥、王峰、王程、郑元实]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0921889025000041?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 06 Feb 2025 09:10:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于积分终端滑模的穿越未知斜面的自适应控制方法</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0921889025000144?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 4 月来源：《机器人与自主系统》，第 186 卷作者：Lin Zhang、Lei Chen、Muhammad Saqib、Baoyu Wang、Pengjie Xu、Yanzheng Zhao]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0921889025000144?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 06 Feb 2025 09:10:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>双边约束走廊环境下车式移动机器人效率优化路径规划算法</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0921889025000090?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 4 月来源：《机器人与自主系统》，第 186 卷作者：Junkui Zhong、Deyi Kong、Yuliang Wei、Xiaojuan Hu、Yang Yang]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0921889025000090?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 06 Feb 2025 09:10:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>RainSD：使用特征级风格分布进行图像合成增强的 Rain 风格多样化模块</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0921889025000089?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025 年 4 月来源：《机器人与自主系统》，第 186 卷作者：Hyeonjae Jeon、Junghyun Seo、Taesoo Kim、Sungho Son、Jungki Lee、Gyeungho Choi、Yongseob Lim]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0921889025000089?dgcid=rss_sd_all</guid>
+      <pubDate>Thu, 06 Feb 2025 09:10:48 GMT</pubDate>
     </item>
     <item>
       <title>通过因子图优化实现紧密耦合的 LiDAR-IMU-车轮里程计与在线神经运动模型学习</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0921889025000156?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 5 月来源：《机器人与自主系统》，第 187 卷作者：Taku Okawara、Kenji Koide、Shuji Oishi、Masashi Yokozuka、Atsuhiko Banno、Kentaro Uno、Kazuya Yoshida]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0921889025000156?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 06 Feb 2025 06:14:28 GMT</pubDate>
+      <pubDate>Thu, 06 Feb 2025 09:10:47 GMT</pubDate>
     </item>
     <item>
       <title>形状记忆合金驱动手指外骨骼新概念的设计程序</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0921889025000053?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 5 月来源：《机器人与自主系统》，第 187 卷作者：Elio Matteo Curcio、Giuseppe Carbone]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0921889025000053?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 06 Feb 2025 06:14:28 GMT</pubDate>
+      <pubDate>Thu, 06 Feb 2025 09:10:47 GMT</pubDate>
     </item>
     <item>
       <title>Soft-PVTOL：建模与控制</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0921889025000119?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 5 月来源：《机器人与自主系统》，第 187 卷作者：Gerardo Flores、Mark W. Spong]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0921889025000119?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 06 Feb 2025 06:14:28 GMT</pubDate>
+      <pubDate>Thu, 06 Feb 2025 09:10:47 GMT</pubDate>
     </item>
     <item>
       <title>任务持续时间分布不确定的时限规划</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0921889025000120?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 4 月来源：《机器人与自主系统》，第 186 卷作者：Michal Staniaszek、Lara Brudermüller、Yang You、Raunak Bhattacharyya、Bruno Lacerda、Nick Hawes]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0921889025000120?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 06 Feb 2025 06:14:28 GMT</pubDate>
+      <pubDate>Thu, 06 Feb 2025 09:10:47 GMT</pubDate>
     </item>
     <item>
       <title>基于改进GBNN算法的空间可定位机器人路径规划策略</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0921889025000259?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 5 月来源：《机器人与自主系统》，第 187 卷作者：季义道、周程、林瑞仪、刘琪琪]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0921889025000259?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 06 Feb 2025 06:14:27 GMT</pubDate>
+      <pubDate>Thu, 06 Feb 2025 09:10:46 GMT</pubDate>
     </item>
     <item>
       <title>用于模拟柔性双手在轨操作的空地试验台：从空中到太空机器人操控</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0921889025000132?dgcid=rss_sd_all</link>
       <description><![CDATA[出版日期：2025 年 5 月来源：《机器人与自主系统》，第 187 卷]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0921889025000132?dgcid=rss_sd_all</guid>
-      <pubDate>Thu, 06 Feb 2025 06:14:27 GMT</pubDate>
+      <pubDate>Thu, 06 Feb 2025 09:10:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
