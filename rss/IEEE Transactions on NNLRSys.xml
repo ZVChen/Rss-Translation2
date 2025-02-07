@@ -4,111 +4,111 @@
     <title>IEEE 神经网络和学习系统学报 - 新目录</title>
     <link>http://ieeexplore.ieee.org</link>
     <description>出版物目录提醒# 5962385</description>
-    <lastBuildDate>Tue, 07 Jan 2025 05:00:00 GMT</lastBuildDate>
-    <item>
-      <title>目录</title>
-      <link>http://ieeexplore.ieee.org/document/10832375</link>
-      <description><![CDATA[无效的]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10832375</guid>
-      <pubDate>Tue, 07 Jan 2025 13:18:39 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Feb 2025 05:00:00 GMT</lastBuildDate>
     <item>
       <title>IEEE 神经网络与学习系统学报出版信息</title>
-      <link>http://ieeexplore.ieee.org/document/10832125</link>
+      <link>http://ieeexplore.ieee.org/document/10877694</link>
       <description><![CDATA[无效的]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10832125</guid>
-      <pubDate>Tue, 07 Jan 2025 13:18:39 GMT</pubDate>
+      <guid>http://ieeexplore.ieee.org/document/10877694</guid>
+      <pubDate>Thu, 06 Feb 2025 13:17:56 GMT</pubDate>
     </item>
     <item>
-      <title>特邀社论：智能媒体计算和应用深度学习特刊</title>
-      <link>http://ieeexplore.ieee.org/document/10832432</link>
+      <title>目录</title>
+      <link>http://ieeexplore.ieee.org/document/10877695</link>
       <description><![CDATA[无效的]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10832432</guid>
-      <pubDate>Tue, 07 Jan 2025 13:18:39 GMT</pubDate>
+      <guid>http://ieeexplore.ieee.org/document/10877695</guid>
+      <pubDate>Thu, 06 Feb 2025 13:17:55 GMT</pubDate>
     </item>
     <item>
-      <title>特邀社论：值得信赖的联邦学习特刊</title>
-      <link>http://ieeexplore.ieee.org/document/10832419</link>
+      <title>特邀社论：机器学习的泛化、稳健性和可解释性的信息理论方法特刊</title>
+      <link>http://ieeexplore.ieee.org/document/10877691</link>
       <description><![CDATA[无效的]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10832419</guid>
-      <pubDate>Tue, 07 Jan 2025 13:18:35 GMT</pubDate>
+      <guid>http://ieeexplore.ieee.org/document/10877691</guid>
+      <pubDate>Thu, 06 Feb 2025 13:17:54 GMT</pubDate>
     </item>
     <item>
-      <title>提高模型异构联邦学习的泛化和个性化</title>
-      <link>http://ieeexplore.ieee.org/document/10633723</link>
-      <description><![CDATA[传统的联邦学习 (FL) 假设模型是同质的，需要客户端公开其模型参数以增强服务器模型的性能。然而，这种假设不能反映现实世界的场景。共享模型和参数会给用户带来安全问题，而仅关注服务器端模型会忽略客户端的个性化需求，可能会阻碍用户预期的性能改进。另一方面，优先考虑个性化可能会损害服务器模型的泛化，从而阻碍广泛的知识迁移。为了应对这些挑战，我们提出了一个重要问题：当客户端的模型是异构的时，联邦学习如何同时确保泛化和个性化？在本文中，我们引入了 FedTED，它利用双分支结构和无数据知识蒸馏 (DFKD) 来应对联邦学习中模型异构性和多样化目标带来的挑战。FedTED 中采用的技术在个性化和泛化方面都取得了显着的改进，同时有效地协调了客户端异构模型的更新过程并成功重建了令人满意的全局模型。我们的实证评估表明，FedTED 的表现优于许多代表性算法，特别是在客户端模型异构的情况下，泛化性能显著提高了 19.37%，个性化性能提高了 9.76%。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10633723</guid>
-      <pubDate>Mon, 12 Aug 2024 13:16:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于无监督域适应的渐进式决策边界转移</title>
-      <link>http://ieeexplore.ieee.org/document/10632570</link>
-      <description><![CDATA[无监督域自适应 (UDA) 因能提高目标域上任务特定的泛化能力而受到越来越多研究人员的关注。它专注于解决标记源域和未标记目标域之间的域转移问题。最近基于双分类器的 UDA 模型执行类别级对齐以减少域转移，同时使用自训练来提高目标实例的可判别性。然而，具有高语义不确定性的实例的错误累积问题可能会导致可判别性下降和类别级错位。为了解决这个问题，我们设计了渐进式决策边界转移算法，其中探索目标实例的稳定类别信息以学习目标域上的可判别性结构。具体而言，我们首先通过逐步转移类别的决策边界来建模实例的语义不确定性。然后，我们以对比的方式引入不确定性解耦，其中从具有低语义不确定性的源域中学习判别信息。此外，我们最小化具有高语义不确定性的实例的预测熵以降低其预测置信度。在三个流行数据集上进行的大量实验表明，我们的模型优于当前最先进的 (SOTA) UDA 方法。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10632570</guid>
-      <pubDate>Fri, 09 Aug 2024 13:16:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>改进联邦学习的全局泛化和局部个性化</title>
-      <link>http://ieeexplore.ieee.org/document/10605121</link>
-      <description><![CDATA[联邦学习旨在以隐私保护的方式促进具有数据异构性的多个客户端之间的协作训练，从而生成通用模型或开发个性化模型。然而，现有的方法通常难以平衡两个方向，因为优化一个方向往往会导致另一个方向的失败。为了解决这个问题，本文提出了一种基于跨孤岛原型校准的个性化联邦学习（pFedCSPC）方法，通过校准来自异构空间的特征来增强客户端知识的一致性，从而有助于提高客户端之间的协作效率。具体来说，pFedCSPC采用自适应聚合方法为每个客户端提供个性化的初始模型，从而能够快速适应个性化任务。随后，pFedCSPC通过聚类在客户端上学习类表示模式，对每个簇内的表示进行平均以形成局部原型，并将它们聚合在服务器上以生成全局原型。同时，pFedCSPC利用全局原型作为知识来指导局部表示的学习，这有利于缓解数据不平衡问题并防止过拟合。此外，pFedCSPC 设计了一个跨孤岛原型校准 (CSPC) 模块，利用对比学习技术将来自不同来源的异构特征映射到统一空间。这可以增强全局模型的泛化能力。在四个数据集上进行了性能比较、消融研究、深入分析和案例研究方面的实验，结果验证了 pFedCSPC 通过校准跨源特征和加强协作有效性分别实现了全局泛化和局部个性化性能的提升。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10605121</guid>
-      <pubDate>Fri, 19 Jul 2024 13:15:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于区块链去中心化的可审计、可验证联邦学习</title>
-      <link>http://ieeexplore.ieee.org/document/10557507</link>
-      <description><![CDATA[可审计性和可验证性是建立联邦学习 (FL) 可信度的关键要素。这些原则促进了 FL 流程的透明度、问责制和独立验证。结合可审计性和可验证性对于建立信任和确保 FL 方法的稳健性至关重要。典型的 FL 架构依赖于值得信赖的中央权威机构来管理 FL 流程。然而，对中央权威机构的依赖可能会成为单点故障，使其成为网络攻击和内部欺诈的诱人目标。此外，中央实体缺乏可审计性和可验证性，这破坏了 FL 旨在确保的隐私和安全。本文提出了一个可审计和可验证的去中心化 FL (DFL) 框架。我们首先为 DFL 参与者开发一个基于智能合约的监控系统。然后，该监控系统将部署到每个 DFL 参与者，并在启动本地模型训练时执行。监控系统在本地训练过程中记录必要的信息以供审计。之后，每个 DFL 参与者将本地模型和监控系统发送到相应的区块链节点。代表每个 DFL 参与者的区块链节点交换本地模型并使用监控系统验证每个本地模型。为了确保可审计和可验证的去中心化聚合过程，我们在聚合合约中记录每个区块链节点采取的聚合步骤。在聚合阶段之后，每个区块链节点将多重签名方案应用于聚合模型，从而生成全局可验证的模型。基于签名的全局模型和聚合合约，每个区块链节点实施共识协议以将经过验证的全局模型存储在防篡改存储中。为了评估我们提出的模型的性能，我们使用不同的机器学习架构和数据集进行了一系列实验，包括 CIFAR-10、F-MNIST 和 MedMNIST。实验结果表明，与最先进的方法相比，时间消耗略有增加，这是确保可审计性和可验证性的权衡。所提出的支持区块链的 DFL 还为参与者方节省了高达 95% 的通信成本。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10557507</guid>
-      <pubDate>Fri, 14 Jun 2024 13:16:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用变分图表示法解决联邦学习中的模型中毒问题</title>
-      <link>http://ieeexplore.ieee.org/document/10518175</link>
-      <description><![CDATA[本文提出了一种针对联邦学习 (FL) 的新型训练数据不受约束的模型毒害 (MP) 攻击。新的 MP 攻击扩展了对抗变分图自动编码器 (VGAE)，以仅基于偷听到的良性局部模型创建恶意局部模型，而无需访问 FL 的训练数据。这样的进步导致 VGAE-MP 攻击不仅有效而且难以检测。VGAE-MP 攻击提取良性局部模型和训练数据特征之间的图结构相关性，对抗性地重新生成图结构，并使用对抗图结构和良性模型的特征生成恶意局部模型。此外，提出了一种新的攻击算法，使用 VGAE 和次梯度下降来训练恶意局部模型，同时能够最佳地选择良性局部模型来训练 VGAE。实验表明，在提出的 VGAE-MP 攻击下，FL 准确率会逐渐下降，并且现有防御机制在检测攻击方面无效，对 FL 构成了严重威胁。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10518175</guid>
-      <pubDate>Fri, 03 May 2024 13:16:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>稳健的联邦学习：最大熵聚合抵御拜占庭攻击</title>
-      <link>http://ieeexplore.ieee.org/document/10506990</link>
-      <description><![CDATA[联邦学习作为一种新兴的去中心化机器学习技术，可以组织协同训练，保护参与者的隐私和安全。然而，不可信任的设备，通常是拜占庭攻击者，对联邦学习构成了重大挑战，因为它们可以上传恶意参数来破坏全局模型。为了防御此类攻击，我们提出了一种新颖的鲁棒聚合方法——最大相关熵聚合（MCA），该方法应用最大相关熵准则（MCC）从参数中得出一个中心值。与之前使用MCC进行去噪不同，我们利用它作为相似性度量来衡量参数分布并聚合一个鲁棒中心。MCC中的相关熵包含参数的所有偶数阶矩，具有高阶统计特性，可以全面捕捉参数特征，从而有助于防止攻击者的干扰。同时，相关熵从参数本身中提取信息，而不需要恶意攻击者的比例。通过定点迭代，我们求解优化目标，证明了迭代公式的线性收敛性。理论分析揭示了 MCA 的稳健性聚集特性以及 MCA 与全局最优解之间的误差界限，并线性收敛到最优解邻域。通过在三个不同的数据集上进行独立同分布 (IID) 和非独立同分布实验，我们发现 MCA 在主流攻击下表现出显著的稳健性，而其他方法无法抵御所有攻击。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10506990</guid>
-      <pubDate>Tue, 23 Apr 2024 13:15:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>PrivFR：通过共享哈希嵌入增强隐私的联合推荐</title>
-      <link>http://ieeexplore.ieee.org/document/10506199</link>
-      <description><![CDATA[联合推荐系统 (FRS) 具有改进的隐私保护优势，可以在保持用户数据分布的同时联合训练来自众多设备的推荐模型，因此在现代推荐系统 (RS) 中得到了广泛的探索。然而，传统的 FRS 需要在服务器和客户端之间传输整个模型，这给注重成本的跨设备学习任务带来了巨大的碳足迹。虽然已经做出了许多努力来提高 FRS 的效率，但将整个模型作为紧凑设计的目标并不是最优的。此外，当前的研究未能处理现实世界 FRS 中的词汇外 (OOV) 问题，其中项目仅偶尔出现在测试阶段，但在训练过程中未观察到，这是另一个实际挑战，尚未得到很好的研究。为此，我们提出了一种在跨设备设置中使用共享哈希嵌入的隐私增强联合推荐框架 PrivFR，这是一种专门用于嵌入参数的有效表示机制，不会影响模型能力。具体来说，它通过巧妙地利用共享哈希嵌入和多个哈希函数，以资源高效的方式表示项目。因此，它只在本地客户端维护一个小的哈希嵌入共享池，而不是为每个项目拟合所有嵌入向量，这正好可以实现节省资源和处理 OOV 问题的双重优势。此外，我们从理论角度证明了这种机制可以保护本地客户端的数据隐私。大量实验表明，我们的方法不仅有效地降低了存储和通信开销，而且优于最先进的 FRS。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10506199</guid>
-      <pubDate>Mon, 22 Apr 2024 13:16:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>根据梯度生成图像重建</title>
-      <link>http://ieeexplore.ieee.org/document/10495167</link>
-      <description><![CDATA[在本文中，我们提出了一种从梯度重建生成图像 (GIRG) 的方法，用于在联邦学习 (FL) 设置中从梯度恢复训练图像，其中通过共享模型权重和梯度而不是原始训练数据来保护隐私。先前的研究表明，从共享梯度中泄露客户的私人信息甚至像素级恢复训练图像的可能性。然而，现有方法仅限于低分辨率图像和小批量 (BS)，或者需要有关客户数据的先验知识。GIRG 利用条件生成模型从共享梯度重建训练图像及其相应的标签。与以前基于生成模型的方法不同，GIRG 不需要先验训练数据。此外，GIRG 优化条件生成模型的权重以生成高度准确的“虚拟”图像，而不是优化生成模型的输入向量。综合实证结果表明，GIRG 能够恢复具有大 BS 的高分辨率图像，甚至可以从来自多个参与者的梯度聚合中恢复图像。这些结果揭示了当前 FL 实践的脆弱性，并呼吁立即努力防止基于梯度共享的协作训练中的反转攻击。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10495167</guid>
-      <pubDate>Wed, 10 Apr 2024 13:18:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于弹性边缘计算网络的具有容错机制的多中心分层联合学习</title>
-      <link>http://ieeexplore.ieee.org/document/10483107</link>
-      <description><![CDATA[在联邦学习 (FL) 领域，传统的双层架构由中央参数服务器和外围设备组成，由于在通信和安全方面严重依赖中央服务器，因此经常会遇到挑战。这种依赖在涉及设备和服务器潜在故障的情况下尤其成问题。虽然现有的设备-边缘-云分层 FL (HFL) 模型减轻了对中央服务器的一些依赖并减少了通信开销，但它们主要侧重于边缘计算网络内的负载平衡，无法实现完全分散和以边缘为中心的模型聚合。为了解决这些限制，我们引入了多中心 HFL (MCHFL) 框架。这个创新的框架用位于边缘的强大的全球聚合中心的分布式网络取代了传统的单一中央服务器架构，从本质上增强了容错能力，这对于在边缘网络中断的情况下保持操作完整性至关重要。我们对 MNIST、FashionMNIST 和 CIFAR-10 数据集进行的全面实验证明了 MCHFL 的卓越性能。值得注意的是，即使在高达 50% 的高瘫痪率下，MCHFL 仍保持较高的准确率水平，在这些数据集上的最大准确率分别仅下降 2.60%、5.12% 和 16.73%。这一表现明显超过了传统单中心模型在类似条件下观察到的明显准确率下降。据我们所知，MCHFL 是第一个具有理论基础的边缘多中心 FL 框架。我们在各种数据集上的大量实验结果验证了 MCHFL 的有效性，展示了与单中心模型相比，其更高的准确率、更快的收敛速度和更强的鲁棒性，从而使其成为边缘多中心 FL 的先驱范例。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10483107</guid>
+      <title>eVAE：进化变分自动编码器</title>
+      <link>http://ieeexplore.ieee.org/document/10483024</link>
+      <description><![CDATA[变分自编码器 (VAE) 面临由替代损失导致的表示推理和任务拟合之间不平衡的挑战。为了解决这个问题，现有的方法通过直接调整其系数来调整其平衡。然而，这些方法存在权衡不确定性，即迭代过程中的非动态调节和学习任务的超参数不灵活。因此，我们首次尝试引入一种进化 VAE (eVAE)，它基于变分信息瓶颈 (VIB) 理论和综合进化神经学习。eVAE 将变分遗传算法 (VGA) 集成到 VAE 中，并使用变分进化算子，包括变分突变 (V 突变)、交叉和进化。它的训练机制协同且动态地解决和更新证据下限 (ELBO) 中的学习权衡不确定性，而无需额外的约束和超参数调整。此外，eVAE 提出了一种进化范式来调整 VAE 的关键因素，并解决了将进化优化集成到深度学习中的过早收敛和随机搜索问题。实验表明，eVAE 解决了文本生成的 KL 消失问题，重建损失较低，生成所有解缠因子，图像清晰，并提高了图像生成质量。eVAE 比其竞争对手实现了更好的解缠、生成性能和生成-推理平衡。代码可在以下网址获取：https://github.com/amasawa/eVAE。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10483024</guid>
       <pubDate>Thu, 28 Mar 2024 13:17:21 GMT</pubDate>
     </item>
     <item>
-      <title>CoT：用于分层语义分割的 Contourlet Transformer</title>
-      <link>http://ieeexplore.ieee.org/document/10445018</link>
-      <description><![CDATA[Transformer-CNN 混合学习方法在分层语义分割中平衡深层和浅层图像特征方面越来越受到关注。然而，它们仍然面临着全面的语义理解和细致的细节提取之间的矛盾。为了解决这个问题，本文提出了一种新的 Transformer-CNN 混合分层网络，称为轮廓波变换器 (CoT)。在 CoT 框架中，Transformer 的语义表示过程不可避免地充斥着稀疏分布的点，虽然这不是我们所希望的，但需要更精细的细节。因此，我们设计了一个深度细节表示 (DDR) 结构来研究它们的细粒度特征。首先，通过轮廓波变换 (CT)，我们从原始图像中提取高频方向分量，得到适应 CNN 归纳偏差的局部特征。其次，CNN 深度稀疏学习 (DSL) 模块将它们作为输入来表示底层的细节特征。这种内存和能源效率高的学习方法可以在输入和输出之间保持相同的稀疏模式。最后，解码器通过类似图像重建的方式分层地将细节特征与语义特征融合。实验表明，CoT 在三个基准数据集上实现了具有竞争力的性能：PASCAL Context [57.21% 平均交并比 (mIoU)]、ADE20K (54.16% mIoU) 和 Cityscapes (84.23% mIoU)。此外，我们进行了稳健性研究，以验证其对各种损坏的抵抗力。我们的代码可在以下网址获得：https://github.com/yilinshao/CoT-Contourlet-Transformer。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10445018</guid>
+      <title>在复杂的多智能体场景中随时间推移估计反事实治疗结果</title>
+      <link>http://ieeexplore.ieee.org/document/10445111</link>
+      <description><![CDATA[在多智能体系统中，干预措施的评估在各个工程和科学领域都是一项挑战，例如，人类何时应该干预自动驾驶系统，以及球员何时应该传球给队友以获得好球。使用反事实长期预测来估计个体治疗效果 (ITE) 是评估此类干预措施的实用方法。然而，大多数传统框架没有考虑多智能体关系和协变量反事实预测的随时间变化的复杂结构。这可能会导致对 ITE 的错误评估和解释困难。在这里，我们提出了一个可解释的、反事实的多智能体系统中的循环网络来估计干预的效果。我们的模型利用图变分循环神经网络 (GVRNN) 和基于领域知识的理论计算，为基于多智能体协变量和结果的长期预测的 ITE 估计框架提供依据，从而可以确认干预在何种情况下是有效的。在具有随时间变化的混杂因素的自动驾驶汽车和生物制剂的模拟模型上，我们表明我们的方法在反事实协变量中实现了更低的估计误差，并且比基线实现了最有效的治疗时机。此外，使用真实的篮球数据，我们的方法执行了逼真的反事实预测，并评估了投篮场景中的反事实传球。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10445111</guid>
       <pubDate>Mon, 26 Feb 2024 13:17:57 GMT</pubDate>
     </item>
     <item>
-      <title>联合推荐系统综述</title>
-      <link>http://ieeexplore.ieee.org/document/10423793</link>
-      <description><![CDATA[联邦学习最近被应用于推荐系统以保护用户隐私。在联邦学习设置中，推荐系统可以通过收集中间参数而不是真实用户数据来训练推荐模型，这大大增强了用户隐私。此外，联邦推荐系统（FedRS）可以与其他数据平台合作，在满足法规和隐私约束的同时提高推荐性能。然而，FedRS面临着许多新的挑战，如隐私、安全、异构性和通信成本。虽然在这些领域已经进行了大量研究，但调查文献仍然存在空白。在本文中，我们：1）总结了FedRS中使用的一些常见隐私机制，并讨论了每种机制的优点和局限性；2）回顾了几种针对安全性的新攻击和防御；3）总结了一些解决异构性和通信成本问题的方法；4）介绍FedRS的一些实际应用和公共基准数据集；5）提出未来的一些前瞻性研究方向。本文可以指导研究人员和从业者了解这些领域的研究进展。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10423793</guid>
-      <pubDate>Wed, 07 Feb 2024 13:16:40 GMT</pubDate>
+      <title>核心：相关性引导特征增强，用于小样本图像分类</title>
+      <link>http://ieeexplore.ieee.org/document/10444041</link>
+      <description><![CDATA[少量样本分类旨在使在基类上训练的分类器适应具有少量样本的新类。然而，有限的训练数据量通常不足以表示新类中的类内差异。这可能导致对特征分布的估计有偏差，进而导致决策边界不准确，尤其是当支持数据是异常值时。为了解决这个问题，我们提出了一种称为 CORrelation 引导特征丰富化的特征增强方法，该方法使用来自基类的弱监督为新类生成改进的特征。所提出的 CORrelation 引导特征增强 (CORE) 方法利用自动编码器 (AE) 架构，但将分类信息合并到其潜在空间中。这种设计允许 CORE 生成更具判别性的特征，同时丢弃不相关的内容信息。在基类上训练后，CORE 的生成能力可以转移到与基类相似的新类。通过使用这些生成特征，我们可以减少类分布的估计偏差，从而使小样本学习 (FSL) 对支持数据的选择不那么敏感。我们的方法通用且灵活，可以与任何特征提取器和分类器一起使用。它可以轻松集成到现有的 FSL 方法中。使用不同主干和分类器的实验表明，我们提出的方法在各种广泛使用的基准上始终优于现有方法。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10444041</guid>
+      <pubDate>Fri, 23 Feb 2024 13:16:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>学习鲁棒预测控制：一种空间时间博弈论方法</title>
+      <link>http://ieeexplore.ieee.org/document/10436664</link>
+      <description><![CDATA[本文研究了未知动态系统的鲁棒预测控制问题。由于动态不可用性限制了模型驱动方法的可行性，因此从时间一致性的角度开发了学习鲁棒预测控制 (LRPC) 框架。在类似反馈的控制因果关系下，鲁棒预测控制被重构为时空博弈，并通过时间一致的纳什均衡保证稳定性。为了层次清晰，我们的框架被指定为以下四个内容。首先，从时间序列分析中得出多步类似反馈的控制因果关系，而 Takens 定理从稳态特性中提供理论支持。其次，将控制问题重构为博弈，而性能和鲁棒性分别将博弈分为时间非零和子博弈和空间零和子博弈。接下来，设计多步强化学习 (RL) 来解决没有系统模型的鲁棒预测控制。通过振荡值函数的边界分析证明了收敛性，并从时间一致性中推导出滚动时域的性质。最后，给出了数据驱动的函数逼近实现，选用神经网络来逼近值函数和类反馈因果关系，用最小二乘误差估计权重，数值结果验证了算法的有效性。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10436664</guid>
+      <pubDate>Thu, 15 Feb 2024 13:17:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>大规模多智能体系统的分布式自适应群集控制</title>
+      <link>http://ieeexplore.ieee.org/document/10433705</link>
+      <description><![CDATA[本文介绍了一种适用于在不确定环境下运行的大规模多智能体系统 (LS-MAS) 的新型分布式群集控制方法。在处理不确定环境下的大量群集智能体时，现有的群集方法在解决基于 PDE 的大规模系统最优群集控制时，会遇到通信复杂性和由智能体交互呈指数增长引起的“维数灾难”问题。均值场博弈 (MFG) 方法通过将所有智能体之间的交互转换为每个智能体之间的交互来解决此问题，平均效应由其他智能体的概率密度函数 (pdf) 表示。然而，仅依靠 pdf 项来考虑其他智能体的状态可能会导致群集性能低下，因为缺乏涵盖所有参与群集的智能体的高效协调机制。为了克服这些困难并实现 LS-MAS 所需的群集性能，智能体被分解为有限数量的子群。每个子群由一个领导者和追随者组成，并开发了一种混合博弈论来管理群间和群内交互。该方法结合了合作博弈和 MFG，前者将来自不同群体的领导者联系起来，以制定分布式群集控制；后者将同一群体中的领导者和追随者组合起来，以扩展集体群集行为；后者则为追随者提供了一种 MFG，以应对 LS-MAS 的挑战。此外，为了使用混合博弈结构实现分布式自适应群集，我们提出了一种基于分层参与者-评论家-大众的强化学习技术。该方法结合了领导者的多参与者-评论家方法和追随者的参与者-评论家-大众算法，从而能够以分布式方式对大规模代理进行自适应群集控制。最后，包括比较研究和 Lyapunov 分析在内的数值模拟证明了所开发方法的有效性。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10433705</guid>
+      <pubDate>Tue, 13 Feb 2024 13:18:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>学习预测半监督持续学习的梯度</title>
+      <link>http://ieeexplore.ieee.org/document/10433526</link>
+      <description><![CDATA[机器智能面临的一个关键挑战是学习新的视觉概念而不忘记先前获得的知识。持续学习 (CL) 旨在解决这一挑战。然而，CL 和人类学习之间仍然存在差距。具体来说，人类能够从日常生活中与已知或未知标签相关的样本中不断学习，而现有的 CL 和半监督 CL (SSCL) 方法假设训练样本与已知标签相关。具体来说，我们感兴趣的是两个问题：1) 如何将不相关的未标记数据用于 SSCL 任务；2) 未标记数据如何影响 CL 任务中的学习和灾难性遗忘。为了探索这些问题，我们制定了一种新的 SSCL 方法，该方法可以通用地应用于现有的 CL 模型。此外，我们提出了一种新颖的梯度学习器，从标记数据中学习以预测未标记数据的梯度。这样，未标记数据就可以适应监督 CL 框架。我们对主流 CL 方法、对抗性 CL (ACL) 和半监督学习 (SSL) 任务上所提出的方法进行了广泛的评估。所提出的方法在 CL 设置中实现了分类准确率和后向迁移 (BWT) 方面的最先进性能，同时在 SSL 设置中实现了分类准确率的预期性能。这意味着未标记的图像可以增强 CL 模型对未见数据的预测能力的通用性，并显著缓解灾难性遗忘。代码可在 https://github.com/luoyan407/grad_prediction.git 上找到。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10433526</guid>
+      <pubDate>Tue, 13 Feb 2024 13:18:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>EM-Trans：用于 RGB-D 显著物体检测的边缘感知多模态变换器</title>
+      <link>http://ieeexplore.ieee.org/document/10433541</link>
+      <description><![CDATA[近年来，RGB-D 显著性物体检测 (SOD) 引起了极大的关注。特别是，Transformer 已被采用并显示出巨大的潜力。然而，现有的 Transformer 模型通常会忽略重要的边缘信息，这是制约​​ SOD 精度进一步提高的主要问题。为此，我们提出了一种新型的边缘感知 RGB-D SOD Transformer，称为 EM-Trans，它在双波段分解框架中明确地对边缘信息进行建模。具体来说，我们使用两个并行解码器网络分别从双流多模态主干网络提取的低级和高级特征中学习高频边缘和低频主体特征。接下来，我们提出了一个交叉注意互补探索模块，通过利用多模态互补信息来丰富边缘/主体特征。然后将细化的特征输入到我们提出的颜色提示引导融合模块中，以增强深度特征并融合多模态特征。最后，使用我们的深度监督渐进式融合模块融合得到的特征，该模块逐步整合边缘和主体特征以预测显著性图。我们的模型明确考虑了边缘信息以实现准确的 RGB-D SOD，克服了现有方法的局限性并有效提高了性能。在基准数据集上进行的大量实验表明，EM-Trans 是一种有效的 RGB-D SOD 框架，其在定量和定性方面均优于当前最先进的模型。对 RGB-T SOD 的进一步扩展证明了我们的模型在各种多模态 SOD 任务中的巨大潜力。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10433541</guid>
+      <pubDate>Tue, 13 Feb 2024 13:18:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过解路径进行半监督支持向量机的全局模型选择</title>
+      <link>http://ieeexplore.ieee.org/document/10431549</link>
+      <description><![CDATA[半监督支持向量机（S3VM）非常重要，因为它可以利用大量未标记数据来提高传统 SVM 的泛化精度。为了获得良好的性能，S3VM 需要采取一些有效的措施来选择超参数。然而，半监督模型的模型选择仍然是一个关键的未解决的问题。现有的半监督模型搜索最优参数值的方法通常计算量很大，尤其是那些使用网格搜索的方法。为了解决这个具有挑战性的问题，在本文中，我们首先提出了 S3VM（SPS3VM）的解决路径，它可以跟踪非凸 S3VM 关于超参数的解。具体而言，我们应用增量和减量学习方法来更新解并使其满足 Karush–Kuhn–Tucker（KKT）条件。基于 SPS3VM 和模型函数的分段线性，我们可以通过计算 S3VM 的误差路径来找到对整个候选超参数范围具有最小交叉验证 (CV) 误差的模型。我们的 SPS3VM 是半监督学习模型非凸优化问题的第一个解路径算法。我们还提供了 SPS3VM 的有限收敛分析和计算复杂度。在各种基准数据集上的实验结果不仅验证了我们的 SPS3VM 可以全局搜索超参数（正则化和斜坡损失参数），而且与网格搜索方法相比，在保持相似或略好的泛化性能的同时，计算时间大幅减少。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10431549</guid>
+      <pubDate>Fri, 09 Feb 2024 13:16:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>CDNA-SNN：一种利用神经元组装进行模式分类的新型脉冲神经网络</title>
+      <link>http://ieeexplore.ieee.org/document/10428047</link>
+      <description><![CDATA[脉冲神经网络 (SNN) 比其前身更接近其生物对应物，被认为是第三代人工神经网络。事实证明，脉冲神经元网络比 S 形神经网络具有更高的计算能力和更低的功率要求。本文介绍了一种新型 SNN，它从人类大脑的神经元组合中汲取灵感并融入了其中的概念。所提出的网络称为基于类别依赖的神经元激活的 SNN (CDNA-SNN)，它为每个神经元分配可学习值（称为 CDNA），这些值表示神经元响应来自不同类别的样本时的平均相对脉冲活动。本文还介绍了一种新的学习算法，该算法根据神经元的 CDNA 将神经元分类为不同的类别组合。这些神经元组合通过一种基于脉冲时间依赖可塑性 (STDP) 的新型训练方法进行训练，使其相关类别具有高活动性，而其他类别具有低发放率。此外，还提出了一种使用 CDNA 的新型 STDP，它基于突触前和突触后神经元的组装来控制可塑性的数量。使用嵌套交叉验证 (N-CV) 进行超参数优化，在加州大学欧文分校 (UCI) 机器学习库以及修改后的国家标准与技术研究所 (MNIST) 和 Fashion MNIST 的五个数据集上评估了 CDNA-SNN 的性能。我们的结果表明，CDNA-SNN 在 3/5 UCI 数据集上明显优于突触权重关联训练 (SWAT) ( $p &lt; 0.0005$ ) 和 SpikeProp ( $p &lt; 0.05$ )，在 2/5 UCI 数据集上优于自调节进化脉冲神经 (SRESN) ( $p &lt; 0.05$ )，同时使用明显较少的可训练参数。此外，与其他监督的全连接 SNN 相比，所提出的 SNN 在 Fashion MNIST 中达到了最佳性能，在 MNIST 和神经形态 MNIST（N-MNIST）中达到了相当的性能，同时利用了更少（1%–35%）的参数。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10428047</guid>
+      <pubDate>Thu, 08 Feb 2024 13:18:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用中谱分组卷积增强卷积神经网络</title>
+      <link>http://ieeexplore.ieee.org/document/10428086</link>
+      <description><![CDATA[本文针对具有分组卷积机制的高效深度卷积神经网络 (DCNN)，提出了一种名为中谱分组卷积 (MSGC) 的新模块。它探索了通道修剪和传统分组卷积之间的广阔“中谱”区域。与通道修剪相比，由于采用了组机制，MSGC 可以保留输入特征图中的大部分信息；与分组卷积相比，MSGC 受益于通道修剪的核心可学习性，可以构建其组拓扑，从而实现更好的通道划分。中谱区域沿四个维度展开：分组、分层、样本和注意力，从而可以揭示更强大且可解释的结构。因此，所提出的模块可以充当助推器，降低主机主干的计算成本，以实现一般图像识别，甚至提高预测准确率。例如，在 ImageNet 数据集上进行图像分类实验时，MSGC 可以将 ResNet-18 和 ResNet-50 的乘法累加 (MAC) 减少一半，但仍可将 Top-1 准确率提高 1% 以上。在 MAC 减少 35% 的情况下，MSGC 还可以提高 MobileNetV2 主干的 Top-1 准确率。在 MS COCO 数据集上进行对象检测的结果也显示出类似的观察结果。我们的代码和经过训练的模型可在 https://github.com/hellozhuo/msgc 上找到。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10428086</guid>
+      <pubDate>Thu, 08 Feb 2024 13:18:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>不使用任何对抗样本的稳健小样本学习</title>
+      <link>http://ieeexplore.ieee.org/document/10428072</link>
+      <description><![CDATA[获取和注释样本的高成本使得“小样本”学习问题变得至关重要。现有的研究主要侧重于提高干净数据上的性能，而忽略了对抗性噪声干扰数据的稳健性问题。最近，人们做出了一些努力，利用复杂的元学习技术将小样本问题与稳健性目标结合起来。这些方法依赖于在每次训练中生成对抗性样本，这进一步增加了计算负担。为了避免这种耗时且复杂的过程，我们提出了一种简单但有效的替代方法，它不需要任何对抗性样本。受人类认知决策过程的启发，我们在预训练阶段通过自我蒸馏在基类数据和它们相应的低频样本之间强制进行高级特征匹配。然后，对模型进行新类别的样本微调，我们还通过余弦相似度提高了低频查询集特征的可辨别性。在 CIFAR-FS 数据集的一次性设置中，我们的方法在投影梯度下降 (PGD) 和最先进的自动攻击中分别将对抗准确率提高了 60.55% 和 62.05%，而与基线相比，清洁准确率略有下降。此外，我们的方法仅需标准训练时间的 $1.69\times $，而速度却比最先进的对抗元学习方法快 $\approx 5\times $。代码可在 https://github.com/vcl-iisc/robust-few-shot-learning 上找到。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10428072</guid>
+      <pubDate>Thu, 08 Feb 2024 13:17:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>推动脉冲神经网络向深度残差学习发展</title>
+      <link>http://ieeexplore.ieee.org/document/10428029</link>
+      <description><![CDATA[尽管神经形态计算进展迅速，但脉冲神经网络 (SNN) 的容量不足和表示能力不足严重限制了其在实践中的应用范围。残差学习和捷径已被证明是训练深度神经网络的重要方法，但之前的研究很少评估它们对 SNN 细节的适用性。在本文中，我们首先发现这种疏忽会导致信息流受阻以及在普通 ResNet 的脉冲版本中伴随的退化问题。为了解决这个问题，我们提出了一种新的面向 SNN 的残差架构 MS-ResNet，它建立了基于膜的捷径，并进一步证明了通过引入块动态等距理论可以在 MS-ResNet 中实现梯度范数相等，从而确保网络能够以深度不敏感的方式表现良好。因此，我们能够显著扩展直接训练的 SNN 的深度，例如，在 CIFAR-10 上最多可达 482 层，在 ImageNet 上最多可达 104 层，而不会观察到任何轻微的退化问题。为了验证 MS-ResNet 的有效性，我们在基于帧和神经形态的数据集上进行了实验。MS-ResNet104 在 ImageNet 上取得了 76.02% 准确率的优异结果，据我们所知，这是直接训练的 SNN 领域中最高的。还观察到了很高的能源效率，平均每个神经元只需要一个脉冲就可以对输入样本进行分类。我们相信，我们强大且可扩展的模型将为进一步探索 SNN 提供强有力的支持。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10428029</guid>
+      <pubDate>Thu, 08 Feb 2024 13:17:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
