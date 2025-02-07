@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>IEEE 神经网络和学习系统学报 - 新目录</title>
+    <title></title>
     <link>http://ieeexplore.ieee.org</link>
-    <description>出版物目录提醒# 5962385</description>
+    <description></description>
     <lastBuildDate>Thu, 06 Feb 2025 05:00:00 GMT</lastBuildDate>
     <item>
-      <title>IEEE 神经网络与学习系统学报出版信息</title>
+      <title></title>
       <link>http://ieeexplore.ieee.org/document/10877694</link>
       <description><![CDATA[无效的]]></description>
       <guid>http://ieeexplore.ieee.org/document/10877694</guid>
@@ -15,98 +15,98 @@
     <item>
       <title>目录</title>
       <link>http://ieeexplore.ieee.org/document/10877695</link>
-      <description><![CDATA[无效的]]></description>
+      <description><![CDATA[]]></description>
       <guid>http://ieeexplore.ieee.org/document/10877695</guid>
       <pubDate>Thu, 06 Feb 2025 13:17:55 GMT</pubDate>
     </item>
     <item>
-      <title>特邀社论：机器学习的泛化、稳健性和可解释性的信息理论方法特刊</title>
+      <title></title>
       <link>http://ieeexplore.ieee.org/document/10877691</link>
-      <description><![CDATA[无效的]]></description>
+      <description><![CDATA[]]></description>
       <guid>http://ieeexplore.ieee.org/document/10877691</guid>
       <pubDate>Thu, 06 Feb 2025 13:17:54 GMT</pubDate>
     </item>
     <item>
-      <title>eVAE：进化变分自动编码器</title>
+      <title></title>
       <link>http://ieeexplore.ieee.org/document/10483024</link>
-      <description><![CDATA[变分自编码器 (VAE) 面临由替代损失导致的表示推理和任务拟合之间不平衡的挑战。为了解决这个问题，现有的方法通过直接调整其系数来调整其平衡。然而，这些方法存在权衡不确定性，即迭代过程中的非动态调节和学习任务的超参数不灵活。因此，我们首次尝试引入一种进化 VAE (eVAE)，它基于变分信息瓶颈 (VIB) 理论和综合进化神经学习。eVAE 将变分遗传算法 (VGA) 集成到 VAE 中，并使用变分进化算子，包括变分突变 (V 突变)、交叉和进化。它的训练机制协同且动态地解决和更新证据下限 (ELBO) 中的学习权衡不确定性，而无需额外的约束和超参数调整。此外，eVAE 提出了一种进化范式来调整 VAE 的关键因素，并解决了将进化优化集成到深度学习中的过早收敛和随机搜索问题。实验表明，eVAE 解决了文本生成的 KL 消失问题，重建损失较低，生成所有解缠因子，图像清晰，并提高了图像生成质量。eVAE 比其竞争对手实现了更好的解缠、生成性能和生成-推理平衡。代码可在以下网址获取：https://github.com/amasawa/eVAE。]]></description>
+      <description><![CDATA[]]></description>
       <guid>http://ieeexplore.ieee.org/document/10483024</guid>
       <pubDate>Thu, 28 Mar 2024 13:17:21 GMT</pubDate>
     </item>
     <item>
-      <title>在复杂的多智能体场景中随时间推移估计反事实治疗结果</title>
+      <title></title>
       <link>http://ieeexplore.ieee.org/document/10445111</link>
-      <description><![CDATA[在多智能体系统中，干预措施的评估在各个工程和科学领域都是一项挑战，例如，人类何时应该干预自动驾驶系统，以及球员何时应该传球给队友以获得好球。使用反事实长期预测来估计个体治疗效果 (ITE) 是评估此类干预措施的实用方法。然而，大多数传统框架没有考虑多智能体关系和协变量反事实预测的随时间变化的复杂结构。这可能会导致对 ITE 的错误评估和解释困难。在这里，我们提出了一个可解释的、反事实的多智能体系统中的循环网络来估计干预的效果。我们的模型利用图变分循环神经网络 (GVRNN) 和基于领域知识的理论计算，为基于多智能体协变量和结果的长期预测的 ITE 估计框架提供依据，从而可以确认干预在何种情况下是有效的。在具有随时间变化的混杂因素的自动驾驶汽车和生物制剂的模拟模型上，我们表明我们的方法在反事实协变量中实现了更低的估计误差，并且比基线实现了最有效的治疗时机。此外，使用真实的篮球数据，我们的方法执行了逼真的反事实预测，并评估了投篮场景中的反事实传球。]]></description>
+      <description><![CDATA[例如，在各种工程和科学领域中，对多种系统中的干预评估，例如，当人类应干预自动驾驶系统以及球员应传递给队友以进行良好射门的何时，这是充满挑战的。使用反事实长期预测来估算单个治疗效果（ITE）是实用的，可以评估这种干预措施。但是，大多数常规框架并未考虑多种关系和协变量反事实预测的随时间变化的复杂结构。这可能会导致对ITE和解释难度的错误评估。在这里，我们提出了一个可解释的，反事实的反复网络，以估计干预措施的效果。我们的模型利用图形复发性神经网络（GVRNNS）和基于理论的计算以及基于域知识的ITE估计框架，基于对多构成协变量和结果的ITE估计框架，这可以确认干预措施有效的情况。在与时变混杂因子的自动化车辆和生物学剂的模拟模型上，我们表明我们的方法在反事实协变量和最有效的治疗时机中达到了较低的估计误差。此外，使用真实的篮球数据，我们的方法执行了现实的反事实预测，并评估了射击场景中的反事实传球。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10445111</guid>
       <pubDate>Mon, 26 Feb 2024 13:17:57 GMT</pubDate>
     </item>
     <item>
-      <title>核心：相关性引导特征增强，用于小样本图像分类</title>
+      <title></title>
       <link>http://ieeexplore.ieee.org/document/10444041</link>
-      <description><![CDATA[少量样本分类旨在使在基类上训练的分类器适应具有少量样本的新类。然而，有限的训练数据量通常不足以表示新类中的类内差异。这可能导致对特征分布的估计有偏差，进而导致决策边界不准确，尤其是当支持数据是异常值时。为了解决这个问题，我们提出了一种称为 CORrelation 引导特征丰富化的特征增强方法，该方法使用来自基类的弱监督为新类生成改进的特征。所提出的 CORrelation 引导特征增强 (CORE) 方法利用自动编码器 (AE) 架构，但将分类信息合并到其潜在空间中。这种设计允许 CORE 生成更具判别性的特征，同时丢弃不相关的内容信息。在基类上训练后，CORE 的生成能力可以转移到与基类相似的新类。通过使用这些生成特征，我们可以减少类分布的估计偏差，从而使小样本学习 (FSL) 对支持数据的选择不那么敏感。我们的方法通用且灵活，可以与任何特征提取器和分类器一起使用。它可以轻松集成到现有的 FSL 方法中。使用不同主干和分类器的实验表明，我们提出的方法在各种广泛使用的基准上始终优于现有方法。]]></description>
+      <description><![CDATA[]]></description>
       <guid>http://ieeexplore.ieee.org/document/10444041</guid>
       <pubDate>Fri, 23 Feb 2024 13:16:27 GMT</pubDate>
     </item>
     <item>
-      <title>学习鲁棒预测控制：一种空间时间博弈论方法</title>
+      <title></title>
       <link>http://ieeexplore.ieee.org/document/10436664</link>
-      <description><![CDATA[本文研究了未知动态系统的鲁棒预测控制问题。由于动态不可用性限制了模型驱动方法的可行性，因此从时间一致性的角度开发了学习鲁棒预测控制 (LRPC) 框架。在类似反馈的控制因果关系下，鲁棒预测控制被重构为时空博弈，并通过时间一致的纳什均衡保证稳定性。为了层次清晰，我们的框架被指定为以下四个内容。首先，从时间序列分析中得出多步类似反馈的控制因果关系，而 Takens 定理从稳态特性中提供理论支持。其次，将控制问题重构为博弈，而性能和鲁棒性分别将博弈分为时间非零和子博弈和空间零和子博弈。接下来，设计多步强化学习 (RL) 来解决没有系统模型的鲁棒预测控制。通过振荡值函数的边界分析证明了收敛性，并从时间一致性中推导出滚动时域的性质。最后，给出了数据驱动的函数逼近实现，选用神经网络来逼近值函数和类反馈因果关系，用最小二乘误差估计权重，数值结果验证了算法的有效性。]]></description>
+      <description><![CDATA[本文研究了未知动态系统的强大预测控制问题。由于动力学不可用限制了模型驱动方法的可行性，因此学习健壮的预测控制（LRPC）框架是从时间一致性方面开发的。在类似反馈的控制因果关系下，稳健的预测控制将被重建为时空游戏，并保证通过及时持续的NASH平衡来稳定。为了清晰度，我们的框架被指定为四个关注内容。首先，多步反馈状控制因果关系是从时间序列分析中得出的，而Takens的定理提供了稳态属性的理论支持。其次，控制问题被重建为游戏，而性能和鲁棒性分别将游戏分别为暂时的非零子游戏和空间零和空间。接下来，多步加固学习（RL）旨在解决无需系统模型的强大预测控制。收敛是通过振荡价值函数的边界分析来证明的，而后退视野的特性是从时间一致性得出的。最后，通过功能近似给出了数据驱动的实现，并选择神经网络以近似值功能和反馈样因果关系。权重估计有最小二乘错误。数值结果验证了有效性。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10436664</guid>
       <pubDate>Thu, 15 Feb 2024 13:17:38 GMT</pubDate>
     </item>
     <item>
-      <title>大规模多智能体系统的分布式自适应群集控制</title>
+      <title>大规模多基因系统的分布式自适应植入控制</title>
       <link>http://ieeexplore.ieee.org/document/10433705</link>
-      <description><![CDATA[本文介绍了一种适用于在不确定环境下运行的大规模多智能体系统 (LS-MAS) 的新型分布式群集控制方法。在处理不确定环境下的大量群集智能体时，现有的群集方法在解决基于 PDE 的大规模系统最优群集控制时，会遇到通信复杂性和由智能体交互呈指数增长引起的“维数灾难”问题。均值场博弈 (MFG) 方法通过将所有智能体之间的交互转换为每个智能体之间的交互来解决此问题，平均效应由其他智能体的概率密度函数 (pdf) 表示。然而，仅依靠 pdf 项来考虑其他智能体的状态可能会导致群集性能低下，因为缺乏涵盖所有参与群集的智能体的高效协调机制。为了克服这些困难并实现 LS-MAS 所需的群集性能，智能体被分解为有限数量的子群。每个子群由一个领导者和追随者组成，并开发了一种混合博弈论来管理群间和群内交互。该方法结合了合作博弈和 MFG，前者将来自不同群体的领导者联系起来，以制定分布式群集控制；后者将同一群体中的领导者和追随者组合起来，以扩展集体群集行为；后者则为追随者提供了一种 MFG，以应对 LS-MAS 的挑战。此外，为了使用混合博弈结构实现分布式自适应群集，我们提出了一种基于分层参与者-评论家-大众的强化学习技术。该方法结合了领导者的多参与者-评论家方法和追随者的参与者-评论家-大众算法，从而能够以分布式方式对大规模代理进行自适应群集控制。最后，包括比较研究和 Lyapunov 分析在内的数值模拟证明了所开发方法的有效性。]]></description>
+      <description><![CDATA[]]></description>
       <guid>http://ieeexplore.ieee.org/document/10433705</guid>
       <pubDate>Tue, 13 Feb 2024 13:18:20 GMT</pubDate>
     </item>
     <item>
-      <title>学习预测半监督持续学习的梯度</title>
+      <title></title>
       <link>http://ieeexplore.ieee.org/document/10433526</link>
-      <description><![CDATA[机器智能面临的一个关键挑战是学习新的视觉概念而不忘记先前获得的知识。持续学习 (CL) 旨在解决这一挑战。然而，CL 和人类学习之间仍然存在差距。具体来说，人类能够从日常生活中与已知或未知标签相关的样本中不断学习，而现有的 CL 和半监督 CL (SSCL) 方法假设训练样本与已知标签相关。具体来说，我们感兴趣的是两个问题：1) 如何将不相关的未标记数据用于 SSCL 任务；2) 未标记数据如何影响 CL 任务中的学习和灾难性遗忘。为了探索这些问题，我们制定了一种新的 SSCL 方法，该方法可以通用地应用于现有的 CL 模型。此外，我们提出了一种新颖的梯度学习器，从标记数据中学习以预测未标记数据的梯度。这样，未标记数据就可以适应监督 CL 框架。我们对主流 CL 方法、对抗性 CL (ACL) 和半监督学习 (SSL) 任务上所提出的方法进行了广泛的评估。所提出的方法在 CL 设置中实现了分类准确率和后向迁移 (BWT) 方面的最先进性能，同时在 SSL 设置中实现了分类准确率的预期性能。这意味着未标记的图像可以增强 CL 模型对未见数据的预测能力的通用性，并显著缓解灾难性遗忘。代码可在 https://github.com/luoyan407/grad_prediction.git 上找到。]]></description>
+      <description><![CDATA[]]></description>
       <guid>http://ieeexplore.ieee.org/document/10433526</guid>
       <pubDate>Tue, 13 Feb 2024 13:18:17 GMT</pubDate>
     </item>
     <item>
-      <title>EM-Trans：用于 RGB-D 显著物体检测的边缘感知多模态变换器</title>
+      <title></title>
       <link>http://ieeexplore.ieee.org/document/10433541</link>
-      <description><![CDATA[近年来，RGB-D 显著性物体检测 (SOD) 引起了极大的关注。特别是，Transformer 已被采用并显示出巨大的潜力。然而，现有的 Transformer 模型通常会忽略重要的边缘信息，这是制约​​ SOD 精度进一步提高的主要问题。为此，我们提出了一种新型的边缘感知 RGB-D SOD Transformer，称为 EM-Trans，它在双波段分解框架中明确地对边缘信息进行建模。具体来说，我们使用两个并行解码器网络分别从双流多模态主干网络提取的低级和高级特征中学习高频边缘和低频主体特征。接下来，我们提出了一个交叉注意互补探索模块，通过利用多模态互补信息来丰富边缘/主体特征。然后将细化的特征输入到我们提出的颜色提示引导融合模块中，以增强深度特征并融合多模态特征。最后，使用我们的深度监督渐进式融合模块融合得到的特征，该模块逐步整合边缘和主体特征以预测显著性图。我们的模型明确考虑了边缘信息以实现准确的 RGB-D SOD，克服了现有方法的局限性并有效提高了性能。在基准数据集上进行的大量实验表明，EM-Trans 是一种有效的 RGB-D SOD 框架，其在定量和定性方面均优于当前最先进的模型。对 RGB-T SOD 的进一步扩展证明了我们的模型在各种多模态 SOD 任务中的巨大潜力。]]></description>
+      <description><![CDATA[]]></description>
       <guid>http://ieeexplore.ieee.org/document/10433541</guid>
       <pubDate>Tue, 13 Feb 2024 13:18:14 GMT</pubDate>
     </item>
     <item>
-      <title>通过解路径进行半监督支持向量机的全局模型选择</title>
+      <title>半监督支持向量机的全局模型选择通过解决方案路径</title>
       <link>http://ieeexplore.ieee.org/document/10431549</link>
-      <description><![CDATA[半监督支持向量机（S3VM）非常重要，因为它可以利用大量未标记数据来提高传统 SVM 的泛化精度。为了获得良好的性能，S3VM 需要采取一些有效的措施来选择超参数。然而，半监督模型的模型选择仍然是一个关键的未解决的问题。现有的半监督模型搜索最优参数值的方法通常计算量很大，尤其是那些使用网格搜索的方法。为了解决这个具有挑战性的问题，在本文中，我们首先提出了 S3VM（SPS3VM）的解决路径，它可以跟踪非凸 S3VM 关于超参数的解。具体而言，我们应用增量和减量学习方法来更新解并使其满足 Karush–Kuhn–Tucker（KKT）条件。基于 SPS3VM 和模型函数的分段线性，我们可以通过计算 S3VM 的误差路径来找到对整个候选超参数范围具有最小交叉验证 (CV) 误差的模型。我们的 SPS3VM 是半监督学习模型非凸优化问题的第一个解路径算法。我们还提供了 SPS3VM 的有限收敛分析和计算复杂度。在各种基准数据集上的实验结果不仅验证了我们的 SPS3VM 可以全局搜索超参数（正则化和斜坡损失参数），而且与网格搜索方法相比，在保持相似或略好的泛化性能的同时，计算时间大幅减少。]]></description>
+      <description><![CDATA[]]></description>
       <guid>http://ieeexplore.ieee.org/document/10431549</guid>
       <pubDate>Fri, 09 Feb 2024 13:16:31 GMT</pubDate>
     </item>
     <item>
-      <title>CDNA-SNN：一种利用神经元组装进行模式分类的新型脉冲神经网络</title>
+      <title></title>
       <link>http://ieeexplore.ieee.org/document/10428047</link>
-      <description><![CDATA[脉冲神经网络 (SNN) 比其前身更接近其生物对应物，被认为是第三代人工神经网络。事实证明，脉冲神经元网络比 S 形神经网络具有更高的计算能力和更低的功率要求。本文介绍了一种新型 SNN，它从人类大脑的神经元组合中汲取灵感并融入了其中的概念。所提出的网络称为基于类别依赖的神经元激活的 SNN (CDNA-SNN)，它为每个神经元分配可学习值（称为 CDNA），这些值表示神经元响应来自不同类别的样本时的平均相对脉冲活动。本文还介绍了一种新的学习算法，该算法根据神经元的 CDNA 将神经元分类为不同的类别组合。这些神经元组合通过一种基于脉冲时间依赖可塑性 (STDP) 的新型训练方法进行训练，使其相关类别具有高活动性，而其他类别具有低发放率。此外，还提出了一种使用 CDNA 的新型 STDP，它基于突触前和突触后神经元的组装来控制可塑性的数量。使用嵌套交叉验证 (N-CV) 进行超参数优化，在加州大学欧文分校 (UCI) 机器学习库以及修改后的国家标准与技术研究所 (MNIST) 和 Fashion MNIST 的五个数据集上评估了 CDNA-SNN 的性能。我们的结果表明，CDNA-SNN 在 3/5 UCI 数据集上明显优于突触权重关联训练 (SWAT) ( $p &lt; 0.0005$ ) 和 SpikeProp ( $p &lt; 0.05$ )，在 2/5 UCI 数据集上优于自调节进化脉冲神经 (SRESN) ( $p &lt; 0.05$ )，同时使用明显较少的可训练参数。此外，与其他监督的全连接 SNN 相比，所提出的 SNN 在 Fashion MNIST 中达到了最佳性能，在 MNIST 和神经形态 MNIST（N-MNIST）中达到了相当的性能，同时利用了更少（1%–35%）的参数。]]></description>
+      <description><![CDATA[]]></description>
       <guid>http://ieeexplore.ieee.org/document/10428047</guid>
       <pubDate>Thu, 08 Feb 2024 13:18:11 GMT</pubDate>
     </item>
     <item>
-      <title>利用中谱分组卷积增强卷积神经网络</title>
+      <title></title>
       <link>http://ieeexplore.ieee.org/document/10428086</link>
-      <description><![CDATA[本文针对具有分组卷积机制的高效深度卷积神经网络 (DCNN)，提出了一种名为中谱分组卷积 (MSGC) 的新模块。它探索了通道修剪和传统分组卷积之间的广阔“中谱”区域。与通道修剪相比，由于采用了组机制，MSGC 可以保留输入特征图中的大部分信息；与分组卷积相比，MSGC 受益于通道修剪的核心可学习性，可以构建其组拓扑，从而实现更好的通道划分。中谱区域沿四个维度展开：分组、分层、样本和注意力，从而可以揭示更强大且可解释的结构。因此，所提出的模块可以充当助推器，降低主机主干的计算成本，以实现一般图像识别，甚至提高预测准确率。例如，在 ImageNet 数据集上进行图像分类实验时，MSGC 可以将 ResNet-18 和 ResNet-50 的乘法累加 (MAC) 减少一半，但仍可将 Top-1 准确率提高 1% 以上。在 MAC 减少 35% 的情况下，MSGC 还可以提高 MobileNetV2 主干的 Top-1 准确率。在 MS COCO 数据集上进行对象检测的结果也显示出类似的观察结果。我们的代码和经过训练的模型可在 https://github.com/hellozhuo/msgc 上找到。]]></description>
+      <description><![CDATA[]]></description>
       <guid>http://ieeexplore.ieee.org/document/10428086</guid>
       <pubDate>Thu, 08 Feb 2024 13:18:11 GMT</pubDate>
     </item>
     <item>
-      <title>不使用任何对抗样本的稳健小样本学习</title>
+      <title>强大的几次学习，无需使用任何对抗样本</title>
       <link>http://ieeexplore.ieee.org/document/10428072</link>
-      <description><![CDATA[获取和注释样本的高成本使得“小样本”学习问题变得至关重要。现有的研究主要侧重于提高干净数据上的性能，而忽略了对抗性噪声干扰数据的稳健性问题。最近，人们做出了一些努力，利用复杂的元学习技术将小样本问题与稳健性目标结合起来。这些方法依赖于在每次训练中生成对抗性样本，这进一步增加了计算负担。为了避免这种耗时且复杂的过程，我们提出了一种简单但有效的替代方法，它不需要任何对抗性样本。受人类认知决策过程的启发，我们在预训练阶段通过自我蒸馏在基类数据和它们相应的低频样本之间强制进行高级特征匹配。然后，对模型进行新类别的样本微调，我们还通过余弦相似度提高了低频查询集特征的可辨别性。在 CIFAR-FS 数据集的一次性设置中，我们的方法在投影梯度下降 (PGD) 和最先进的自动攻击中分别将对抗准确率提高了 60.55% 和 62.05%，而与基线相比，清洁准确率略有下降。此外，我们的方法仅需标准训练时间的 $1.69\times $，而速度却比最先进的对抗元学习方法快 $\approx 5\times $。代码可在 https://github.com/vcl-iisc/robust-few-shot-learning 上找到。]]></description>
+      <description><![CDATA[]]></description>
       <guid>http://ieeexplore.ieee.org/document/10428072</guid>
       <pubDate>Thu, 08 Feb 2024 13:17:59 GMT</pubDate>
     </item>
     <item>
-      <title>推动脉冲神经网络向深度残差学习发展</title>
+      <title></title>
       <link>http://ieeexplore.ieee.org/document/10428029</link>
-      <description><![CDATA[尽管神经形态计算进展迅速，但脉冲神经网络 (SNN) 的容量不足和表示能力不足严重限制了其在实践中的应用范围。残差学习和捷径已被证明是训练深度神经网络的重要方法，但之前的研究很少评估它们对 SNN 细节的适用性。在本文中，我们首先发现这种疏忽会导致信息流受阻以及在普通 ResNet 的脉冲版本中伴随的退化问题。为了解决这个问题，我们提出了一种新的面向 SNN 的残差架构 MS-ResNet，它建立了基于膜的捷径，并进一步证明了通过引入块动态等距理论可以在 MS-ResNet 中实现梯度范数相等，从而确保网络能够以深度不敏感的方式表现良好。因此，我们能够显著扩展直接训练的 SNN 的深度，例如，在 CIFAR-10 上最多可达 482 层，在 ImageNet 上最多可达 104 层，而不会观察到任何轻微的退化问题。为了验证 MS-ResNet 的有效性，我们在基于帧和神经形态的数据集上进行了实验。MS-ResNet104 在 ImageNet 上取得了 76.02% 准确率的优异结果，据我们所知，这是直接训练的 SNN 领域中最高的。还观察到了很高的能源效率，平均每个神经元只需要一个脉冲就可以对输入样本进行分类。我们相信，我们强大且可扩展的模型将为进一步探索 SNN 提供强有力的支持。]]></description>
+      <description><![CDATA[]]></description>
       <guid>http://ieeexplore.ieee.org/document/10428029</guid>
       <pubDate>Thu, 08 Feb 2024 13:17:59 GMT</pubDate>
     </item>
