@@ -13,10 +13,24 @@
       <pubDate>Thu, 06 Feb 2025 13:17:56 GMT</pubDate>
     </item>
     <item>
+      <title>IEEE计算情报社会信息</title>
+      <link>http://ieeexplore.ieee.org/document/10877693</link>
+      <description><![CDATA[无效的]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10877693</guid>
+      <pubDate>Thu, 06 Feb 2025 13:17:56 GMT</pubDate>
+    </item>
+    <item>
       <title>目录</title>
       <link>http://ieeexplore.ieee.org/document/10877695</link>
       <description><![CDATA[无效的]]></description>
       <guid>http://ieeexplore.ieee.org/document/10877695</guid>
+      <pubDate>Thu, 06 Feb 2025 13:17:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于作者的神经网络和学习系统信息的IEEE交易</title>
+      <link>http://ieeexplore.ieee.org/document/10877696</link>
+      <description><![CDATA[无效的]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10877696</guid>
       <pubDate>Thu, 06 Feb 2025 13:17:55 GMT</pubDate>
     </item>
     <item>
@@ -55,11 +69,25 @@
       <pubDate>Thu, 15 Feb 2024 13:17:38 GMT</pubDate>
     </item>
     <item>
+      <title>与混合延迟冲动的耦合神经网络同步：平均冲动延迟方法</title>
+      <link>http://ieeexplore.ieee.org/document/10436660</link>
+      <description><![CDATA[在本文中，我们提出了一个新概念，称为平均冲动延迟增益（AIDG），用于研究耦合神经网络（CNN）的同步。基于冲动控制和冲动扰动的观点，我们建立了一些全球指数同步标准。我们的方法非常适合解决由混合延迟冲动以及随时间变化的冲动延迟和增益的系统的同步问题。此外，我们证明AIDG对同步具有正面和负面影响。与现有的研究相比，我们的结论更适用，不太保守，因为所考虑的混合延迟的冲动涉及更灵活的病例。最后，我们通过将其应用于小世界和无规模的网络模型来验证我们提出的结果的有效性。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10436660</guid>
+      <pubDate>Thu, 15 Feb 2024 13:17:35 GMT</pubDate>
+    </item>
+    <item>
       <title>大规模多基因系统的分布式自适应植入控制</title>
       <link>http://ieeexplore.ieee.org/document/10433705</link>
       <description><![CDATA[本文介绍了一种在不确定环境中运行的大规模多构型系统（LS-MAS）的新型分布式植入控制方法。当在不确定的环境中处理大量的羊群时，现有的羊群方法遇到了通信复杂性和由代理相互作用的指数增长引起的“维度诅咒”的问题，同时求解了基于PDE的大型系统的最佳羊群控制。平均现场游戏（MFG）方法通过将所有代理之间的相互作用转换为以其他代理的概率密度函数（PDF）表示的平均效果来解决此问题。但是，仅依靠PDF术语来考虑其他药物的状态，可能会导致由于缺乏涵盖所有参与羊群的药物的熟练协调机制而导致的植入性能效率低下。为了克服这些困难并实现LS质量的所需植入性能，将代理分解为有限数量的亚组。每个子组均包括一个领导者和追随者，并开发了混合游戏理论来管理跨组间相互作用。该方法结合了一个合作游戏，该游戏将来自不同群体的领导者链接以制定分布式羊群控制，这是一个stackelberg游戏，该游戏将同一组中的领导者和追随者组合起来，以扩展集体羊群的行为，以及追随者的MFG，以应对LS-Mass的挑战。此外，为了使用混合游戏结构实现分布式的自适应植入，我们提出了一种基于分层的参与者 - 基于批评的强化学习技术。这种方法融合了针对追随者的领导者和参与者 - 批评算法的多症状 - 批评方法，从而以分布式的方式以分布式的方式为大规模代理提供自适应羊群的控制。最后，包括比较研究和Lyapunov分析在内的数值模拟证明了已开发方法的有效性。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10433705</guid>
       <pubDate>Tue, 13 Feb 2024 13:18:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>知识蒸馏引导的可解释的大脑子图神经网络用于脑部疾病探索</title>
+      <link>http://ieeexplore.ieee.org/document/10433441</link>
+      <description><![CDATA[人脑是一个高度复杂的神经系统，一直是科学家连续探索的主题。在现代神经影像技术的帮助下，在脑部疾病分析中取得了重大进展。近年来，利用人工智能技术来提高疾病诊断的效率，人们越来越兴趣。但是，这些方法仅依靠神经影像学数据来诊断障碍，并且不探索该疾病背后的致病机制或为诊断决策提供了可解释的结果。此外，医疗数据的稀缺性限制了现有方法的性能。由于图形神经网络（GNN）在分子图和药物发现中的热应用由于其强大的图形结构数据学习能力，因此GNNs是否也可以在脑部疾病分析领域中发挥巨大作用。因此，在这项工作中，我们对大脑神经成像进行创新模型，将数据纳入图形结构化数据，并提出知识蒸馏（KD）引导的大脑子图神经网络，以在患者和健康的大脑图之间提取歧视性亚图，以解释哪些大脑区域和异常功能连接导致紊乱。具体而言，我们介绍了KD技术来转移审慎的教师模型的知识，以指导大脑子图神经网络培训并减轻培训数据不足的问题。这些歧视性子图有利于学习更好的脑形图表来进行混乱预测。我们对两个功能磁共振成像数据集进行了丰富的实验。我们方法给出的可解释的实验结果与相应的医学研究一致，这鼓励了更深层的脑部疾病研究。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10433441</guid>
+      <pubDate>Tue, 13 Feb 2024 13:18:19 GMT</pubDate>
     </item>
     <item>
       <title>学习预测半监督的持续学习</title>
@@ -76,39 +104,11 @@
       <pubDate>Tue, 13 Feb 2024 13:18:14 GMT</pubDate>
     </item>
     <item>
-      <title>半监督支持向量机的全局模型选择通过解决方案路径</title>
-      <link>http://ieeexplore.ieee.org/document/10431549</link>
-      <description><![CDATA[半监督支持向量机（S3VM）很重要，因为它可以使用大量未标记的数据来提高传统SVM的概括精度。为了取得良好的性能，S3VM有必要采取一些有效的措施来选择超参数。但是，半监督模型的模型选择仍然是关键的开放问题。半监督模型搜索最佳参数值的现有方法通常是计算要求的，尤其是那些具有网格搜索的方法。为了解决这个具有挑战性的问题，在本文中，我们首先提出了S3VM（SPS3VM）的解决方案路径，该路径可以跟踪非Convex S3VM的解决方案相对于超参数。具体而言，我们采用增量和减少学习方法来更新解决方案，并让其满足Karush – Kuhn – Tucker（KKT）条件。基于SPS3VM和模型函数的分段线性性，我们可以通过计算S3VM的误差路径来找到整个候选超参数范围的最小交叉验证（CV）误差。我们的SPS3VM是半监督学习模型非convex优化问题的第一个解决方案路径算法。我们还提供了SPS3VM的有限收敛分析和计算复杂性。各种基准数据集的实验结果不仅验证了我们的SPS3VM是否可以在全球范围内搜索超参数（正则化和坡道损失参数），而且还显示出与网格搜索方法相比保持相似或稍微更好的概括性能的计算时间的大幅减少。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10431549</guid>
-      <pubDate>Fri, 09 Feb 2024 13:16:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>cDNA-SNN：使用神经元组件的新的用于模式分类的尖峰神经网络</title>
-      <link>http://ieeexplore.ieee.org/document/10428047</link>
-      <description><![CDATA[尖峰神经网络（SNN）比前任更亲密地模仿其生物学对应物，被认为是人工神经网络的第三代。已经证明，与Sigmoidal神经网络相比，尖峰神经元网络具有更高的计算能力和更低的功率要求。本文介绍了一种新型的SNN，该SNN汲取了灵感，并结合了人类大脑中神经元组件的概念。所提出的网络被称为基于类依赖性神经元激活的SNN（cDNA-SNN），分配了称为cDNA的每个神经元可学习值，该值指示神经元的平均相对峰值活性，以响应来自不同类别的样品的响应。还提出了一种新的学习算法，将神经元分为不同类组件的新学习算法。这些神经元组件是通过基于峰值依赖性可塑性（STDP）的新型训练方法对其相关类具有较高活性的新型训练方法进行训练的，而其他类别的发射率很低。同样，提出了使用cDNA，这是一种基于前和突触后神经元的组件来控制可塑性量的新型STDP。使用嵌套的交叉验证（N- CV）用于超参数优化。我们的结果表明，cDNA-SNN明显胜过突触体重协会培训（SWAT）（$ p &lt;0.0005 $）和3/5上的SpikeProp（$ P &lt;0.05 $），并且自我调节的Evolving Evolving Evolving Spiking spiking Neural（SRESN）（$ P &lt;在2/5 UCI数据集上的0.05 $）使用可训练参数的数量明显较低。此外，与其他有监督的，完全连接的SNN相比，提议的SNN达到了时尚MNIST的最佳性能和MNIST和NEUROMOROMORMORPOMIC-MNIST（N-MNIST）的可比性能，也使用较少的（1％–35％）参数。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10428047</guid>
-      <pubDate>Thu, 08 Feb 2024 13:18:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过中间光谱分组卷积的增强卷积神经网络</title>
-      <link>http://ieeexplore.ieee.org/document/10428086</link>
-      <description><![CDATA[本文提出了一个新的模块，称为中间光谱分组卷积（MSGC），用于有效的深卷积神经网络（DCNN），其机制是分组卷积的机制。它探讨了通道修剪和常规分组卷积之间的广阔“中间频谱”区域。与通道修剪相比，由于组机制，MSGC可以保留来自输入特征图的大多数信息。与分组的卷积相比，MSGC从可学习性，渠道修剪的核心中受益，用于构建其群体拓扑，从而导致更好的渠道分裂。中间频谱区域沿着四个维度展开：群，层，样品，注意和注意力，使得揭示更强大和可解释的结构成为可能。结果，提出的模块充当助推器，可以降低宿主骨干的计算成本，以便甚至提高了预测精度，以识别一般图像识别。例如，在用于图像分类的Imagenet数据集的实验中，MSGC可以减少RESNET-18和RESNET-50的多重蓄能（MAC）和RESNET-50的一半，但仍将TOP-1准确性提高了1％以上。 MASS降低了35％，MSGC还可以提高MobileNetV2骨架的前1位准确性。在MS可可数据集上进行对象检测的结果显示出相似的观察结果。我们的代码和训练有素的模型可在https://github.com/hellozhuo/msgc上找到。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10428086</guid>
-      <pubDate>Thu, 08 Feb 2024 13:18:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>强大的几次学习，无需使用任何对抗样本</title>
-      <link>http://ieeexplore.ieee.org/document/10428072</link>
-      <description><![CDATA[获取和注释样本的高昂成本使“很少”的学习问题成为了重要的重要性。现有作品主要集中于改善对清洁数据的性能，并忽略对对抗性噪声扰动的数据的鲁棒性问题。最近，已经采取了一些努力，将几个问题与使用复杂的元学习技术相结合的稳健目标。这些方法依赖于训练的每一集中的对抗样本的产生，这进一步增加了计算负担。为了避免这种耗时且复杂的程序，我们提出了一种简单但有效的替代方案，不需要任何对抗性样本。受到人类认知决策过程的启发，我们通过自我蒸馏在预段阶段中实施了基类数据及其相应的低频样本之间的高级特征。然后，在新型类别的样本上进行了微调，我们还通过余弦相似性提高了低频查询集特征的可区分性。在CIFAR-FS数据集的一次性设置中，我们的方法在预计梯度下降（PGD）和最先进的汽车攻击方面的对抗准确性分别为60.55％和62.05％的对抗精度，分别为6.55％和62.05％。与基线相比，清洁精度的略有下降。此外，我们的方法仅占标准培训时间的$ 1.69 \ times $ $，而$ \ \ \ 5 \ times $ $ \ times $均比以前的对抗性元学习方法快。该代码可在https://github.com/vcl-iisc/robust-few-shot-learning上找到。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10428072</guid>
-      <pubDate>Thu, 08 Feb 2024 13:17:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>促进尖峰神经网络朝着深度残留学习</title>
-      <link>http://ieeexplore.ieee.org/document/10428029</link>
-      <description><![CDATA[尽管神经形态计算取得了迅速的进展，但能力不足和尖峰神经网络（SNN）的能力不足，在实践中严重限制了其应用范围。残留学习和快捷方式已被证明是训练深神经网络的重要方法，但以前的工作很少评估其对SNN细节的适用性。在本文中，我们首先确定这种过失会导致刺激性的信息流和随附的降解问题，这是Vanilla Resnet的尖峰版本。为了解决这个问题，我们提出了一种新颖的面向SNN的残留体系结构，称为MS-Resnet，该架构建立了基于膜的快捷途径，并进一步证明了通过引入块动力学等轴测理论可以在MS-Resnet中实现梯度规范平等，这是在MS-Resnet中实现的，这是动态等轴测理论，该理论可以实现。确保网络可以以深度不敏感的方式进行良好的行为。因此，我们能够显着扩展直接训练的SNN的深度，例如在CIFAR-10上最多482层和ImageNet上的104层，而不会观察到任何轻微的降解问题。为了验证MS-RESNET的有效性，对基于框架和神经形态数据集进行了实验。 MS-Resnet104在Imagenet上获得了76.02％的精度，这是我们在直接训练的SNN领域中最高的知识。还观察到了高能量效率，每个神经元平均只需要一个尖峰才能对输入样本进行分类。我们认为，我们强大而可扩展的模型将为进一步探索SNN提供强大的支持。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10428029</guid>
-      <pubDate>Thu, 08 Feb 2024 13:17:59 GMT</pubDate>
+      <title>GT-HAD：高光谱异常检测的门控变压器</title>
+      <link>http://ieeexplore.ieee.org/document/10432978</link>
+      <description><![CDATA[高光谱异常检测（HAT）的目的是区分场景中的背景和异常，该场景已在各种应用中广泛采用。基于深的神经网络（DNN）的方法已成为主要解决方案，其中标准范式是基于自我监视的高光谱图像（HSI）重建的误差来辨别背景和异常。但是，当前基于DNN的方法无法保证背景，异常和重建误差之间的对应关系，从而限制了HAD的性能。在本文中，我们提出了一个新型的封闭式变压器网络（GT-HAD）。我们的主要观察结果是，HSI中的空间 - 光谱相似性可以有效地区分背景和异常，这与HAD的基本定义保持一致。因此，我们开发了GT-HAD来利用HSI重建过程中的空间 - 光谱相似性。 GT-HAD由两个不同的分支组成，分别对背景和异常的特征进行建模，内容相似性作为约束。此外，我们引入了一个自适应门控单元，以基于内容匹配方法（CMM）来调节这两个分支的激活状态。广泛的实验结果表明了GT-HAD的出色表现。原始代码可在https://github.com/jeline0110/ gt-had上公开获得，以及Etab-the-the-Art的全面基准具有方法。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10432978</guid>
+      <pubDate>Mon, 12 Feb 2024 13:20:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
