@@ -1,114 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>ScienceDirect 出版物：农业中的计算机和电子技术</title>
+    <title>ScienceDirect出版物：农业中的计算机和电子产品</title>
     <link>https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture</link>
     <description>ScienceDirect RSS</description>
-    <lastBuildDate>Fri, 14 Feb 2025 06:13:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 09:10:03 GMT</lastBuildDate>
     <item>
-      <title>玉米播种机自动分段控制系统播种延迟时间及滞后距离的研究</title>
+      <title>在完整3D上下文中对果树3D点云进行现实评估的方法</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169925001887?dgcid=rss_sd_all</link>
+      <description><![CDATA[日期出版：2025年5月Jordi Gene-Mola是]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925001887?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 14 Feb 2025 09:10:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究玉米播种机自动截面控制系统的播种延迟时间和滞后距离的研究</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169925001747?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: May 2025Source: Computers and Electronics in Agriculture, Volume 232Author(s): Lin Ling, Hanqing Li, Yuejin Xiao, Weiqiang Fu, Jianjun Dong, Liwei Li, Rui Liu, Xinguang Huang, Guangwei Wu, Zhijun Meng, Bingxin Yan]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169925001747?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 14 Feb 2025 06:13:10 GMT</pubDate>
+      <pubDate>Fri, 14 Feb 2025 09:10:03 GMT</pubDate>
     </item>
     <item>
-      <title>CustomBottleneck-VGGNet：用于可持续农业的先进番茄叶病识别</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169925001723?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 5 月来源：《农业中的计算机和电子技术》，第 232 卷作者：Mohamed Zarboubi、Abdelaziz Bellout、Samira Chabaa、Azzedine Dliou]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925001723?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 14 Feb 2025 06:13:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发物联网驱动的 Delta 机器人，利用机器视觉技术促进气雾栽培桑树枝条的生长</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169925002170?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 5 月来源：《农业中的计算机和电子技术》，第 232 卷作者：Osama Elsherbiny、Jianmin Gao、Ming Ma、Waqar Ahmed Qureshi、Abdallah H. Mosha]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925002170?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 14 Feb 2025 06:13:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于电磁感应和环境协变量的新疆南部塔里木河流域地下土壤盐分时空变化</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169925002145?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 5 月来源：《农业计算机与电子技术》，第 232 卷作者：王飞、杨伟、杨胜天]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925002145?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 14 Feb 2025 06:13:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>全三维环境下果树三维点云真实感评估方法</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169925001887?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 5 月来源：《农业中的计算机和电子技术》，第 232 卷作者：Bernat Lavaquiol-Colell、Alexandre Escolà、Ricardo Sanz-Cortiella、Jaume Arnó、Jordi-Genéard-Mola、Rose-Grego、J. Erôme Ninot、Jordi Llorens-Calveras]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925001887?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 14 Feb 2025 06:13:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于深度学习的像素级光谱重建与压缩投影在黄曲霉毒素B1检测中的应用</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169925001772?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 5 月来源：《农业计算机与电子技术》，第 232 卷作者：朱鸿飞、赵一帆、赵龙刚、杨然兵、韩忠志]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925001772?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 14 Feb 2025 06:13:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用 CMIP6-SSP 情景和 VIC 模型增强干旱地区农业和生态用水量预测和缺水评估</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169925001899?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 5 月来源：《农业计算机与电子技术》，第 232 卷作者：鲍庆玲、丁建丽、王金杰、韩丽菁、谭娇]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925001899?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 14 Feb 2025 06:13:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于视觉-触觉融合的荔枝梳切末端执行器设计与验证</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169925001838?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 5 月来源：《农业计算机与电子技术》，第 232 卷作者：姚兆申、熊俊涛、杨佳远、王晓、李泽兴、黄玉华、李亚南]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925001838?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 14 Feb 2025 06:13:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>一种基于经验方法、PSO、XGBoost 和多个 GCM 的新型混合建模方法，用于预测数据稀缺地区的长期参考蒸散量</title>
+      <title>一种基于经验方法，PSO，XGBoost和多个GCM的新型混合建模方法，用于预测数据中的长期参考蒸散量</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169925002121?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 5 月来源：《农业中的计算机和电子技术》，第 232 卷作者：Ali EL Bilali、Abdessamad Hadri、Abdeslam Taleb、Meryem Tanarhte、El Mahdi EL Khalki、Mohamed Hakim Kharrou]]></description>
+      <description><![CDATA[出版日期：2025年5月  来源：农业中的计算机和电子产品，第232卷 作者：Ali el Bilali，Abdessamad Hadri ，Abdeslam Taleb，Meryem Tanarhte，El Mahdi El Khalki，Mohamed Hakim Kharrou ]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169925002121?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 14 Feb 2025 06:13:08 GMT</pubDate>
+      <pubDate>Fri, 14 Feb 2025 09:10:02 GMT</pubDate>
     </item>
     <item>
-      <title>基于BI-RRT的辣椒花授粉机构高效运动规划</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169925001693?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025年5月来源：农业计算机与电子学，第232卷作者：倪泽龙、李庆党、张明月]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925001693?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 14 Feb 2025 06:13:07 GMT</pubDate>
+      <title>CustomBottleNeck-vggnet：可持续农业的高级番茄叶疾病鉴定</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169925001723?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025年5月 来源：农业中的计算机和电子设备，第232卷 作者：穆罕默德·扎尔博比，阿卜杜拉齐兹·贝洛特，萨米拉·查巴azzedine dliou ]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925001723?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 14 Feb 2025 09:10:02 GMT</pubDate>
     </item>
     <item>
-      <title>采运作业多机协同调度与规划方法——Ⅰ：采运机任务分配与序列优化</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169925001668?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 5 月来源：《农业计算机与电子技术》，第 232 卷作者：王宁、李顺达、肖建星、王天海、韩玉晓、王浩、张曼、李涵]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925001668?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 14 Feb 2025 06:13:07 GMT</pubDate>
+      <title>开发一个IoT驱动的三角洲机器人，以刺激使用机器视觉技术自动培养的桑树分支插条的生长</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169925002170?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025年5月  来源：农业中的计算机和电子设备，第232卷 作者（s）：Osama Elsherbiny，Jianmin Gao， Ming MA，Waqar Ahmed Qureshi，Abdallah H. Mosha ]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925002170?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 14 Feb 2025 09:10:02 GMT</pubDate>
     </item>
     <item>
-      <title>CREStereo 与 MobileViT-Pose 融合，快速测量牛体型</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169925002091?dgcid=rss_sd_all</link>
-      <description><![CDATA[Publication date: May 2025Source: Computers and Electronics in Agriculture, Volume 232Author(s): Hongxing Deng, Guangyuan Yang, Xingshi Xu, Zhixin Hua, Jiahui Liu, Huaibo Song]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925002091?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 14 Feb 2025 06:13:07 GMT</pubDate>
+      <title>基于电磁诱导和环境协变量的地下土壤盐度的时空变化</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169925002145?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025年5月  来源：农业中的计算机和电子产品，第232卷 作者：fei wang，yang wei， Shengtian Yang ]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925002145?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 14 Feb 2025 09:10:02 GMT</pubDate>
     </item>
     <item>
-      <title>通过新的基于知识的深度学习范式集成强化学习和大型语言模型，实现作物生产过程管理优化和控制</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169925001346?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 5 月来源：《农业计算机与电子技术》，第 232 卷作者：陈东、黄彦波]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925001346?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 14 Feb 2025 06:13:06 GMT</pubDate>
+      <title>像素级光谱重建和基于深度学习的压缩投影在检测黄曲霉毒素B1时</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169925001772?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025年5月  来源：农业中的计算机和电子产品，第232卷 作者：hongfei Zhu，yifan Zhao，yifan Zhao，朗冈Zhao，Yang，宗齐han ]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925001772?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 14 Feb 2025 09:10:01 GMT</pubDate>
     </item>
     <item>
-      <title>结合深度分割和基于深度的聚类进行精准葡萄栽培产量评估</title>
-      <link>https://www.sciencedirect.com/science/article/pii/S0168169925001310?dgcid=rss_sd_all</link>
-      <description><![CDATA[出版日期：2025 年 5 月来源：《农业中的计算机和电子技术》，第 232 卷作者：Rosa Pia Devanna、Laura Romeo、Giulio Reina、Annalisa Milella]]></description>
-      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925001310?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 14 Feb 2025 06:13:06 GMT</pubDate>
+      <title>使用VIC模型利用CMIP6-SSP方案来增强干旱地区的农业和生态用水量预测和赤字评估</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169925001899?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025年5月  来源：农业中的计算机和电子产品，第232卷 作者：Qingling bao，jianli ding， Jinjie Wang，Lijing Han，Jiao Tan ]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925001899?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 14 Feb 2025 09:10:01 GMT</pubDate>
     </item>
     <item>
-      <title>基于IPSO-模糊PID控制器的卷心菜联合收获机割台自适应控制系统</title>
+      <title>基于视觉诱导的融合的litchi梳理和切割终端效应器的设计和验证</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169925001838?dgcid=rss_sd_all</link>
+      <description><![CDATA[ p&gt;出版日期：2025年5月 来源：农业中的计算机和电子设备，第232卷 作者： Yang，Xiao Wang，Zexing Li，Yuhua Huang，Tanan Li ]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925001838?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 14 Feb 2025 09:10:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>卷心菜的自适应控制系统基于IPSO模糊PID控制器组合收割机</title>
       <link>https://www.sciencedirect.com/science/article/pii/S0168169925001504?dgcid=rss_sd_all</link>
       <description><![CDATA[Publication date: May 2025Source: Computers and Electronics in Agriculture, Volume 232Author(s): Jinming Zheng, Xiaochan Wang, Xuekai Huang, Yinyan Shi, Xiaolei Zhang, Yanxin Wang, Dezhi Wang, Jihao Wang, Jianfei Zhang]]></description>
       <guid>https://www.sciencedirect.com/science/article/pii/S0168169925001504?dgcid=rss_sd_all</guid>
-      <pubDate>Fri, 14 Feb 2025 06:13:06 GMT</pubDate>
+      <pubDate>Fri, 14 Feb 2025 09:10:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于BI-RRT的辣椒花授粉机制的有效运动计划</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169925001693?dgcid=rss_sd_all</link>
+      <description><![CDATA[ p&gt;出版日期：2025年5月 来源：农业中的计算机和电子设备，第232卷 作者：Zelong，Zelong，Zelong，Qingdang li，Mingyue Zhang ]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925001693?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 14 Feb 2025 09:10:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于收获和运输操作的多台机器的协作调度和计划方法，部分：收割机任务分配和序列优化</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169925001668?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025年5月  来源：农业中的计算机和电子产品，第232卷 作者：Ning Wang，Shunda Li， Jianxing Xiao，Tianhai Wang，Yuxiao Han，Hao Wang，Man Zhang，Han Li ]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925001668?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 14 Feb 2025 09:10:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crestereo和移动设备的融合，以快速测量牛体型</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169925002091?dgcid=rss_sd_all</link>
+      <description><![CDATA[Publication date: May 2025Source: Computers and Electronics in Agriculture, Volume 232Author(s): Hongxing Deng, Guangyuan Yang, Xingshi Xu, Zhixin Hua, Jiahui Liu, Huaibo Song]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925002091?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 14 Feb 2025 09:10:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过新的基于知识的深度学习范式整合强化学习和大型语言模型，以进行作物生产过程管理优化和控制</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169925001346?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025年5月  来源：农业中的计算机和电子产品，第232卷 作者：dong chen，yanbo huang &lt; /p&gt;]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925001346?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 14 Feb 2025 09:09:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过结合深度分割和基于深度的聚类，精确葡萄栽培的产量估计</title>
+      <link>https://www.sciencedirect.com/science/article/pii/S0168169925001310?dgcid=rss_sd_all</link>
+      <description><![CDATA[出版日期：2025年5月  来源：农业中的计算机和电子产品，第232卷 作者：罗莎·皮亚·德瓦纳，劳拉·罗密欧，Giulio Reina，Annalisa Milella ]]></description>
+      <guid>https://www.sciencedirect.com/science/article/pii/S0168169925001310?dgcid=rss_sd_all</guid>
+      <pubDate>Fri, 14 Feb 2025 09:09:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
