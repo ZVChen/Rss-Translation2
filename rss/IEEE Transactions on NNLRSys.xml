@@ -4,48 +4,111 @@
     <title>IEEE神经网络和学习系统的交易 - 新的TOC</title>
     <link>http://ieeexplore.ieee.org</link>
     <description>TOC警报出版＃5962385</description>
-    <lastBuildDate>Thu, 06 Feb 2025 05:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 05:00:00 GMT</lastBuildDate>
     <item>
-      <title>IEEE关于神经网络和学习系统出版信息的交易</title>
-      <link>http://ieeexplore.ieee.org/document/10877694</link>
+      <title>嘉宾编辑有关深神经网络中有效功能融合的特刊</title>
+      <link>http://ieeexplore.ieee.org/document/10908493</link>
       <description><![CDATA[无效的]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10877694</guid>
-      <pubDate>Thu, 06 Feb 2025 13:17:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>IEEE计算情报社会信息</title>
-      <link>http://ieeexplore.ieee.org/document/10877693</link>
-      <description><![CDATA[无效的]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10877693</guid>
-      <pubDate>Thu, 06 Feb 2025 13:17:56 GMT</pubDate>
+      <guid>http://ieeexplore.ieee.org/document/10908493</guid>
+      <pubDate>Fri, 28 Feb 2025 13:16:41 GMT</pubDate>
     </item>
     <item>
       <title>目录</title>
-      <link>http://ieeexplore.ieee.org/document/10877695</link>
+      <link>http://ieeexplore.ieee.org/document/10908469</link>
       <description><![CDATA[无效的]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10877695</guid>
-      <pubDate>Thu, 06 Feb 2025 13:17:55 GMT</pubDate>
+      <guid>http://ieeexplore.ieee.org/document/10908469</guid>
+      <pubDate>Fri, 28 Feb 2025 13:16:40 GMT</pubDate>
     </item>
     <item>
-      <title>关于作者的神经网络和学习系统信息的IEEE交易</title>
-      <link>http://ieeexplore.ieee.org/document/10877696</link>
+      <title>IEEE关于神经网络和学习系统出版信息的交易</title>
+      <link>http://ieeexplore.ieee.org/document/10908472</link>
       <description><![CDATA[无效的]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10877696</guid>
-      <pubDate>Thu, 06 Feb 2025 13:17:55 GMT</pubDate>
+      <guid>http://ieeexplore.ieee.org/document/10908472</guid>
+      <pubDate>Fri, 28 Feb 2025 13:16:39 GMT</pubDate>
     </item>
     <item>
-      <title>来宾社论：有关机器学习的概括，鲁棒性和解释性的信息理论方法的特刊</title>
-      <link>http://ieeexplore.ieee.org/document/10877691</link>
-      <description><![CDATA[无效的]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10877691</guid>
-      <pubDate>Thu, 06 Feb 2025 13:17:54 GMT</pubDate>
+      <title>非政策预测学习：在线算法的实证研究</title>
+      <link>http://ieeexplore.ieee.org/document/10552310</link>
+      <description><![CDATA[非政策预测 - 从遵循另一个策略时生成的数据的一个策略的一个策略的价值函数 - 是加强学习中最具挑战性的问题之一。 This article makes two main contributions: 1) it empirically studies 11 off-policy prediction learning algorithms with emphasis on their sensitivity to parameters, learning speed, and asymptotic error and 2) based on the empirical results, it proposes two step-size adaptation methods called Step-size Ratchet and Soft Step-size Ratchet that help the algorithm with the lowest error from the experimental study learn faster.在过去的十年中，已经提出了许多非政策预测学习算法，但尚不清楚哪种算法比其他算法更快。在本文中，我们从经验上比较了11个非政策预测学习算法与三个小任务上的线性函数近似：碰撞任务，房间任务和高方差室任务。碰撞任务是一个类似于自动驾驶汽车（试图预测其是否会与障碍物相撞的自动驾驶汽车）的小问题。房间和高方差室的任务设计为使他们快速学习是具有挑战性的。在房间任务中，重要性抽样比的产物可以大至$ 2^{14} $。为了控制由重要性采样比的乘积引起的高方差，应将步骤尺寸设置小，从而减慢学习速度。高方差室的任务更为极端，因为该比率的产物可能会达到$ 2^{14} \ times 25 $。所考虑的算法是非政策TD（$ \ lambda $），五种梯度-TD算法，两个强调-TD算法，VTRACE和TREE备份和ABQ的变体，适用于预测设置。我们发现，该算法的性能受到重要性采样比率引起的方差的高度影响。树备份（$ \ lambda $），vtrace（$ \ lambda $）和abtd（$ \ zeta $）不受高方差的影响，而不是其他算法，但是它们以有效的自举参数限制了对高度差异不存在的任务的限制。我们观察到，强调TD（$ \ lambda $）的渐近错误往往比其他算法较低，但在某些情况下可能会更慢。基于经验结果，我们提出了两种步进尺寸的适应算法，我们将其共同称为棘轮算法，具有相同的基础思想：保持步骤尺寸的参数尽可能大，并在必要时仅在必要时将其放下，以避免避免过时。我们表明，将棘轮算法与其他流行的步进尺寸适应算法（例如Adam Optimizer）进行比较，可以有效。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10552310</guid>
+      <pubDate>Mon, 10 Jun 2024 13:15:53 GMT</pubDate>
     </item>
     <item>
-      <title>evae：进化变异自动编码器</title>
-      <link>http://ieeexplore.ieee.org/document/10483024</link>
-      <description><![CDATA[跨自动编码器（VAE）受到代表性推理和由替代损失引起的任务拟合之间的不平衡挑战。为了解决此问题，现有方法通过直接调整其系数来调整其平衡。但是，这些方法遭受了折衷的不确定性，即对学习任务的迭代和不灵活的超参数的非动力调节。因此，我们首次尝试引入进化VAE（EVAE），这是基于变异信息瓶颈（VIB）理论和综合进化神经学习的基础。 EVAE将变异遗传算法（VGA）整合到具有变化进化算子的VAE中，包括变异突变（V-mont），跨界和进化。它的培训机制协同和动态地解决并更新了证据下限（ELBO）中的学习权衡不确定性，而没有其他约束和高参数调整。此外，EVAE提出了一个进化范式来调节VAE的关键因素，并解决了将进化优化整合到深度学习中的过早收敛性和随机搜索问题。实验表明，EVAE解决了具有低重建损失的文本生成的KL范围问题，从而生成了所有具有清晰图像的分离因素，并提高了图像生成质量。与竞争对手相比，EVAE实现更好的分离，发电性能和发电的平衡。代码可在以下网址提供：https：//github.com/amasawa/evae。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10483024</guid>
-      <pubDate>Thu, 28 Mar 2024 13:17:21 GMT</pubDate>
+      <title>热gan：希尔伯特的最佳传输生成对抗网络</title>
+      <link>http://ieeexplore.ieee.org/document/10547451</link>
+      <description><![CDATA[生成对抗网络（GAN）通过学习目标数据的基本分布来生成高质量的合成数据，取得了巨大的成功。最近的努力致力于利用最佳运输（OT）来解决GAN中消失的梯度消失和不稳定问题。他们使用Wasserstein距离作为度量，以测量发电机分布与真实数据分布之间的差异。但是，大多数最佳的运输剂量定义了欧几里得空间中的损失功能，这限制了它们在处理高阶统计数据中引起的高阶统计数据的能力。在本文中，我们提出了一个计算框架，以从理论和实际角度来减轻此问题。特别是，我们将基于最佳运输的gan从欧几里得空间概括为繁殖的内核希尔伯特空间（RKHS），并提出Hilbert Optimal Optimal Transport Gan（Hot-GAN）。首先，我们使用Hilbert嵌入的热力器设计，使歧视者可以在RKHS中处理更有信息和高阶的统计数据。其次，我们证明，Hot-Gan在RKHS中具有封闭形式的内核重新印象，可以在GAN框架下实现可拖动的目标。第三，Hot-Gan的目标享有相对于发电机参数的理论保证，这对于通过对抗内核学习学习强大的发电机是有益的。进行了广泛的实验，表明我们提出的热处始终优于代表性的GAN作品。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10547451</guid>
+      <pubDate>Tue, 04 Jun 2024 13:17:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>平滑引导的隐式数据增强域概括</title>
+      <link>http://ieeexplore.ieee.org/document/10516471</link>
+      <description><![CDATA[域概括（DG）模型的训练过程涉及利用一个或多个相互关联的源域来在看不见的目标域上获得最佳性能。现有的DG方法通常使用辅助网络或需要高计算成本来通过合并各种源域来提高模型的概括能力。相比之下，这项工作提出了一种称为“平滑隐式数据增强”（SGIDA）的方法，该方法在特征空间中运行以捕获源域的多样性。为了扩大模型的概括能力，范围距离度量（DML）损失函数已纳入。此外，建议的方法不是依赖于深度特征，而是采用了跨熵（CE）损失产生的逻辑，并具有无限的增强。理论分析表明，逻辑可以有效地估算原始特征定义的距离，并且对拟议的方法进行了彻底的分析，以更好地理解为什么逻辑对DG有益。此外，为了增加源域的多样性，引入了一种基于抽样的方法，称为“平滑”，以从类间关系中获取语义方向。通过广泛使用的DG，对象检测和遥感数据集进行了广泛的实验，证明了所提出的方法的有效性，在该实验中，它比各种骨干网络的现有最新方法都取得了重大改进。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10516471</guid>
+      <pubDate>Wed, 01 May 2024 13:15:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>高阶张量完成</title>
+      <link>http://ieeexplore.ieee.org/document/10507804</link>
+      <description><![CDATA[最近提出的张量管排名已被目睹，可以在现实世界张量数据完成中获得非凡的成功。但是，现有作品通常沿第三模式固定转换方向，并且可能无法将多维低英尺级结构变成考虑。为了减轻这些瓶颈，我们为张量完成（TC）问题引入了两个展开的诱导张量核标准（TNNS），它们自然地将张量管级延伸到高阶数据。具体而言，我们展示了如何通过利用一种新型平衡展开策略来捕获多维低管级结构，其中两个TNN（即重叠的TNN（OTNN）和潜在TNN（LTNN））在其上被开发出来。我们还展示了展开张量的输管等级与现有张量网络（TN）等级之间的直接关系，例如Candecomp/Parafac（CP）等级，Tucker Rank和Tensor Ring Ring（TR）等级，以证明其效率和实用性。然后，通过分析统一的非反应上限，并通过理论保证提出了两个有效的TC模型。为了解决优化问题，我们开发了两个基于乘数（ADMM）算法的交替方向方法。已经证明，根据涉及合成和现实世界张量的实验发现（包括面部图像，光场图像和视频序列），这些模型已证明可以表现出卓越的性能。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10507804</guid>
+      <pubDate>Wed, 24 Apr 2024 13:15:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>高阶邻居意识到表示知识图完成的表示形式</title>
+      <link>http://ieeexplore.ieee.org/document/10506111</link>
+      <description><![CDATA[作为知识获取的构件，知识图完成（KGC）旨在自动推断知识图（kgs）中缺失的事实。先前的研究主要集中于基于图形卷积网络（GCN）基于KG嵌入（KGE），以确定实体和关系的表示，因此可以预测缺失的三胞胎。但是，大多数现有的KGE方法都遭受了预测远距离甚至无法到达的尾巴实体的局限性。该限制可以归因于相关的高阶信息在很大程度上被忽略。在这项工作中，我们专注于从公里的相关高级邻居中学习信息，以提高预测的绩效。具体而言，我们首先引入了一组名为Pedalnodes的新节点，以增强KGS，以促进相关高阶实体之间传递的消息，从而有效地将高阶邻居的信息注入实体表示。此外，我们提出了强度引导的图形神经网络来汇总相邻的实体表示。为了解决通过踏板节点传输无关的高阶信息的问题，这可能会损害实体表示，我们进一步建议将每个节点的汇总表示形式与相应的自我表示。已经在三个基准数据集上进行了广泛的实验，结果证明了与强基线模型相比，我们方法的优越性。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10506111</guid>
+      <pubDate>Mon, 22 Apr 2024 13:16:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>在离散时间框架下解决不同时变矩阵不平等的新的RNN算法</title>
+      <link>http://ieeexplore.ieee.org/document/10499904</link>
+      <description><![CDATA[一系列离散的时变矩阵不平等现象通常被视为科学和工程领域中具有挑战性的问题之一。作为一个离散的时间变化问题，现有的解决方案通常需要在连续时间框架下进行理论支持，并且在离散时间框架下没有独立的求解方案。解决方案的理论缺陷极大地限制了离散时间变化矩阵不平等的理论研究和实际应用。 In this article, new discrete-time recurrent neural network (RNN) algorithms are proposed, analyzed, and investigated for solving different time-variant matrix inequalities under the discrete-time framework, including discrete time-variant matrix vector inequality (discrete time-variant MVI), discrete time-variant generalized matrix inequality (discrete time-variant GMI), discrete时间变化的广义 - 染色器矩阵不平等（离散的时间变化GSMI）和离散的时间变化复杂的 - 硅化剂矩阵不平等（离散时间变化的CSMI），并且所有求解过程均基于直接离散思想。具体而言，首先，将四个离散的时间变化矩阵不等式提出为这些研究的目标问题。其次，为了解决此类问题，我们提出了相应的离散时间复发神经网络（RNN）（DT-RNN）算法（称为DT-RNN-MVI算法，DT-RNN-GMI算法，DT-RNN-GMI算法，DT-RNNNNNNNNNNNN-GSMI algorithm，trankition DT-RNN-CSMI AlgorithNNNG-RINDER INDAT INDINDING ALGRITH-RENT-RENT是不同的。二阶泰勒扩展用于得出DT-RNN算法。这个创作过程避免了连续时间框架的干预。然后，提出了理论分析，其中显示了DT-RNN算法的收敛性和精度。进一步进行了丰富的数值实验，进一步证实了DT-RNN算法的出色特性。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10499904</guid>
+      <pubDate>Tue, 16 Apr 2024 13:16:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>在FlexRay协议下的多级非线性复杂网络的设定成员状态估计：基于神经网络的方法</title>
+      <link>http://ieeexplore.ieee.org/document/10496208</link>
+      <description><![CDATA[在本文中，研究了FlexRay协议（FRPS）的一类非线性复杂网络的设定成员估计问题。为了满足实际的工程要求，考虑了多条采样，该采样允许系统状态的不同采样期和测量。另一方面，将FRP部署在从传感器到估计器的通信网络中，以减轻通信负担。本文研究的潜在非线性具有一般性质，并且采用基于神经网络的方法来处理非线性。通过利用凸优化技术，建立了足够的条件，以限制某些椭圆形约束中的估计误差。然后，通过解决几个优化问题来得出神经网络的估计值的收益和调整标量。最后，进行了实践模拟，以验证开发的设定成员估计方案的有效性。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10496208</guid>
+      <pubDate>Wed, 10 Apr 2024 13:18:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>TCJA-SNN：峰值神经网络的时间通道关注</title>
+      <link>http://ieeexplore.ieee.org/document/10496285</link>
+      <description><![CDATA[尖峰神经网络（SNN）由于其生物学合理性，能源效率和强大的时空信息表示能力而引起了广泛的兴趣。考虑到注意机制在增强神经网络性能中的关键作用，SNN和注意机制的整合具有巨大的潜力，可以提供节能和高性能计算范式。在本文中，我们提出了一种新型的SNN的时间通道联合注意机制，称为TCJA-SNN。提出的TCJA-SNN框架可以有效地评估来自空间和时间维度的峰值序列的重要性。更具体地说，我们的基本技术贡献在于：1）我们采用挤压操作将尖峰流压缩为平均矩阵。然后，我们利用基于有效的1D旋转的两种局部注意机制来促进在时间和通道水平上独立的全面特征提取，以及2）我们引入了跨跨跨趋化融合（CCF）层，作为一种新颖的方法，以模拟时间依赖性的时间依赖性和通道范围之间的相互依赖方法。该层有效地打破了这两个维度的独立性，并实现了特征之间的相互作用。实验结果表明，所提出的TCJA-SNN在所有标准静态和神经形态数据集上胜过最先进的（SOTA），包括时尚摄氏，CIFAR10，CIFAR10，CIFAR100，CIFAR10-DVS，N-CALTECH 101，N-CALTECH 101和DVS128效率。此外，我们通过利用变体自动编码器有效地将TCJA-SNN框架应用于图像生成任务。据我们所知，这项研究是使用SNN注意机制进行高级分类和低水平生成任务的第一次实例。我们的实施代码可在https://github.com/ridgerchu/tcja上找到。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10496285</guid>
+      <pubDate>Wed, 10 Apr 2024 13:18:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>挖掘语义相关性和互动语义分割的校正错误之间的语义相关性</title>
+      <link>http://ieeexplore.ieee.org/document/10496251</link>
+      <description><![CDATA[交互式语义细分以少量用户点击为代价追求高质量的细分结果。它在标记语义像素级数据方面的便利性方面吸引了越来越多的研究关注。现有的交互式分割方法通常通过挖掘用户点击的潜在信息或探索有效的互动方式来提高较高的交互效率。但是，这些作品忽略了明确利用用户校正和模型错误预测之间的语义相关性，从而遭受了两个缺陷。首先，实际使用中经常发生类似的预测错误，导致用户反复纠正它们。其次，不同语义类别的相互作用难度在图像上各不相同，但是现有模型使用单调参数来用于所有缺乏语义相关性的图像。因此，在本文中，我们通过针对上述问题提出一种简单但有效的在线学习解决方案，探讨了校正和错误预测中存在的语义相关性，称为校正 - 预言相关性挖掘（CM2）。具体而言，我们利用校正 - 预告相似性来设计混淆存储模块（CMM）以进行自动校正时，当类似的预测误差重新出现时。此外，我们通过计算校正 - 中学对并设计挑战自适应卷积层（CACL）来测量语义相互作用的难度，该挑战可以根据相互作用的困难自适应地切换不同的参数，以更好地分段具有挑战性的类别。除了在线学习过程外，我们的方法不需要额外的培训，并且可以有效提高互动效率。我们提出的CM2在三个公共语义分割基准测试基准上实现了最先进的结果。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10496251</guid>
+      <pubDate>Wed, 10 Apr 2024 13:18:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过汇总进化层次分类器来解决多类不平衡问题</title>
+      <link>http://ieeexplore.ieee.org/document/10494314</link>
+      <description><![CDATA[现实世界中的数据集通常是不平衡的，对假设平衡类分布的规范机器学习算法构成了频繁的挑战。此外，当数据集是多类时，不平衡问题变得更加复杂。尽管已经提出了许多用于学习不平衡学习（IL）的方法，但对多类不平衡问题的研究相对有限且缺乏。为了减轻这些问题，我们提出了多类IL（MCIL）的进化层分类森林（FEHC）方法。 FEHC可以看作是具有森林结构的分类器融合框架，它汇总了几个进化的层次多分类器（EHMC），以减少概括误差。具体而言，多颗粒遗传算法（MCGA）旨在在生成这些EHMC时同时选择（子）最佳特征，分类器和层次结构。 MCGA采用动态的加权模块来学习困难的课程并促进FEHC的多样性。我们还提出了解决类不平衡和“软树遍历”（STT）策略的“分层式扣子”（子）策略，以使FEHC融合更快，更好。我们使用具有各种属性的14个多类不平衡数据集对提出的算法进行彻底评估。与流行和最先进的方法相比，FEHC在不同的评估指标下获得了更好的性能。代码已在GitHub上公开可用。1]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10494314</guid>
+      <pubDate>Mon, 08 Apr 2024 13:17:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>动态神经网络结构：对其理论和应用的评论</title>
+      <link>http://ieeexplore.ieee.org/document/10492471</link>
+      <description><![CDATA[与静态对应物相比，动态神经网络（DNN）具有许多优势，例如提高准确性，效率和解释性。这些好处源于网络的灵活结构和参数，使其在各个领域都具有很高的吸引力和适用。随着广泛的学习系统（BLS）的不断发展，DNN超出了深度学习（DL）的扩展，使更全面的领域范围取向。因此，这篇全面的评论文章着重于DNN结构迅速发展的两个重要领域：1）DL和2）广泛的学习。本文对与动态结构和推理有关的技术进行了深入的探索。此外，它讨论了DNN在不同领域的应用，同时还解决了开放问题并突出有希望的研究方向。通过对DNN提供全面的了解，本文为研究人员提供了宝贵的资源，可以指导他们进行未来的调查。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10492471</guid>
+      <pubDate>Thu, 04 Apr 2024 13:19:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>大小支持矢量分类的封闭形式的高斯差异估计</title>
+      <link>http://ieeexplore.ieee.org/document/10492459</link>
+      <description><![CDATA[带有高斯内核的支持向量机（SVM）经常在分类问题中实现最先进的性能，但需要调整内核扩展。扩展调整的大多数优化方法都需要训练，缓慢且不适合大规模数据集。我们制定了一个分析表达式，以直接从数据中计算而无需迭代搜索，扩展最小化了高斯和理想核矩阵之间的差异。提议的直接伽马调谐（DGT）等于比30个小数据集上的最新方法的性能快于一到两个数量级。结合随机抽样训练模式，它还在大型分类问题上运行。我们的方法在20个大于3100万个模式的大型数据集的实验中非常有效，它的速度更快，并且性能明显优于线性SVM，并且它也比迭代最小化更快。从此链接接受纸质接受：https：//persoal.citius.usc.es/manuel.fernandez.delgado/papers/dgt/dgt/index.html和Codeocean和Codeocean：https：//codeocean.com/copapean.com/capsule.com/capsule/4271163/tree/v1。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10492459</guid>
+      <pubDate>Thu, 04 Apr 2024 13:19:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
