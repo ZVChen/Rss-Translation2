@@ -4,111 +4,111 @@
     <title>Sage Publications Ltd STM：国际机器人研究杂志：目录表</title>
     <link>https://journals.sagepub.com/loi/ijra?ai=2b4&mi=ehikzz&af=R</link>
     <description>国际机器人研究杂志的目录。来自最新和印刷问题的文章清单。</description>
-    <lastBuildDate>Mon, 10 Mar 2025 09:10:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 15:12:10 GMT</lastBuildDate>
     <item>
-      <title>在部分可观察性下，异步多代理深钢筋学习</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/02783649241306124?ai=2b4&mi=ehikzz&af=R</link>
-      <description><![CDATA[《国际机器人研究杂志》，在印刷前。 最先进的多代理增强学习（MARL）方法为各种复杂问题提供了有希望的解决方案。然而，这些方法都假定代理以同步的方式执行原始动作，这使得它们对于长期现实世界中的多机器人任务是不切实际的，这些多机固有地要求机器人在不同时间持续时间内对动作选择的理由异步。为了解决这个问题，我们首先提出了一组基于价值的合作MARL方法，用于使用时间扩展的宏观动作进行异步执行。在这里，代理在三个范式中使用宏观值 - 值函数进行异步学习和决策，分散学习和控制，集中学习和控制以及分散执行的集中培训（CTDE）。在上述工作的基础上，我们在三个训练范式下制定了一组基于宏观行动的策略梯度算法，在该训练范式下，代理直接以异步方式直接优化其参数化策略。我们在模拟和真实域上的真实机器人中评估了我们的方法。经验结果证明了我们的算法在学习高质量和异步解决方案中具有宏观措施的有效性，这些解决方案以前是通过基于原始行动的方法无法解决的大型多代理问题的有效性。所提出的方法代表了时间扩展的第一个通用MAL方法，并作为该地区未来方法的基础。]]></description>
-      <guid>https://journals.sagepub.com/doi/abs/10.1177/02783649241306124?ai=2b4&mi=ehikzz&af=R</guid>
-      <pubDate>Mon, 10 Mar 2025 09:10:28 GMT</pubDate>
+      <title>BICAP：日常生活双臂操纵动作的新型双模式数据集</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/02783649241290836?ai=2b4&mi=ehikzz&af=R</link>
+      <description><![CDATA[《国际机器人研究杂志》，在印刷前。 对日常生物的双臂操纵对于在家庭环境中运行的机器人至关重要。从演示中学习是一种教学机器人双臂操纵技能的有前途的方法。通常需要参与者的数据集...]]></description>
+      <guid>https://journals.sagepub.com/doi/abs/10.1177/02783649241290836?ai=2b4&mi=ehikzz&af=R</guid>
+      <pubDate>Mon, 10 Mar 2025 15:12:10 GMT</pubDate>
     </item>
     <item>
-      <title>跟踪布的变形：一个新的数据集，用于缩小机器人布操作学习的SIM卡对真实差距</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/02783649251317617?ai=2b4&mi=ehikzz&af=R</link>
-      <description><![CDATA[《国际机器人研究杂志》，在印刷前。 用于可变形物体操纵（例如纺织品）的机器人学习通常是在模拟中进行的，这是由于当前的感知方法限制了理解布的变形。因此，机器人社区始终正在寻找更现实的模拟器，以尽可能减少SIM卡之间的差距，这仍然很大，尤其是在应用动态动作时。我们提出了一个布数据集，该数据集由动态动作期间的120个纺织品的120个高质量录音。使用运动捕获系统，我们记录了两种尺寸和不同速度的四种类型的织物（棉，牛仔，羊毛和聚酯）在布表面上的位置。所考虑的方案都是动态的，涉及纺织品的快速摇动和扭曲，与摩擦对象的碰撞，具有长而薄的刚性对象甚至自我收集的强烈命中。我们详细说明了所考虑的方案，收集的数据以及如何读取和使用它。此外，我们建议使用数据集作为基准测量标准，以量化任何布模拟器的SIM卡间隙。最后，我们表明，记录的轨迹可以通过机器人臂直接执行，从而通过演示和其他模仿学习技术实现学习。Dataset：https：//doi.org/10.5281/zenodo.146444526video：]]></description>
-      <guid>https://journals.sagepub.com/doi/abs/10.1177/02783649251317617?ai=2b4&mi=ehikzz&af=R</guid>
-      <pubDate>Mon, 10 Mar 2025 09:10:26 GMT</pubDate>
+      <title>固定机翼飞机的基于视觉的自动着陆系统的估计方法</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/02783649241287229?ai=2b4&mi=ehikzz&af=R</link>
+      <description><![CDATA[《国际机器人研究杂志》，在印刷前。 在本文中，我们提出了一种基于视觉的估计方法，用于固定翼飞机自动着陆以进行先进的空气流动性。人类干预最少的自主飞行的概念已引起了人们的重大兴趣，特别是...]]></description>
+      <guid>https://journals.sagepub.com/doi/abs/10.1177/02783649241287229?ai=2b4&mi=ehikzz&af=R</guid>
+      <pubDate>Mon, 10 Mar 2025 15:12:08 GMT</pubDate>
     </item>
     <item>
-      <title>FurnitureBench：可重现的长距离复杂操纵的现实世界基准</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/02783649241304789?ai=2b4&mi=ehikzz&af=R</link>
-      <description><![CDATA[《国际机器人研究杂志》，在印刷前。 增强学习（RL），模仿学习（IL）以及任务和运动计划（TAMP）在各种机器人操纵任务中表现出令人印象深刻的性能。但是，这些方法仅限于学习当前现实世界中的操纵基准（例如推送或拾取位置）中的简单行为。为了使自主机器人的更复杂的长途行为更加复杂，长期行为，我们建议专注于现实世界中的家具组件，这是一项复杂的，长的，长期的机器人操纵任务，需要应对许多当前的机器人操纵挑战。我们提出了FurnitureBench，这是一种可重现的现实世界家具组装基准，旨在提供低障碍和容易再现的障碍，以便全世界的研究人员可以可靠地测试其算法并将其与先前的工作进行比较。为了易于使用，我们提供了200多个小时的预制数据（5000多个演示），3D可打印家具模型，机器人环境设置指南和系统的任务初始化。此外，我们提供FurniTuresim，这是Furniture Bench的快速逼真的模拟器。我们在我们的集会任务上基准了离线RL，IL和离线对线RL算法的性能，并证明需要改善此类算法以能够在现实世界中解决我们的任务，从而为未来的研究提供了足够的机会。]]></description>
-      <guid>https://journals.sagepub.com/doi/abs/10.1177/02783649241304789?ai=2b4&mi=ehikzz&af=R</guid>
-      <pubDate>Mon, 10 Mar 2025 09:10:24 GMT</pubDate>
+      <title>量化基于EKF的SLAM估算器的移动机器人本地化安全：完整性监视方法</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/02783649241287797?ai=2b4&mi=ehikzz&af=R</link>
+      <description><![CDATA[《国际机器人研究杂志》，在印刷前。 基于大满贯的移动机器人估计是一个具有挑战性的研究问题，尤其是对于生活或关键任务探索性应用程序。为了解决这个问题，这项工作提出了一种利用完整性风险的方法，这是一种广泛使用的...]]></description>
+      <guid>https://journals.sagepub.com/doi/abs/10.1177/02783649241287797?ai=2b4&mi=ehikzz&af=R</guid>
+      <pubDate>Mon, 10 Mar 2025 15:12:07 GMT</pubDate>
     </item>
     <item>
-      <title>基于方案的运动计划，碰撞概率有限</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/02783649251315203?ai=2b4&mi=ehikzz&af=R</link>
-      <description><![CDATA[《国际机器人研究杂志》，在印刷前。 机器人将越来越多地在人类附近运行，因为它们的复杂性质引起了运动计划问题的不确定性。基于优化的计划者通常会通过避免碰撞机会限制来避免人类。这使计划者可以优化性能，同时保证概率安全。但是，现有的实时方法并不考虑计划轨迹碰撞的实际概率，而是其边缘化，即每个计划步骤和/或动态障碍的独立碰撞概率，从而导致保守的轨迹。为了解决这个问题，我们引入了一种新型的实时方法，称为安全地平线MPC，该方法在整个运动计划的持续时间内明确限制了与所有障碍的碰撞的关节概率。这是通过使用方案优化和预测控制来重新解决偶然限制的计划问题来实现的。通过对人类运动的采样实现，我们确定了哪些情况会影响优化。这使我们能够实时认证计划的轨迹。我们的方法不如最先进的方法保守，适用于障碍轨迹的任意概率分布，即计算障碍和可扩展性。我们在与人类共享的环境中使用移动机器人和自动驾驶汽车证明了我们提出的方法。]]></description>
-      <guid>https://journals.sagepub.com/doi/abs/10.1177/02783649251315203?ai=2b4&mi=ehikzz&af=R</guid>
-      <pubDate>Mon, 10 Mar 2025 09:10:22 GMT</pubDate>
+      <title>野外：大规模自然环境中2D和3D语义分割的基准</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/02783649241278369?ai=2b4&mi=ehikzz&af=R</link>
+      <description><![CDATA[《国际机器人研究杂志》，在印刷前。 语义场景理解的最新进展主要是通过在城市环境中的语义注释双模式（相机和激光镜）数据集的可用性来实现的。但是，自然，非结构化...也需要这样的注释数据集。]]></description>
+      <guid>https://journals.sagepub.com/doi/abs/10.1177/02783649241278369?ai=2b4&mi=ehikzz&af=R</guid>
+      <pubDate>Mon, 10 Mar 2025 15:12:05 GMT</pubDate>
     </item>
     <item>
-      <title>一个灵活的框架，用于精确的激光雷达进程，地图操纵和定位</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/02783649251316881?ai=2b4&mi=ehikzz&af=R</link>
-      <description><![CDATA[《国际机器人研究杂志》，在印刷前。 基于光（激光雷达）的同时定位和映射（SLAM）是自动驾驶汽车和机器人的核心技术。这项工作对3D激光雷达大满贯和本地化的一个关键贡献是对基于视图的地图（带有时间戳记传感器读数的姿势图）的强烈辩护，作为地图的基本表示。正如将显示的那样，它们允许最大的灵活性，从而实现了针对特定任务优化的任意度量图的后代，例如，避免障碍物和实时定位。此外，这项工作引入了一个新的框架，可以在不编码的情况下定义映射管道，定义可重复使用块网络的连接，就像深度学习网络一样，通过连接标准化元素的层来设计。我们还引入了对迭代最接近点（ICP）类似优化器内线性和角速度向量的紧密耦合估计，从而在无需IMU的情况下对攻击性运动曲线产生了出色的鲁棒性。广泛的实验验证表明，该建议可以很好地比较或改善以前的最新（SOTA）LIDAR射击系统，同时还成功地映射了其他方面不同的硬序列。对于所有3D LiDAR数据集，已经使用了所提出的自适应配置，没有参数更改，并在250 km的汽车，手持式，机载，航空和四倍的Lidar DataSets（Indorors and a Indootors and oferoors and oftoors and ofere and ofere and of and of oferam pate）数据集中进行了对83个序列的经过广泛测试。通过针对2D激光射线和建筑3D NDT样地图的其他配置来证明系统的灵活性。该框架是在线开源的：https：//github.com/molaorg/mola。]]></description>
-      <guid>https://journals.sagepub.com/doi/abs/10.1177/02783649251316881?ai=2b4&mi=ehikzz&af=R</guid>
-      <pubDate>Mon, 10 Mar 2025 09:10:20 GMT</pubDate>
+      <title>低调软旋转气动执行器的新设计和分析，用于增强旋转和扭矩</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/02783649241273662?ai=2b4&mi=ehikzz&af=R</link>
+      <description><![CDATA[《国际机器人研究杂志》，在印刷前。 软执行器产生弯曲动作的人在模仿人类肌肉的特性和运动方面引起了极大的关注。但是，对软旋转致动器的研究尚未与其他软执行器保持同步。这 ...]]></description>
+      <guid>https://journals.sagepub.com/doi/abs/10.1177/02783649241273662?ai=2b4&mi=ehikzz&af=R</guid>
+      <pubDate>Mon, 10 Mar 2025 15:12:03 GMT</pubDate>
     </item>
     <item>
-      <title>移动机器人勘探策略和要求：系统地图研究</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/02783649241313471?ai=2b4&mi=ehikzz&af=R</link>
-      <description><![CDATA[《国际机器人研究杂志》，在印刷前。 使用不同类型的机器人平台在几种类型的环境中成功执行了各种自主探索任务。机器人任务，操作环境和机器人实施例表示机器人勘探中“问题空间”的尺寸。同时，文献中记录了许多探索策略，这些策略为探索问题提供了部分解决方案。他们在机器人探索中定义了“解决方案空间”。据我们所知，从问题和解决方案空间的角度来看，没有以前的工作提供了机器人勘探策略的有条理概述。在这项系统的映射研究中，我们构建了自主机器人勘探策略和应用程序要求的分类学，并根据其对现有方法进行了分类。目的是随着时间的流逝分析研究趋势，并确定可能的研究差距，开放挑战以及有希望的未来方向，以支持研究人员和从业人员概括，交流和应用机器人探索知识领域的发现。]]></description>
-      <guid>https://journals.sagepub.com/doi/abs/10.1177/02783649241313471?ai=2b4&mi=ehikzz&af=R</guid>
-      <pubDate>Mon, 10 Mar 2025 09:10:18 GMT</pubDate>
+      <title>在电流干扰下，AUV稳定的自适应控制参数的SIM到现实转移</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/02783649241272115?ai=2b4&mi=ehikzz&af=R</link>
+      <description><![CDATA[《国际机器人研究杂志》，在印刷前。 基于学习的自适应控制方法具有赋予自主剂能力的潜力，以减轻人类干预最少的过程变化的影响。但是，它们在自动水下车辆（AUV）上的应用是...]]></description>
+      <guid>https://journals.sagepub.com/doi/abs/10.1177/02783649241272115?ai=2b4&mi=ehikzz&af=R</guid>
+      <pubDate>Mon, 10 Mar 2025 15:12:01 GMT</pubDate>
     </item>
     <item>
-      <title>强大的推动：利用准静态信念动态和接触信息优化</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/02783649251318046?ai=2b4&mi=ehikzz&af=R</link>
-      <description><![CDATA[《国际机器人研究杂志》，在印刷前。 的非划理操作（例如推动）通常会受到不确定的非平滑动力学。但是，对动力学的不确定性进行建模通常会导致棘手的信念动态，从而使不确定性下的数据有效计划变得困难。本文重点是有效地生成强大的开环计划的问题。首先，我们研究对象配置的信念如何通过准静态接触动力学传播。我们利用简化的动力学来预测对象配置的方差，而无需从扰动分布中取样。在基于采样的轨迹优化算法中，差异的增益受到限制，以实现计划的鲁棒性。其次，我们提出了一种知情的轨迹采样机制，用于绘制可能与物体接触的机器人轨迹。该采样机制显示出可显着提高找到强大解决方案的机会，尤其是在需要进行突破接触的情况下。我们证明了所提出的方法能够综合双手推动轨迹，从而成功地进行了长期推动动作，而无需外部感受反馈，例如视觉或触觉反馈。我们此外，我们将提出的方法部署在模型预测的控制方案中，证明了针对未模拟扰动的额外鲁棒性。]]></description>
-      <guid>https://journals.sagepub.com/doi/abs/10.1177/02783649251318046?ai=2b4&mi=ehikzz&af=R</guid>
-      <pubDate>Mon, 10 Mar 2025 09:10:16 GMT</pubDate>
+      <title>快速而健壮的单视深度辅助惯性初始化</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/02783649241262452?ai=2b4&mi=ehikzz&af=R</link>
+      <description><![CDATA[《国际机器人研究杂志》，在印刷前。 在单眼视觉惯性导航中，希望尽可能快速，稳健地初始化系统。最先进的初始化方法通常构建线性系统，以使用图像功能找到封闭形式的解决方案...]]></description>
+      <guid>https://journals.sagepub.com/doi/abs/10.1177/02783649241262452?ai=2b4&mi=ehikzz&af=R</guid>
+      <pubDate>Mon, 10 Mar 2025 15:11:59 GMT</pubDate>
     </item>
     <item>
-      <title>基于新的基础集和切换策略的直接视觉伺服</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/02783649251318359?ai=2b4&mi=ehikzz&af=R</link>
-      <description><![CDATA[《国际机器人研究杂志》，在印刷前。 直接的视觉宣传片将整个图像的所有像素强度视为机器人控制的输入。由于图像空间的高维度，因此以低收敛域的成本达到了高收敛精度。直接视觉宣誓的最新工作将图像分解为不同的信号空间。尽管可以获得较大的收敛域，但在照明变化下，其其他性能（例如收敛率，收敛速度准确性和鲁棒性）已被降低。换句话说，融合域与其他表现之间存在不可避免的权衡。为了减轻权衡，通过构建具有空间频率属性的新基础，并在切换过程中考虑其数值关系，本文提出了一种新的有效的直接直观伺服服务方法。首先，专门为视觉伺服宣传而不是利用现有基础或转换的新基础，而原始损耗函数与转换后的分析关系首次得出。然后，考虑到不同的基础具有不同的收敛属性，有效的切换控制策略旨在在不同状态下选择适当的基础。最终，进行了一系列的模拟和实验，结果表明，所提出的伺服方法在收敛域，收敛速度，收敛速度，融合准确性，照明变化下的鲁棒性，稳健性下的稳健性，在部分的遮挡下以及一些三个二维场景方面显着优于最先进的方法。此外，提出的方法可以很好地适应不同的相机参数。]]></description>
-      <guid>https://journals.sagepub.com/doi/abs/10.1177/02783649251318359?ai=2b4&mi=ehikzz&af=R</guid>
-      <pubDate>Mon, 10 Mar 2025 09:10:15 GMT</pubDate>
+      <title>模型预测性的最佳控制三维空间中的铁流体微型机器人</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/02783649241285051?ai=2b4&mi=ehikzz&af=R</link>
+      <description><![CDATA[《国际机器人研究杂志》，在印刷前。 铁氟微型机器人已成为微创医疗程序的有前途的工具。它们的独特特性可导航复杂的液体并达到人体无法访问的区域，从而实现了靶向药物的新应用...]]></description>
+      <guid>https://journals.sagepub.com/doi/abs/10.1177/02783649241285051?ai=2b4&mi=ehikzz&af=R</guid>
+      <pubDate>Mon, 10 Mar 2025 15:11:58 GMT</pubDate>
     </item>
     <item>
-      <title>在杂乱的环境中，针对目标融合保证的四肢群的分散轨迹计划</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/02783649241312352?ai=2b4&mi=ehikzz&af=R</link>
-      <description><![CDATA[《国际机器人研究杂志》，在印刷前。 分散的多代理轨迹计划（MATP）可以提高多机器人系统的效率，这要归功于高可扩展性和较短的计算时间。但是，这可能会导致障碍物富裕环境中的僵局或生病。为了应对这一挑战，本文提出了一种分散的MATP算法，用于四型群，以确保在迷宫般的环境中融合目标。所提出的方法使用基于网格的多代理路径计划（MAPF）算法生成的航路点将代理引导到其目标。此外，我们引入了亚目标优化，以防止僵局，而代理遵循航路点。提出的算法保证，如果没有动态障碍，并且代理通过完全连接的网络连接，则代理会融合其目标。此外，即使代理商的沟通范围有限，它也可以确保无僵局。为了避免动态障碍，我们修改基于网格的MAPF，以优先考虑狭窄走廊中的动态障碍时避免碰撞。在模拟中，与大多数最新的基线基线算法相比，在静态环境中，提出的算法在静态环境中达到了100％的成功率，并且在动态环境中显示了更高的飞行时间。我们通过在迷宫般的环境中使用10个四肢和一名行人来验证拟议工作的安全性和鲁棒性。]]></description>
-      <guid>https://journals.sagepub.com/doi/abs/10.1177/02783649241312352?ai=2b4&mi=ehikzz&af=R</guid>
-      <pubDate>Mon, 10 Mar 2025 09:10:13 GMT</pubDate>
+      <title>时间 - 最佳的千古搜索：多尺度覆盖范围在最短时间内</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/02783649241273597?ai=2b4&mi=ehikzz&af=R</link>
+      <description><![CDATA[《国际机器人研究杂志》，在印刷前。 搜索和探索功能对于机器人检查危险区域，支持极端环境中的科学探险并可能挽救自然灾害中的人类生命至关重要。这些问题的规模差异需要...]]></description>
+      <guid>https://journals.sagepub.com/doi/abs/10.1177/02783649241273597?ai=2b4&mi=ehikzz&af=R</guid>
+      <pubDate>Mon, 10 Mar 2025 15:11:56 GMT</pubDate>
     </item>
     <item>
-      <title>多标准：歧义对象构成本体感受和顺序相互作用</title>
-      <link>https://journals.sagepub.com/doi/abs/10.1177/02783649251315757?ai=2b4&mi=ehikzz&af=R</link>
-      <description><![CDATA[《国际机器人研究杂志》，在印刷前。 握把物体姿势和外部接触的关节估计对于稳健和灵活的操纵至关重要。在本文中，我们介绍了多标准，这是一种利用顺序摩擦接触（例如，pokes）共同估算接触位置的状态估计算法，并使用独家前置感受和触觉反馈来估计接触位置和握把。我们的方法通过在一系列动作上使用两个互补的粒子过滤器来解决降低对象构成不确定性的问题：一个用于估计接触位置（CPFGRASP），另一个用于估计对象姿势（范围）。我们的方法解决了机器人本体感受和力量刺激测量的不确定性，这对于估计现实世界中的内物体姿势很重要。我们在模拟和现实世界的单臂和双臂机器人系统上实施和评估我们的方法。我们证明，通过将两个对象接触几次，机器人可以同时推断联系人位置并同时提出对象。]]></description>
-      <guid>https://journals.sagepub.com/doi/abs/10.1177/02783649251315757?ai=2b4&mi=ehikzz&af=R</guid>
-      <pubDate>Mon, 10 Mar 2025 09:10:11 GMT</pubDate>
+      <title>SAM-RL：通过基于可区分物理的仿真和渲染的基于感知感知模型的增强学习</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/02783649241284653?ai=2b4&mi=ehikzz&af=R</link>
+      <description><![CDATA[《国际机器人研究杂志》，在印刷前。 基于模型的增强学习被认可，其潜力比无模型的增强学习具有明显的样本效率。如何从原始感觉输入（例如...]]></description>
+      <guid>https://journals.sagepub.com/doi/abs/10.1177/02783649241284653?ai=2b4&mi=ehikzz&af=R</guid>
+      <pubDate>Mon, 10 Mar 2025 15:11:55 GMT</pubDate>
     </item>
     <item>
       <title>使用全局，局部和状态依赖性应变参数化减少了混合软韧带机器人的订购模型</title>
       <link>https://journals.sagepub.com/doi/abs/10.1177/02783649241262333?ai=2b4&mi=ehikzz&af=R</link>
-      <description><![CDATA[《国际机器人研究杂志》，第44卷，第1期，第129-154页，2025年1月。需要快速准确地分析软机器人，要求减少订单模型（ROM）。其中，基于应变的ROM的相对减少遵循应变的离散化，以捕获机器人的配置。基于Cosserat杆的几何可变应变参数化，我们开发了一个ROM，需要最少的自由度来表示机器人状态：几何变量应变（GVS）模型。该模型允许在相同的数学框架下对开放式，分支或链接软韧带混合机器人进行静态和动态分析。本文首次提出了通用混合软刚性机器人的完整GVS建模框架。基于可变应变场的马格努斯膨胀，我们开发了一种用于计算系统拉格朗日动力学的有效递归算法。为了离散软链接，我们引入了状态和时间依赖的基础，这是应变基础的最一般形式。我们将独立基础分为全球和本地基础。我们提出了具有淋巴结值作为广义坐标的“类似FEM的”局部应变碱基。最后，使用四个现实世界应用程序，我们说明了开发模型的潜力。我们认为，软机器人社区将使用本工作中提出的综合框架来分析广泛的特定机器人系统。]]></description>
+      <description><![CDATA[《国际机器人研究杂志》，第44卷，第1期，第129-154页，2025年1月。需要快速准确地分析软机器人，要求减少订单模型（ROM）。其中，基于应变的ROM的相对减少遵循应变的离散化，以捕获机器人的配置。基于...]]></description>
       <guid>https://journals.sagepub.com/doi/abs/10.1177/02783649241262333?ai=2b4&mi=ehikzz&af=R</guid>
-      <pubDate>Mon, 10 Mar 2025 09:10:09 GMT</pubDate>
+      <pubDate>Mon, 10 Mar 2025 15:11:53 GMT</pubDate>
     </item>
     <item>
       <title>暴民网络：肢体调节性不确定性扭矩学习人形生物的无传感器外部扭矩估计</title>
       <link>https://journals.sagepub.com/doi/abs/10.1177/02783649241260428?ai=2b4&mi=ehikzz&af=R</link>
-      <description><![CDATA[《国际机器人研究杂志》，第44卷，第1期，第96-128页，2025年1月。动量观察者（MOB）可以估算外部关节扭矩，而无需其他传感器，例如力 /扭矩或关节扭矩传感器。但是，由于模型不确定性，构成建模误差和关节摩擦的模型不确定性，暴民的估计性能恶化。此外，当将BOB应用于高维浮动基碱类人形生物时，估计误差很大，这阻止了估计的外部关节扭矩用于实际类人型机器人中的力控制或碰撞检测。在本文中，提出了针对人形生物的纯外部关节扭矩估计方法，称为mob-net。 MOB-NET了解模型不确定性扭矩，并校准BOB的估计信号，从而大大降低了BOB的估计误差。可以在广义坐标中估计外部关节扭矩，包括只有内部传感器的浮动式机器人的全身和虚拟接头（骨盆上的IMU和关节中的编码器）。此外，与端到端学习方法相比，暴民网络对看不见的数据显示出更强的性能，并且通过广泛的模拟，实际的机器人实验和消融研究来验证暴民网络的鲁棒性。最后，提出了各种碰撞处理方案，以显示暴民网络的多功能性：接触扳手的反馈控制，以进行运动，碰撞检测和碰撞反应。]]></description>
+      <description><![CDATA[《国际机器人研究杂志》，第44卷，第1期，第96-128页，2025年1月。动量观察者（MOB）可以估算外部关节扭矩，而无需其他传感器，例如力 /扭矩或关节扭矩传感器。然而，由于模型不确定性，该暴民的估计性能恶化，该模型不确定性涵盖了...]]></description>
       <guid>https://journals.sagepub.com/doi/abs/10.1177/02783649241260428?ai=2b4&mi=ehikzz&af=R</guid>
-      <pubDate>Mon, 10 Mar 2025 09:10:08 GMT</pubDate>
+      <pubDate>Mon, 10 Mar 2025 15:11:52 GMT</pubDate>
     </item>
     <item>
       <title>行为预先定义的自适应控制，用于异质连续机器人</title>
       <link>https://journals.sagepub.com/doi/abs/10.1177/02783649241259138?ai=2b4&mi=ehikzz&af=R</link>
-      <description><![CDATA[《国际机器人研究杂志》，第44卷，第1期，第65-95页，2025年1月。 Continuum Robots由于其灵活性和合规性，在各个领域都具有巨大的应用程序价值和广泛的前景。为了充分利用它们的优势，为其建立有效，准确和健壮的控制系统至关重要。但是，对连续机器人控制的研究仍处于起步阶段，并且在该领域仍未解决许多问题。特别是，本文着重于任务空间行为和对异质连续机器人的通用控制。首先，提出了一个控制器，以实现具有预定义任务空间行为的连续机器人的运动学运动控制和视觉陶器。预定义的行为是双重的：规定的任务空间误差和预定义的收敛时间。然后，提出的控制器与速度级运动映射估计器集成在一起，以获得无模型的控制系统，该系统适用于异质连续性机器人。此外，提出了可重新调整的性能函数，以确保在存在外部干扰的情况下提出的控制系统的有效性和鲁棒性。最后，基于异质连续机器人（包括电缆驱动的连续机器人，平行的连续性机器人，同心管机器人，柔性内窥镜和气动连续体机器人）进行大量的模拟和实验。我们的结果表明，异质连续机器人的任务空间误差符合规定的边界和预定时间的稳态，这揭示了所提出的控制方法的功效。]]></description>
+      <description><![CDATA[《国际机器人研究杂志》，第44卷，第1期，第65-95页，2025年1月。 Continuum Robots由于其灵活性和合规性，在各个领域都具有巨大的应用程序价值和广泛的前景。为了充分利用它们的优势，为其建立有效，准确和健壮的控制系统至关重要。然而， ...]]></description>
       <guid>https://journals.sagepub.com/doi/abs/10.1177/02783649241259138?ai=2b4&mi=ehikzz&af=R</guid>
-      <pubDate>Mon, 10 Mar 2025 09:10:05 GMT</pubDate>
+      <pubDate>Mon, 10 Mar 2025 15:11:51 GMT</pubDate>
     </item>
     <item>
       <title>ASIMO：以代理为中心的场景表示形式</title>
       <link>https://journals.sagepub.com/doi/abs/10.1177/02783649241257537?ai=2b4&mi=ehikzz&af=R</link>
-      <description><![CDATA[《国际机器人研究杂志》，第44卷，第1期，第22-64页，2025年1月。基于视觉的增强学习（RL）是一种控制代理的可推广方式，因为它对特定的硬件配置不可知。由于视觉观察是高度纠缠的，因此基于视觉的RL的尝试依赖于辨别单个实体并建立直观物理的场景表示形式来构成世界模型。但是，大多数现有的现有作品在场景表示学习上学习无法成功地部署来培训RL代理，因为它们通常非常不稳定，并且无法维持足够长的时间范围。我们提出了Asimo，这是一个完全无监督的场景分解，以与基于视觉的RL代理执行互动范围的任务。 Asimo将情节长度的代理 - 对象相互作用视频分解为代理，对象和背景，以预测其长期相互作用。此外，我们在图像观测值中明确模拟可能的阻塞，并稳定地跟踪单个对象。然后，我们只能从部分视觉观察中正确推断出对代理动作的响应，从而正确推导单个实体的更新位置。基于稳定的实体分解和时间预测，我们制定了一个层次结构框架来训练RL代理，该框架专注于围绕感兴趣对象的上下文。我们证明，我们可以普遍部署场景表示的表述来训练代理的不同配置，并完成涉及推动，安排和放置多个刚性对象的几个任务。]]></description>
+      <description><![CDATA[《国际机器人研究杂志》，第44卷，第1期，第22-64页，2025年1月。基于视觉的增强学习（RL）是一种控制代理的可推广方式，因为它对特定的硬件配置不可知。由于视觉观察高度纠缠，因此基于视觉的RL的尝试依赖于...]]></description>
       <guid>https://journals.sagepub.com/doi/abs/10.1177/02783649241257537?ai=2b4&mi=ehikzz&af=R</guid>
-      <pubDate>Mon, 10 Mar 2025 09:10:03 GMT</pubDate>
+      <pubDate>Mon, 10 Mar 2025 15:11:51 GMT</pubDate>
     </item>
     <item>
       <title>Yuto MMS：一个全面的大满贯数据集，用于倾斜的LIDAR和全景相机集成，用于城市移动映射</title>
       <link>https://journals.sagepub.com/doi/abs/10.1177/02783649241261079?ai=2b4&mi=ehikzz&af=R</link>
-      <description><![CDATA[《国际机器人研究杂志》，第44卷，第1期，第3-21页，2025年1月。 York University Teledyne Optech（Yuto）移动映射系统（MMS）数据集，包括四个序列，总计20.1公里，通过两次数据收集探险在2020年6月210日的210年，并在2019年6月21日进行了一次。全景相机，倾斜的激光镜头，全球定位系统（GPS）和惯性测量单元（IMU），穿越了两个战略地点：多伦多的约克大学基尔校园和加拿大沃恩市的Teledyne Optech总部。本文不仅描述了YUTO MMS数据集的全面概述，并详细介绍了诸如收集过程，传感器配置，同步，数据结构和格式之类的方面，而且还提出了良好的同时定位和映射（SLAM）系统的强大基准。通过对他们进行了介绍的数据集进行分析，这项研究为随后的研究奠定了基础基线，从而有助于大量综合的移动映射系统的进步和增强。数据集可以从：https：//ausmlab.github.io/yutomms/下载。]]></description>
+      <description><![CDATA[《国际机器人研究杂志》，第44卷，第1期，第3-21页，2025年1月。 York University Teledyne Optech（Yuto）移动映射系统（MMS）数据集，涵盖了四个序列，总计20.1公里，通过两次数据收集探险在8月12日，2020年6月2020年和2019年6月21日的数据中进行了全面组装。]]></description>
       <guid>https://journals.sagepub.com/doi/abs/10.1177/02783649241261079?ai=2b4&mi=ehikzz&af=R</guid>
-      <pubDate>Mon, 10 Mar 2025 09:10:01 GMT</pubDate>
+      <pubDate>Mon, 10 Mar 2025 15:11:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
