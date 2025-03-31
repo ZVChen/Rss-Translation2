@@ -57,7 +57,7 @@
     <item>
       <title>ContactSDF：签名距离作为灵巧操纵的多接触模型的功能</title>
       <link>http://ieeexplore.ieee.org/document/10910147</link>
-      <description><![CDATA[在这封信中，我们提出了ContactSDF，该方法使用签名的距离函数（SDF）近似多接触模型，包括碰撞检测和时间稳定例程。 ContactSDF首先使用对象的支撑平面表示碰撞检测，然后使用生成的触点双锥构建第二个SDF来建立SDF，以构建第二个SDF，以进行下一个状态的时间预测。这两个SDF为状态预测创建了一个可区分和封闭形式的多接触动态模型，从而实现了有效的模型学习和优化的接触式操作。我们执行广泛的仿真实验，以显示触点对模型学习的有效性和灵巧操作的实时控制。我们进一步评估了硬件Allegro手上的ContactSDF，以进行palm的重新定位任务。结果表明，大约需要2分钟的硬件学习，ContactSDF以30-60 Hz的频率实现高质量的灵巧操作。]]></description>
+      <description><![CDATA[在这封信中，我们提出了ContactSDF，该方法使用签名的距离函数（SDF）近似多接触模型，包括碰撞检测和时间稳定例程。 ContactSDF首先使用对象的支撑平面表示碰撞检测，然后使用生成的触点双锥构建第二个SDF来建立SDF，以构建第二个SDF，以进行下一个状态的时间预测。这两个SDF为状态预测创建了一个可区分和封闭形式的多接触动态模型，从而实现了有效的模型学习和优化的接触式操作。我们执行广泛的仿真实验，以显示触点对模型学习的有效性和灵巧操作的实时控制。我们进一步评估了硬件Allegro手上的ContactSDF，以实现palm的重新定位任务。结果表明，大约需要2分钟的硬件学习，ContactSDF以30-60 Hz的频率实现高质量的灵巧操作。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10910147</guid>
       <pubDate>Wed, 05 Mar 2025 13:18:13 GMT</pubDate>
     </item>
