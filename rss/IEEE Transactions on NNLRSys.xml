@@ -36,7 +36,7 @@
     <item>
       <title>图像字幕通过动态路径自定义</title>
       <link>http://ieeexplore.ieee.org/document/10616183</link>
-      <description><![CDATA[This article explores a novel dynamic network for vision and language (V&amp;L) tasks, where the inferring structure is customized on the fly for different inputs. Most previous state-of-the-art (SOTA) approaches are static and handcrafted networks, which not only heavily rely on expert knowledge but also ignore the semantic diversity of input samples, therefore resulting in suboptimal performance. To address these issues, we propose a novel Dynamic Transformer Network (DTNet) for image captioning, which dynamically assigns customized paths to different samples, leading to discriminative yet accurate captions. Specifically, to build a rich routing space and improve routing efficiency, we introduce five types of basic cells and group them into two separate routing spaces according to their operating domains, i.e., spatial and channel. Then, we design a Spatial-Channel Joint Router (SCJR), which endows the model with the capability of path customization based on both spatial and channel information of the input sample. To validate the effectiveness of our proposed DTNet, we conduct extensive experiments on the MS-COCO dataset and achieve new SOTA performance on both the Karpathy split and the online test server.源代码可在https://github.com/xmu-xiaoma666/dtnet上公开获得。]]></description>
+      <description><![CDATA[本文探讨了视觉和语言（V＆amp; l）任务的新型动态网络，其中推断结构是为不同输入而自定义的。大多数以前的最先进的方法（SOTA）方法是静态和手工制作的网络，它们不仅在很大程度上依赖专家知识，而且忽略了输入样本的语义多样性，因此导致了次优性能。为了解决这些问题，我们为图像字幕提出了一个新型的动态变压器网络（DTNET），该网络将自定义路径分配给不同的样本，从而导致歧视性但准确的标题。具体而言，为了构建丰富的路由空间并提高路由效率，我们根据其操作域，即空间和通道，将五种类型的基本单元引入两个单独的路由空间。然后，我们设计了一个空间通道接头路由器（SCJR），该路由器（SCJR）赋予模型基于输入样本的空间和通道信息的路径自定义能力。为了验证我们提出的DTNET的有效性，我们在MS-Coco数据集上进行了广泛的实验，并在KarPathy Split和在线测试服务器上实现了新的SOTA性能。源代码可在https://github.com/xmu-xiaoma666/dtnet上公开获得。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10616183</guid>
       <pubDate>Wed, 31 Jul 2024 13:17:38 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>通过渐进式任务上下文化的多种持续协调</title>
       <link>http://ieeexplore.ieee.org/document/10562331</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[合作的多基础增强学习（MARL）引起了极大的关注，并具有许多现实应用的潜力。以前的艺术主要集中于在单任务或多任务方案中促进不同方面（例如非组织性和信用分配）的协调能力，而忽略了以连续方式出现的任务流。这种无知使持续的协调成为未开发的领域，既不在问题制定中，也不是设计有效的算法。为了解决上述问题，本文提出了一种通过渐进任务上下文化（MACPRO）的方法，多基因的持续协调。关键点在于使用共享的特征提取层获得分解策略，但分开独立任务头，每个任务头都专门从事特定的任务类别。可以根据学习的任务上下文化逐步扩展任务头。此外，为了迎合MARL中流行的分散执行（CTDE）范式的流行集中培训，每个代理商都学会以分散的方式根据本地信息来预测和采用最相关的政策主管。我们在多个多基准基准中显示现有的持续学习方法失败，而MacPro可以实现近距离的性能。更多结果还揭示了MacPro从多个方面（例如高概括能力）中揭示的有效性。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10562331</guid>
       <pubDate>Wed, 19 Jun 2024 13:16:32 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>元调节：一个跨任务适应的一般学习框架</title>
       <link>http://ieeexplore.ieee.org/document/10549846</link>
-      <description><![CDATA[Building learning systems possessing adaptive flexibility to different tasks is critical and challenging.在本文中，我们提出了一个名为Meta调制（备忘录）的新颖而通用的元学习框架，以促进基础学习者在不同任务上的适应能力，在不同的任务中，每个任务只有少数培训数据。对于一项独立的任务，备忘录像“反馈调节系统”一样进行，该系统可以对所谓的查询数据的确定确定嵌入进行自适应调制，以最大化相应的任务目标。具体而言，我们设计了一种有效的反馈信息，确定的嵌入反馈（DEF），以数学和量化少数培训数据与基础学习者之间的不合适性，以及有希望的调整方向，以减少这种不合适的能力。 The DEFs are encoded into high-level representation and temporarily stored as task-specific modulator templates by a modulation encoder.对于即将到来的查询数据，我们开发了一种对这些调制器模板作用的注意机制，并将任务/数据级调制组合起来以生成最终数据特定的元调节器。 This meta-modulator is then used to modulate the query’s embedding for correct decision-making.我们的框架可扩展到多层学习者模型，例如多层感知器（MLP），长期短期记忆（LSTM），卷积神经网络（CNN）和变压器，以及适用于不同学习问题，例如语言建模和图像识别。在语言和视觉域中的2-D点合成数据集和各种基准测试的实验结果证明了我们框架的有效性和竞争力。]]></description>
+      <description><![CDATA[建立具有适应性灵活性不同任务的学习系统至关重要且具有挑战性。在本文中，我们提出了一个名为Meta调制（备忘录）的新颖而通用的元学习框架，以促进基础学习者在不同任务上的适应能力，在不同的任务中，每个任务只有少数培训数据。对于一项独立的任务，备忘录像“反馈调节系统”一样进行，该系统可以对所谓的查询数据的确定确定嵌入进行自适应调制，以最大化相应的任务目标。具体而言，我们设计了一种有效的反馈信息，确定的嵌入反馈（DEF），以数学和量化少数培训数据与基础学习者之间的不合适性，以及有希望的调整方向，以减少这种不合适的能力。 DEF被编码为高级表示形式，并通过调制编码暂时存储为特定于任务的调制器模板。对于即将到来的查询数据，我们开发了一种对这些调制器模板作用的注意机制，并将任务/数据级调制组合起来以生成最终数据特定的元调节器。然后，该元调节器用于调节查询的嵌入以正确决策。我们的框架可扩展到多层学习者模型，例如多层感知器（MLP），长期短期记忆（LSTM），卷积神经网络（CNN）和变压器，以及适用于不同学习问题，例如语言建模和图像识别。在语言和视觉域中的2-D点合成数据集和各种基准测试的实验结果证明了我们框架的有效性和竞争力。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10549846</guid>
       <pubDate>Wed, 05 Jun 2024 13:17:47 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>图内神经网络</title>
       <link>http://ieeexplore.ieee.org/document/10542111</link>
-      <description><![CDATA[许多现代神经体系结构核心的卷积操作员可以有效地看作是在输入矩阵和过滤器之间执行点产物。尽管这很容易适用于诸如图像之类的数据，这些数据可以表示为欧几里得空间中的常规网格，但由于其不规则的结构，将卷积操作员扩展到图表上的工作证明更具挑战性。在本文中，我们建议使用图形内核，即计算内部产品的内核函数，以将标准卷积运算符扩展到图形域。 This allows us to define an entirely structural model that does not require computing the embedding of the input graph.我们的体系结构允许插入任何类型的图内内核，并带来了在训练过程中学到的结构口罩提供一些解释性的额外好处，类似于传统卷积神经网络（CNN）中卷积掩模的情况。我们进行了一项广泛的消融研究，以研究模型超参数的影响，并表明我们的模型在标准图分类和回归数据集上实现了竞争性能。]]></description>
+      <description><![CDATA[许多现代神经体系结构核心的卷积操作员可以有效地看作是在输入矩阵和过滤器之间执行点产物。尽管这很容易适用于诸如图像之类的数据，这些数据可以表示为欧几里得空间中的常规网格，但由于其不规则的结构，将卷积操作员扩展到图表上的工作证明更具挑战性。在本文中，我们建议使用图形内核，即计算内部产品的内核函数，以将标准卷积运算符扩展到图形域。这使我们能够定义一个完全不需要计算输入图的嵌入的结构模型。我们的体系结构允许插入任何类型的图内内核，并带来了在训练过程中学到的结构口罩提供一些解释性的额外好处，类似于传统卷积神经网络（CNN）中卷积掩模的情况。我们进行了一项广泛的消融研究，以研究模型超参数的影响，并表明我们的模型在标准图分类和回归数据集上实现了竞争性能。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10542111</guid>
       <pubDate>Thu, 30 May 2024 13:16:20 GMT</pubDate>
     </item>
