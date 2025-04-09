@@ -78,7 +78,7 @@
     <item>
       <title>对具有不均匀时变延迟的多机器人系统的控制控制</title>
       <link>http://ieeexplore.ieee.org/document/10876769</link>
-      <description><![CDATA[The containment of multirobot systems (MRSs) has a wide range of applications. However, time delays in communication among robots introduce difficulties to the system to accomplish containment. In addition, the specific dynamics of robot models pose new nonlinear and nonholonomic challenges. To solve these problems, a containment control law is proposed first for double-integrator MRSs subject to nonuniform time-varying delays.与不切实际的统一延迟相反，从本文的拉普拉斯矩阵的角度来看，非均匀的时变延迟被认为更深入。 The stability is proved by the Lyapunov–Krasovskii function and linear matrix inequalities.拟议的控制定律进一步完善了多循环结构，以解决多非运动模型机器人系统，以解决非机学约束的问题。具体而言，第一个循环在有限的时间内将控件输入分解，然后将非体力学机器人模型视为线性模型，这有助于系统稳定性的证明。 The effectiveness of the aforementioned two control laws is validated through simulations and experiments.在这些控制控制法下，系统中的追随者达到了由领导者形成的凸船体，尽管限制了不均匀的时变延迟，但仍达到收敛目标。]]></description>
+      <description><![CDATA[多机器人系统（MRSS）的遏制具有广泛的应用。但是，机器人之间通信的时间延迟为系统限制了困难。此外，机器人模型的特定动力学提出了新的非线性和非独立挑战。为了解决这些问题，首先提出了针对双整合器MRS的遏制控制定律，但会受到不一致的时间变化延迟。与不切实际的统一延迟相反，从本文的拉普拉斯矩阵的角度来看，非均匀的时变延迟被认为更深入。 Lyapunov – Krasovskii函数和线性矩阵不平等证明了稳定性。拟议的控制定律进一步完善了多循环结构，以解决多非运动模型机器人系统，以解决非机学约束的问题。具体而言，第一个循环在有限的时间内将控件输入分解，然后将非体力学机器人模型视为线性模型，这有助于系统稳定性的证明。上述两个控制定律的有效性通过模拟和实验来验证。在这些控制控制法下，系统中的追随者达到了由领导者形成的凸船体，尽管限制了不均匀的时变延迟，但仍达到收敛目标。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10876769</guid>
       <pubDate>Thu, 06 Feb 2025 13:17:35 GMT</pubDate>
     </item>
