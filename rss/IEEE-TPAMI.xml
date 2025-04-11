@@ -4,111 +4,111 @@
     <title>IEEE关于模式分析和机器智能的交易 - 新的TOC</title>
     <link>http://ieeexplore.ieee.org</link>
     <description>TOC警报出版＃34</description>
-    <lastBuildDate>Thu, 06 Mar 2025 05:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Apr 2025 04:00:00 GMT</lastBuildDate>
     <item>
-      <title>DHVT：小型数据集识别的动态混合视觉变压器</title>
-      <link>http://ieeexplore.ieee.org/document/10836856</link>
-      <description><![CDATA[视觉变压器（VIT）和卷积神经网络（CNN）之间的性能差距由于缺乏归纳偏差而持续存在，尤其是在使用有限的数据集训练时。本文确定了VIT中的两个至关重要的缺点：空间相关性和不同的渠道表示。因此，由于数据不足，VIT难以掌握细粒的空间特征和稳健的通道表示。我们提出动态混合视觉变压器（DHVT）来应对这些挑战。关于空间方面，DHVT在特征嵌入阶段和特征投影模块中引入卷积，以增强空间相关性。关于通道方面，动态聚合机制和开创性的设计“头代币”有助于重新校准和协调不同的通道表示。此外，我们研究了网络元结构的选择，并采用没有常规类令牌的最佳多阶段混合结构。然后，使用一种新的维数剩余连接机制来修改该方法，以充分利用结构的潜力。该更新的变体称为DHVT2，为与视觉相关的任务提供了更高效的解决方案。 DHVT和DHVT2获得了最新的图像识别结果，有效地弥合了CNN和VIT之间的性能差距。下游实验进一步证明了它们的强大概括能力。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10836856</guid>
-      <pubDate>Fri, 10 Jan 2025 13:17:52 GMT</pubDate>
+      <title>ICCV 2021特别部分编辑介绍</title>
+      <link>http://ieeexplore.ieee.org/document/10958762</link>
+      <description><![CDATA[无效的]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10958762</guid>
+      <pubDate>Tue, 08 Apr 2025 13:17:49 GMT</pubDate>
     </item>
     <item>
-      <title>基础模型定义了远景新时代：调查和前景</title>
-      <link>http://ieeexplore.ieee.org/document/10834497</link>
-      <description><![CDATA[看到和理由的视觉系统对于理解我们的世界至关重要。人类语言可以更好地描述物体及其位置，歧义和变化之间的复杂关系，自然地由语法规则和其他方式（例如音频和深度）来控制。这些模型学会了弥合此类方式和大规模培训数据之间的差距，从而有助于在测试时间进行上下文推理，泛化和及时功能。这些模型称为基础模型。可以通过提供人提供的提示来修改此类模型的输出，而无需进行重新训练，例如，通过提供边界框来分割特定对象，通过询问有关图像或视频场景的问题或通过语言说明来操纵机器人的行为来进行交互式对话。在这项调查中，我们对此类新兴基础模型进行了全面审查，包括典型的建筑设计，以结合不同的方式（视觉，文本，音频等），培训目标（对比，生成），预训练数据集，微调机制以及常见的提示模式；文本，视觉和异质。我们讨论了计算机视觉中基础模型的开放挑战和研究方向，包括其评估和基准测试，现实世界中的差距，上下文理解的局限性，偏见，对对抗性攻击的脆弱性以及可解释性问题。我们回顾了该领域的最新发展，涵盖了基础模型的广泛应用，并全面地进行了全面的应用。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10834497</guid>
-      <pubDate>Thu, 09 Jan 2025 13:17:57 GMT</pubDate>
+      <title>UNI-MOE：与专家混合的统一统一的多模式LLM</title>
+      <link>http://ieeexplore.ieee.org/document/10887014</link>
+      <description><![CDATA[多模式大语言模型（MLLM）的最新进展强调了可扩展模型和数据以提高性能的重要性，但这通常会带来实质性的计算成本。尽管专家（MOE）体系结构的混合已采用有效地扩展大型语言或视觉语言模型，但这些努力通常涉及更少的专家和有限的方式。为了解决这个问题，我们的工作提出了开拓与Moe Architecture的统一MLLM的开创性尝试，该架构名为Uni-Moe，可以处理各种方式。具体而言，它具有特定于模态的编码器，并带有连接器，用于统一的多模式表示。我们还在LLMS内实施了稀疏的MOE体系结构，以通过模态级数据并行性和专家级模型并行性进行有效的培训和推断。为了增强多期专家的协作和概括，我们提出了一种渐进培训策略：1）使用具有不同跨模式数据的各种连接器的交叉模式对准，2）培训特定于模式的专家，具有交叉模式指导数据，以激活专家的偏好，以及3）使用低率适应（混合LORA）的整个Uni-MoE框架上的整个Uni-MoE框架）上的多个指令（Multimod Condustration）上）。我们在一组全面的多模式数据集上评估了指令调整的Uni-MoE。广泛的实验结果表明，Uni-MoE在处理混合多模式数据集中显着降低性能偏见以及改进的多型专家协作和泛化的主要优势。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10887014</guid>
+      <pubDate>Thu, 13 Feb 2025 13:17:53 GMT</pubDate>
     </item>
     <item>
-      <title>通过傅立叶系列增强对象检测</title>
-      <link>http://ieeexplore.ieee.org/document/10833868</link>
-      <description><![CDATA[传统对象检测模型通常会丢失对象的详细概述信息。为了解决此问题，我们提出了傅立叶级数对象检测（FSD）。它将对象的轮廓封闭曲线编码为两个一维周期傅立叶系列。构建了傅立叶系列模型（FSM），以回归图像中每个对象的傅立叶系列。因此，在推断过程中，可以检索每个对象的详细概述信息。我们介绍了傅立叶损失的滚动优化匹配，以确保模型的学习过程不受标记的轮廓点的起点序列的影响，从而加快了训练过程。 FSM展示了针对非矩形或细长对象区域的提高特征提取和描述性功能。该模型在DOTA 1.5数据集上实现了AP50 = 73.3％，该数据集超过了最先进的（SOTA）方法，为66.86％。在UCAS数据集上，该模型达到AP50 = 97.25％，也超过了SOTA方法的性能指标。此外，我们介绍了对象的傅立叶功率谱，以描述轮廓特征和傅立叶向量以指示其方向。这增强了对象检测模型的场景语义表示，并为对象检测方法的演变铺平了新的途径。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10833868</guid>
-      <pubDate>Wed, 08 Jan 2025 13:18:20 GMT</pubDate>
+      <title>ccdplus：朝着精确的角色到字符蒸馏文本识别</title>
+      <link>http://ieeexplore.ieee.org/document/10887029</link>
+      <description><![CDATA[现有的场景文本识别方法利用大规模标记的合成数据（LSD）来减少对劳动密集型注释任务的依赖，并提高现实情况下的识别能力。但是，合成域间隙的出现仍然限制了它们的效率和鲁棒性。因此，考虑到包含文本的图像的普遍性，收集未标记的真实数据（URD）的有意义的内在品质非常重要。针对目标，最近的努力集中在通过序列到序列的自学学习进行预训练，然后通过监督学习对LSD进行微调。然而，它们遇到了三个重要问题：粗糙的表示单位，僵化的数据增强和新兴的实际到同步领域漂移。为了克服这些挑战，我们提出了CCDPlus，这是一种精确的角色到字符蒸馏方法，用于场景文本识别，并具有共同监督和自我监督的学习框架。具体而言，CCDPLU是针对文本图像量身定制的，通过转移从LSD Online中学到的知识来描述URD上的细颗粒角色结构。在不需要额外的边界框或像素级注释的情况下，此过程允许CCDPLUS通过多功能数据增强灵活地启用字符到字符蒸馏，从而有效地提取了一般的现实世界角色级特征表示。同时，统一的框架将乌尔德的自学学习与LSD的监督学习相结合，有效地解决了域的不一致并提高了识别绩效。广泛的实验表明，CCDPLU的表现优于先前的先前的先前监督（SOTA），分别对标准数据集的监督，半监督和自我监督方法的平均分别为1.8％，0.6％和1.1％。此外，它在更具挑战性的14M-L数据集方面提高了6.1％。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10887029</guid>
+      <pubDate>Thu, 13 Feb 2025 13:17:53 GMT</pubDate>
     </item>
     <item>
-      <title>自动驾驶的混合预测综合计划</title>
-      <link>http://ieeexplore.ieee.org/document/10833731</link>
-      <description><![CDATA[自主驾驶系统需要对周围环境进行全面的理解和准确的预测，以促进在复杂方案中明智的决策。基于学习的系统的最新进展强调了整合预测和计划的重要性。但是，这种整合通过预测模式之间的一致性以及未来预测与计划之间的相互作用提出了重大的一致性挑战。为了应对这些挑战，我们引入了混合预测综合计划（HPP）框架，该框架通过三个新型模块进行了协作。首先，我们将边缘条件的占用预测与特定于特定的运动预测保持一致。我们提出的MS-ECFORNER模块实现了跨多个粒度的运动预测的时空比对。其次，我们提出了一个游戏理论运动预测器GTFormer，以基于其共同的预测性意识来对代理之间的交互动力进行建模。第三，混合预测模式同时集成到自我计划者中，并通过预测指导进行了优化。 HPP框架在Nuscenes数据集上建立了最先进的性能，证明了端到端配置的卓越精确性和安全性。此外，在Waymo开放式数据集（WOMD）和CARLA基准中，证明了HPP的交互式开环和闭环计划性能，通过实现预测与计划之间的增强一致性，超过了现有的集成管道。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10833731</guid>
-      <pubDate>Wed, 08 Jan 2025 13:18:20 GMT</pubDate>
+      <title>少量全部重建的隐式形状和外观先验</title>
+      <link>http://ieeexplore.ieee.org/document/10879346</link>
+      <description><![CDATA[采用基于坐标神经表示的学习技术的最新进步在多视图3D重建任务中取得了显着的结果。但是，这些方法通常需要大量的输入视图（通常几个）和计算密集的优化程序才能达到其有效性。在本文中，我们专门解决了这些局限性，这些局限性是针对完整3D头部重建的问题。我们通过将概率的形状和外观合并到基于坐标的表示中来实现这一目标，从而在仅使用少数输入图像（即使是单个图像的低）时，可以更快地收敛并改善概括。在测试过程中，我们在使用可区分渲染器的签名距离函数的拟合过程之前利用这一点。通过将统计先验与可行的可行射线追踪和动态的缓存策略结合在一起，我们实现了一种有效而准确的方法来进行几次完整的3D头部重建。此外，我们扩展了H3DS数据集，该数据集现在包括60个高分辨率3D全头扫描及其相应的姿势图像和掩码，我们将其用于评估目的。通过利用该数据集，我们证明了我们方法在实现最新的几何形状重建方面的显着能力，同时比以前的方法更快地构建了数量级。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10879346</guid>
+      <pubDate>Mon, 10 Feb 2025 13:16:47 GMT</pubDate>
     </item>
     <item>
-      <title>在3D gan中迈向高质量和分离的脸部编辑</title>
-      <link>http://ieeexplore.ieee.org/document/10829803</link>
-      <description><![CDATA[由于神经辐射场的综合方法，最新的合成3D吸引脸部图像的方法已实现了快速发展，从而允许高质量和快速的推理速度。但是，现有的用于编辑面部几何形状和外观的解决方案通常需要重新培训，并且对最近的发电工作没有优化，因此倾向于落后于发电过程。为了解决这些问题，我们介绍了Nerflaceediting，从而使基于三个平面的神经辐射场中的编辑和分解几何形状和外观，同时保持其高质量和快速的推理速度。我们的分离的关键思想是使用三平面的统计数据来代表其相应面部体积的高级外观。此外，我们利用生成的3D连续语义面具作为几何编辑中的中介。我们设计了一个几何解码器（外观变化时其输出不变）和外观解码器。几何解码器将原始面部体积与语义面膜音量对齐。我们还通过将外观相同的渲染图像显式正规化，但几何形状分别对每个面部成分的颜色分布相似，从而增强了分离。我们的方法允许用户通过语义面具编辑，并具有对几何和外观的脱耦控制。定性和定量评估都表明，与现有和替代解决方案相比，我们方法的出色几何形状和外观控制能力。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10829803</guid>
-      <pubDate>Mon, 06 Jan 2025 13:17:57 GMT</pubDate>
+      <title>Bridgenet：通过桥梁功能进行多任务密集预测的全面有效的功能交互</title>
+      <link>http://ieeexplore.ieee.org/document/10870147</link>
+      <description><![CDATA[多任务密集的预测旨在在统一网络中处理多个像素的预测任务，以同时了解视觉场景的理解。但是，当前方法的交叉任务特征交互仍然遭受不完整的表示级别，功能参与者中的歧视性语义较少以及效率低下的配对任务交互过程。为了解决这些爆炸不足的问题，我们提出了一个新颖的Bridgenet框架，该框架提取了全面和歧视性的中间桥梁特征，并基于它们进行了相互作用。具体而言，首先应用任务模式传播（TPP）模块，以确保为高度语义任务特定的特征参与者准备以进行后续交互，并且桥梁特征提取器（BFE）经过专门设计，以选择性地整合高级和低级表示形式，以生成全面的桥梁功能。然后，开发了任务功能炼油厂（TFR），而不是进行重型配对交叉任务相互作用，以有效地从桥梁功能中获得指导并形成最终任务预测。据我们所知，这是考虑到交叉任务互动中功能参与者的完整性和质量的第一部作品。广泛的实验是在NYUD-V2，CityScapes和Pascal Context基准上进行的，并且出色的性能表明，所提出的体系结构在同时促进不同密集的预测任务方面有效且有力。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10870147</guid>
+      <pubDate>Mon, 03 Feb 2025 13:16:20 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSN-NET：Deep Ami-Smooth Newton驱动网络，用于盲图修复</title>
-      <link>http://ieeexplore.ieee.org/document/10820096</link>
-      <description><![CDATA[深度展开的网络代表了图像恢复中有希望的研究途径。但是，当前大多数深层展开的方法论都锚定在一阶优化算法中，这些算法的收敛速度迟钝，学习效率不令人满意。在本文中，为了解决这个问题，我们首先制定了改进的二阶半平滑牛顿（ISN）算法，将原始的非线性方程转换为可符合网络实现的优化问题。之后，我们提出了一种基于ISN算法的创新网络架构，用于盲图恢复，即DeepSN-NET。据我们所知，DeepSN-Net是第一个成功设计用于图像修复的二阶Deep Network的成功努力，该网络填充了该区域的空白。此外，它提供了几种不同的优势：1）DeepSN-NET为合成和现实世界中环境中的各种图像恢复任务提供了统一的框架，而不会对退化条件施加限制。 2）网络体系结构与ISN算法细致地对齐，以确保每个模块具有强大的物理解释性。 3）该网络在三个典型的恢复任务上表现出高度学习效率，出色的恢复精度和良好的概括能力。 DeepSN-NET在图像恢复上的成功可能会激发许多随后的作品，以二阶优化算法为中心，这对社区有益。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10820096</guid>
-      <pubDate>Thu, 02 Jan 2025 13:17:32 GMT</pubDate>
+      <title>细分的结构和统计纹理知识蒸馏和学习</title>
+      <link>http://ieeexplore.ieee.org/document/10858405</link>
+      <description><![CDATA[低级纹理特征/知识对于表征局部结构模式和全球统计属性（例如边界，平滑度，规律性和颜色对比度）也至关重要，这可能无法通过高级深层特征来很好地解决。在本文中，我们旨在重新强调深网中的低级纹理信息，以进行语义细分和相关的知识蒸馏任务。为此，我们充分利用了结构和统计纹理知识，并提出了用于语义细分的新型结构和统计纹理知识蒸馏（SSTKD）框架。具体而言，引入了Contourlet分解模块（CDM），以分解具有迭代laplacian金字塔和定向过滤器库的低级特征，以挖掘结构性纹理知识，而纹理强度均衡模块（TIEM）旨在提取和增强统计质地知识，并增强统计质地知识，并具有相应的量化量化祝贺损失（QDL）。此外，我们提出了共发生的TIEM（C-TIEM）和通用分割框架，即Stlnet ++和U-SSNet，以使现有的分割网络更有效地收获结构和统计纹理信息。对三个分割任务的广泛实验结果分别证明了所提出的方法的有效性及其在七个流行的基准数据集上的最先进性能。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10858405</guid>
+      <pubDate>Thu, 30 Jan 2025 13:17:01 GMT</pubDate>
     </item>
     <item>
-      <title>低光图像增强的可解释优化启发的展开网络</title>
-      <link>http://ieeexplore.ieee.org/document/10819641</link>
-      <description><![CDATA[基于Itinex模型的方法已显示出具有良好设计的较低图像增强（LLIE）的精心设计的先验的层次操作有效的。但是，采用手工制作的先验和常规优化算法来解决层分解问题，导致缺​​乏适应性和效率。为此，本文提出了一个基于Etinex的深层展开网络（Uretinex-net ++），该网络将优化问题展示到可学习的网络中，以将低光图像分解为反射率和照明层。通过将分解问题提出为隐式先验的正规化模型，精心设计了三个基于学习的模块，负责数据依赖于数据的初始化，高效的展开优化和相当易于使用的组件调整。尤其是，提出的展开优化模块，以数据驱动的方式引入了两个网络以适应隐式先验，可以实现抑制噪声和细节的分解组件的细节。 Uretinex-net ++是Uretinex-net的进一步增强版，它引入了一个跨阶段融合块，以减轻Uretinex-net中的颜色缺陷。因此，在视觉质量和定量指标中都可以获得LLIE的提高性能，其中仅引入了几个参数，而且时间很少。对现实世界中低光图像的广泛实验在定性上和定量上证明了所提出的输尿管内++比最新方法的有效性和优越性。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10819641</guid>
-      <pubDate>Wed, 01 Jan 2025 13:17:56 GMT</pubDate>
+      <title>Mulfs-CAP：无注册红外可见图像融合的多模式融合访问跨模式对齐感</title>
+      <link>http://ieeexplore.ieee.org/document/10856402</link>
+      <description><![CDATA[在这项研究中，我们提出了多模式融合监督的交叉模式对准感知（Mulfs-CAP），这是一种新型的框架，用于单级未注册的红外可见图像。传统的两阶段方法取决于明确的注册算法以空间对齐源图像，通常会增加复杂性。相反，Mulfs-CAP无缝将隐式注册与融合融合在一起，简化了过程并增强了对实际应用的适用性。 Mulfs-CAP利用共享的浅特征编码器在一个阶段合并未注册的红外可见图像。为了满足特征级别对齐和融合的特定要求，我们通过可学习的模态词典开发了一致的特征学习方法。该词典提供了单峰特征的互补信息，从而保持了单个和融合的多模式特征之间的一致性。结果，Mulfs-CAP有效地降低了模态差异对跨模式特征比对的影响，从而可以同时进行注册和融合。此外，在Mulfs-CAP中，我们推进了一种新型的跨模式比对方法，从而创建了一个相关矩阵，以详细介绍源图像之间的像素关系。该矩阵有助于对齐红外和可见图像的特征，从而进一步完善融合过程。上述设计使Mulfs帽更轻巧，有效且明确的注册。来自不同数据集的实验结果证明了我们提出的方法的有效性及其在最先进的两阶段方法上的优势。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10856402</guid>
+      <pubDate>Tue, 28 Jan 2025 13:16:59 GMT</pubDate>
     </item>
     <item>
-      <title>Glissando-net：深单视图类别效果估计和3D重建</title>
-      <link>http://ieeexplore.ieee.org/document/10819370</link>
-      <description><![CDATA[我们提出了一个被称为Glissando-net的深度学习模型，以同时估计姿势并从单个RGB图像从类别级别的对象的3D形状重建。先前的作品主要集中在估计姿势（通常在实例级别上），或重建形状，但并非两者兼而有之。 Glissando-NET由两个由共同训练的自动编码器组成，一个用于RGB图像，另一个用于点云。我们在Glissando-net中采用两个关键的设计选择，以更准确地预测3D形状和对象的姿势，并给定单个RGB图像作为输入。首先，我们通过从图像解码器进行转换的特征图来扩展点云编码器和解码器的特征图，从而在训练和预测中启用有效的2D-3D相互作用。其次，我们在解码器阶段预测对象的3D形状和姿势。这样，我们最好在仅在训练阶段呈现的3D点云中利用信息来训练网络以进行更准确的预测。我们共同训练两个编码器的RGB和点云数据，以学习如何将潜在特征传递到推理期间的点云解码器。在测试中，丢弃了3D点云的编码器。 Glissando-Net的设计灵感来自Codeslam。与针对场景3D重建的Codeslam不同，我们专注于对象的姿势估计和形状重建，并直接预测对象姿势和姿势不变的3D重建，而无需代码优化步骤。涉及消融研究和与竞争方法进行比较的广泛实验证明了我们提出的方法的功效，并与最新的艺术品进行了比较。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10819370</guid>
-      <pubDate>Tue, 31 Dec 2024 13:19:35 GMT</pubDate>
+      <title>对齐，自动编码和促使大型语言模型用于新型疾病报告</title>
+      <link>http://ieeexplore.ieee.org/document/10854911</link>
+      <description><![CDATA[给定放射学图像，自动放射学报告的生成旨在产生报告疾病的信息文本。它可以使当前的诊断放射学实践受益。现有方法通常依赖于临床医生注释的大型医疗数据集来培训理想的模型。但是，对于新型疾病，通常无法获得足够的培训数据。 We propose a prompt-based deep learning framework, i.e., PromptLLM, to align, autoencode, and prompt the (large) language model to generate reports for novel diseases accurately and efficiently. Our method includes three major steps: 1) aligning visual images and textual reports to learn general knowledge across modalities from diseases where labeled data are sufficient, 2) autoencoding the LLM using unlabeled data of novel diseases to learn the specific knowledge and writing styles of the novel disease, and 3) prompting the LLM with learned knowledge and writing styles to report the novel diseases contained in the radiology images. Through the above three steps, with limited labels on novel diseases, we show that PromptLLM can rapidly learn the corresponding knowledge for accurate novel disease reporting. The experiments on COVID-19 and diverse thorax diseases show that our approach, utilizing 1% of the training data, achieves desirable performance compared to previous methods.它表明我们的方法使我们能够放松对现有方法共有的标记数据的依赖。在新型疾病的早期阶段，它可能对数据分析产生现实影响。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10854911</guid>
+      <pubDate>Mon, 27 Jan 2025 13:17:31 GMT</pubDate>
     </item>
     <item>
-      <title>高阶光谱群集修剪过滤</title>
-      <link>http://ieeexplore.ieee.org/document/10819307</link>
-      <description><![CDATA[在卷积神经网络（CNN）中广泛存在大量冗余。识别网络中的冗余并删除冗余过滤器，是压缩CNN模型大小以最小降低性能的有效方法。但是，大多数现有的基于冗余的修剪方法仅考虑两个过滤器之间的距离信息，这只能建模过滤器之间的简单相关性。此外，我们指出，通过我们的实验观察和分析，基于距离的修剪方法不适用于CNN模型中的高维特征。为了解决这个问题，我们提出了一种基于高阶光谱聚类的新修剪策略。在这种方法中，我们使用HyperGraph结构在过滤器之间构建复杂的相关性，并通过HyperGraph结构学习在过滤器中获得高级信息。最后，基于高阶信息，我们可以在过滤器上执行更好的聚类，并删除每个集群中的冗余过滤器。各种CNN模型和数据集的实验表明，我们提出的方法的表现优于最新作品。例如，使用RESNET50，我们实现了57.1％的掉落，而ImageNet上没有准确性下降，这是第一个以如此高的压缩比实现无损修剪的。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10819307</guid>
-      <pubDate>Tue, 31 Dec 2024 13:19:34 GMT</pubDate>
+      <title>通过感知流形的曲率预测和增强DNN的公平性</title>
+      <link>http://ieeexplore.ieee.org/document/10854901</link>
+      <description><![CDATA[To address the challenges of long-tailed classification, researchers have proposed several approaches to reduce model bias, most of which assume that classes with few samples are weak classes. However, recent studies have shown that tail classes are not always hard to learn, and model bias has been observed on sample-balanced datasets, suggesting the existence of other factors that affect model bias. In this work, we first establish a geometric perspective for analyzing model fairness and then systematically propose a series of geometric measurements for perceptual manifolds in deep neural networks. Subsequently, we comprehensively explore the effect of the geometric characteristics of perceptual manifolds on classification difficulty and how learning shapes the geometric characteristics of perceptual manifolds. An unanticipated finding is that the correlation between the class accuracy and the separation degree of perceptual manifolds gradually decreases during training, while the negative correlation with the curvature gradually increases, implying that curvature imbalance leads to model bias.我们在多个网络和数据集中彻底验证了这一发现，为未来的研究提供了坚实的实验基础。 We also investigate the convergence consistency between the loss function and curvature imbalance, demonstrating the lack of curvature constraints in existing optimization objectives. Building upon these observations, we propose curvature regularization to facilitate the model to learn curvature-balanced and flatter perceptual manifolds. Evaluations on multiple long-tailed and non-long-tailed datasets show the excellent performance and exciting generality of our approach, especially in achieving significant performance improvements based on current state-of-the-art techniques. Our work opens up a geometric analysis perspective on model bias and reminds researchers to pay attention to model bias on non-long-tailed and even sample-balanced datasets.]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10854901</guid>
+      <pubDate>Mon, 27 Jan 2025 13:17:31 GMT</pubDate>
     </item>
     <item>
-      <title>通过平衡和gershgorin圆盘完美对齐的有效签名的图形采样</title>
-      <link>http://ieeexplore.ieee.org/document/10818598</link>
-      <description><![CDATA[图形信号处理（GSP）中的基本前提是，将目标信号作为边缘权重的图形编码（反）相关性用于图形滤波。现有的快速图抽样方案仅针对描述正相关的正图设计和测试。但是，有许多现实世界中的数据集表现出强大的抗相关性，因此合适的模型是符号图，其中包含正边缘和负边缘。在本文中，我们提出了第一个用于采样符号图的线性时间方法，以平衡签名的图的概念为中心。具体而言，给定一个经验协方差数据矩阵$ \ bar {{\ MathBf {c}}}} $cé，我们首先学习一个稀疏的逆矩阵$ {\ Mathcal {l}} $ L，被解释为Graph Laplacian，与签名图相对应与签名图相对应我们大约用平衡的签名图$ {\ Mathcal {\ Mathcal {g}}}^{b} $ gb通过快速边缘重量增加在线性时间内，其中laplacian $ {\ nathcal {\ nathcal {lb} $ c $ {g}}}^{b} $ gb是图形频率。接下来，我们选择一个节点子集进行采样，以最大程度地减少从样本中插值的信号的误差，分为两个步骤。我们首先对齐Laplacian $ {\ Mathcal {l}}}^{b} $ lb的所有Gershgorin Disc左端处于最小的EigenValue $ \ lambda _ {\ min}（{\ Mathcal {\ Mathcal {l}}}}}}}}^{b} $ lb { {l}}}^{s} = {\ MathBf {s}} {\ Mathcal {l}}}^{b} {\ MathBf {s}}}}^{ -  1} $ ls = slbs = Slbs-1，利用了最新的线性algebra theorem，称为近期的线性algebra theorem neorem dist gngorin distpa gdpa gdpa gdpa gdpa（然后，我们使用以前的快速gershgorin clignment aplignment采样（GDAS）方案对$ {\ Mathcal {l}}^{s} $ ls执行采样。实验表明，我们签名的图形采样方法优于旨在在具有反相关的各个数据集上的正面图的快速采样方案。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10818598</guid>
-      <pubDate>Mon, 30 Dec 2024 13:18:49 GMT</pubDate>
+      <title>sIndiffusion：从单个自然图像中学习扩散模型</title>
+      <link>http://ieeexplore.ieee.org/document/10855351</link>
+      <description><![CDATA[我们提出了sindiffusion，利用deno的扩散模型从单个自然图像中捕获斑块的内部分布。先前基于GAN的方法在此问题上的默认方法是在渐进式增长量表上训练多个模型，这导致错误的积累并在生成的结果中导致特征性伪像。在本文中，我们发现，渐进式增长量表的多个模型对于从单个图像学习并提出Sindiffusion并不是必不可少的，这是一种基于单个扩散的模型，该模型以单个量表进行了训练，这更适合该任务。此外，我们确定一个贴片级的接受场对于捕获图像贴片统计量的扩散模型至关重要且有效，因此我们重新设计了通过贴片的denoisising网络，以进行sindiffusion。与基于GAN的方法相比，这两种设计结合了这两种设计，可以从单个图像中产生更多的影像图像。 Sindiffusion也可以应用于各种应用程序，即文本引导的图像生成，图像超出了Singan的能力。在广泛的图像上进行了广泛的实验，证明了对斑块分布进行建模的sidifusion的优势。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10855351</guid>
+      <pubDate>Mon, 27 Jan 2025 13:17:31 GMT</pubDate>
     </item>
     <item>
-      <title>Hyper-Yolo：当视觉对象检测符合超图计算时</title>
-      <link>http://ieeexplore.ieee.org/document/10818703</link>
-      <description><![CDATA[我们引入了Hyper-Yolo，这是一种新的对象检测方法，该方法集成了超图计算，以捕获视觉特征之间的复杂高阶相关性。传统的Yolo模型虽然强大，但在其颈部设计中有局限性的限制，限制了跨级特征的整合和高阶功能相互关系的剥削。为了应对这些挑战，我们提出了授权语义收集和散射（HGC-SCS）框架的HyperGraph计算，该框架将视觉特征映射转换为语义空间，并为高阶消息传播构造了超图。这使该模型能够获得语义和结构信息，从而超越了以传统功能为中心的学习。 Hyper-Yolo将提出的混合聚合网络（MANET）纳入其主链中，以增强特征提取，并在其颈部引入了基于HyperGraph的跨层和跨位置表示网络（HyperC2NET）。 HyperC2NET在五个尺度上运行，并断裂没有传统的网格结构，从而可以在层次和位置进行复杂的高阶相互作用。这种组件的协同作用将Hyper-Yolo定位为各种规模模型中最先进的体系结构，这证明了其在可可数据集上的出色性能。具体而言，Hyper-Yolo-N显着优于高级Yolov8-N和Yolov9-T，其12％$ \ text {ap}^{val} $ apval和9％$ \ text {ap}^{val}^{val} $ apval改进。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10818703</guid>
-      <pubDate>Mon, 30 Dec 2024 13:18:49 GMT</pubDate>
+      <title>通用时间扭曲不变的词典学习时间序列分类和聚类</title>
+      <link>http://ieeexplore.ieee.org/document/10855328</link>
+      <description><![CDATA[字典学习是时间序列数据的模式识别和分类的有效工具。但是，现实世界中的时间序列数据通常由于时间延迟，缩放或其他时间变换而表现出时间误差，这对有效的字典学习构成了重大挑战。动态时间扭曲（DTW）通常用于处理此类未对准问题。然而，DTW在对齐时间序列数据中的离散性质导致过度适应或信息丢失。为了解决这个问题，我们在本文中提出了一种广义的时间扭曲词典学习算法。我们的方法具有广义的时间翘曲操作员，该操作员由连续基础函数的线性组合组成，以促进连续的时间翘曲。提出的操作员和字典学习的集成被提出为优化问题，其中使用块坐标下降方法共同优化翘曲路径，词典和稀疏系数。然后，优化的结果用作饲料分类和聚类算法的超空间距离度量。与各种基准方法相比，通过十组公共数据集验证了拟议方法在字典学习，分类和聚类方面的优越性。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10855328</guid>
+      <pubDate>Mon, 27 Jan 2025 13:17:31 GMT</pubDate>
     </item>
     <item>
-      <title>跨模式3D形状通过异质动态图表示检索</title>
-      <link>http://ieeexplore.ieee.org/document/10818713</link>
-      <description><![CDATA[跨模式3D形状的检索是3D视觉领域中至关重要且广泛应用的任务。它的目标是构建能够测量不同3D模式实例之间的相似性的检索表示。但是，由于单模式表示提取器的性能瓶颈和跨3D模式的模态差距，现有方法面临挑战。为了解决这些问题，我们提出了一个异质的动态图表示（HDGR）网络，该网络将与上下文依赖的动态关系结合在异质框架中。通过捕获不同3D对象之间的相关性，HDGR克服了仅从实例中获得的模棱两可表示的局限性。在不同的迷你批次的上下文中，构建动态图以捕获近端模式关系，动态的两部分图代表隐式跨模式关系，有效地解决了上面的两个挑战。随后，使用动态图卷积（DGCONV）和动态双分图卷积（DBCONV）进行消息传递和聚集，从而通过异质动态关系学习来增强特征。最后，将模式内，跨模式和自转化的特征重新分布，并集成为跨模式3D形状检索的异质动态表示。 HDGR通过捕获异质间间的关系并适应不同的上下文动力学来建立稳定的，上下文增强的结构感知3D形状表示。在ModelNet10，ModelNet40和Real-World ABO数据集上进行的大量实验证明了HDGR在跨模式和模式内检索任务中的最新性能。此外，在强大的损失功能的监督下，HDGR在3D MNIST数据集上针对标签噪声实现了显着的跨模式检索。全面的实验结果突出了HDGR对跨模式3D形状检索的有效性和效率。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10818713</guid>
-      <pubDate>Mon, 30 Dec 2024 13:18:48 GMT</pubDate>
+      <title>数量质量增强的自我训练网络，用于弱监督点云语义细分</title>
+      <link>http://ieeexplore.ieee.org/document/10851436</link>
+      <description><![CDATA[点云语义细分对于理解3D场景至关重要。当代技术通常需要广泛的注释培训数据，但是为点云获得点的注释是耗时且费力的。弱监督方法的最新发展试图通过使用有限的注释生成伪标签来减轻此问题。但是，这些伪标签经常遭受数量不足或质量较低。为了克服这些障碍，我们引入了一个数量质量增强的自我训练网络，以进行弱监督的点云语义细分（Q2E）。具体而言，提出了图像辅助的伪标签发生器来利用2D图像以扩展伪标签以扩展到点云。此外，开发了层次伪标签优化器，以通过将它们分层分组为更广泛的类别来完善伪标签的质量。关于扫描仪V2，S3DIS，Semantic3D和Semantickitti数据集的大量实验表明，Q2E的表现优于最先进的弱监督方法，并且竞争对手完全监督了点云语义段的方法。值得注意的是，从2024年2月2日的最初提交开始，我们的方法在Scannet-V2基准的各种设置中排名第一。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10851436</guid>
+      <pubDate>Thu, 23 Jan 2025 13:16:30 GMT</pubDate>
     </item>
     <item>
-      <title>JM3D和JM3D-LLM：用联合多模式提示提升3D表示</title>
-      <link>http://ieeexplore.ieee.org/document/10817587</link>
-      <description><![CDATA[3D表示学习的重要性，计算机视觉，自动驾驶和机器人技术的关键是显而易见的。但是，这是一种普遍的趋势，直接诉诸于将2D对准策略转移到3D域，遇到了三个截然不同的挑战：（1）信息降级：这是由于3D数据与单纯的单视图2D图像和通用文本的对齐方式引起的，从而忽略了多访问图像和详细的图像和详细的分类文本。 （2）协同效应不足：这些策略将3D表示与图像和文本特征分别相结合，从而阻碍了3D模型的总体优化。 （3）未充分利用：学习表示形式中固有的细粒度信息通常并未完全利用，这表明详细的潜在损失。为了解决这些问题，我们介绍了JM3D，这是一种整合点云，文本和图像的综合方法。主要贡献包括结构化的多模式组织者（SMO），具有多个视图和分层文本的丰富视觉语言表示以及联合多模式对齐（JMA），将语言理解与视觉表示结合在一起。我们的高级模型JM3D-LLM通过有效的微调将3D表示与大语言模型结合。对ModelNet40和ScanObjectnn的评估建立了JM3D的优势。 JM3D-LLM的出色性能进一步强调了我们表示转移方法的有效性。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10817587</guid>
-      <pubDate>Mon, 30 Dec 2024 13:18:48 GMT</pubDate>
+      <title>通过像素逐像素密度分布建模的半监督计数</title>
+      <link>http://ieeexplore.ieee.org/document/10848320</link>
+      <description><![CDATA[本文着重于半监督的人群计数，其中只有一小部分培训数据被标记了。我们为像素的密度值制定为概率分布，而不是单个确定性值。在此基础上，我们提出了一个半监督的人群计数模型。首先，我们设计了一个像素分布匹配损失，以测量预测和地面真相之间像素密度分布的差异；其次，我们通过使用密度令牌来增强变压器解码器，以专门化解码器的前部W.R.T.不同的密度间隔；第三，我们设计了一个交织的一致性自我监督的学习机制，以有效地从未标记的数据中学习。在四个数据集上进行了广泛的实验，以表明我们的方法在各种标记的比率设置下显然优于竞争对手。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10848320</guid>
+      <pubDate>Tue, 21 Jan 2025 13:15:59 GMT</pubDate>
     </item>
     <item>
-      <title>显式视图标签重要：多视图集群的多方体互补性研究</title>
-      <link>http://ieeexplore.ieee.org/document/10816579</link>
-      <description><![CDATA[一致性和互补性是增强多视图聚类（MVC）的两种关键要素。最近，随着流行的对比学习的引入，MVC的观点一致性学习进一步增强，从而导致了有希望的表现。但是，相比之下，互补性尚未得到足够的关注，除了在功能方面，希尔伯特·施密特（Hilbert Schmidt）独立标准项或独立的编码器网络通常被采用以捕获特定视图的信息。这促使我们从包括功能，视图标签和对比方面在内的多个方面全面地重新考虑互补性学习观点，同时保持视图一致性。我们从经验上发现，所有方面都有助于互补学习，尤其是视图标签的方面，通常被现有方法忽略了。基于此，自然开发了一个简单而有效的多面互补学习框架（MCMVC），它可以融合多面互补性信息，尤其是明确嵌入视图标签信息信息。据我们所知，这是第一次明确使用视图标签来指导视图的互补性学习。与SOTA基准相比，MCMVC在CALTECH101-20上的完整和不完整的MVC设置中分别平均利润率分别超过5.00％和7.00％，以三个评估指标来取得显着改善。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10816579</guid>
-      <pubDate>Thu, 26 Dec 2024 13:17:29 GMT</pubDate>
+      <title>通过旋转拉普拉斯分布在SO（3）上进行强大的概率建模</title>
+      <link>http://ieeexplore.ieee.org/document/10848321</link>
+      <description><![CDATA[从单个RGB图像估算3DOF旋转是一个重要但具有挑战性的问题。作为一种流行的方法，与单个预测旋转回归相比，概率旋转模型还带有预测不确定性信息。为了建模$ \ text {so}（3）$（3）上的概率分布，自然使用类似高斯的宾汉和矩阵Fisher是很自然的，但是它们被证明对异常预测很敏感，例如$ 180^\ circe $ $180∘错误，因此很难与最佳性能融合。在本文中，我们从多元拉普拉斯分布中汲取灵感，并在$ \ text {so}（3）$ so（3）上提出一种新颖的旋转拉普拉斯分布。我们的旋转拉普拉斯分布对异常值的干扰是可靠的，并且可以对其可以改善的低误差区域进行大量梯度。此外，我们表明我们的方法还表现出对小声音的鲁棒性，从而忍受不完善的注释。有了这个好处，我们证明了它在半监督的旋转回归中的优势，其中伪标签是嘈杂的。为了进一步捕获对称对象的多模式旋转解决方案空间，我们将分布扩展到旋转拉普拉斯混合模型并证明其有效性。我们的广泛实验表明，我们提出的分布和混合模型在概率和非稳定基线的所有旋转回归实验中都达到了最先进的性能。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10848321</guid>
+      <pubDate>Tue, 21 Jan 2025 13:15:58 GMT</pubDate>
     </item>
     <item>
-      <title>在功能协方差的零空间中培训网络，并进行自我选择</title>
-      <link>http://ieeexplore.ieee.org/document/10816176</link>
-      <description><![CDATA[在增量学习的背景下，网络是在任务流中进行了顺序训练的，其中特别认为来自先前任务的数据是无法访问的。主要的挑战是如何克服稳定性困境，即从新任务中学习知识而不忘记先前任务的知识。为此，我们提出了两个数学条件，用于通过理论分析来确保网络稳定性和可塑性。条件表明，我们可以限制每个线性层在未进入特征协方差的空空间中的参数更新，以克服稳定性困境，可以通过将层置梯度投射到空空间中来实现。受其启发，我们开发了两种算法，分别为ADAM-NSCL和ADAM-SFCL，用于增量学习。 ADAM-NSCL和ADAM-SFCL提供了计算投影矩阵的不同方法。 ADAM-NSCL中的投影矩阵是由与未列出特征协方差矩阵最小的奇异值相关的单数向量构建的，而Adam-SFCL中的投影矩阵均由与自适应缩放因子相关的所有奇异向量构造。此外，我们探索采用自我监督的技术，包括自我监管的标签增强和新提出的对比损失，以提高增量学习的性能。这些自我监督的技术与Adam-NSCL和Adam-SFCL是正交的，可以与它们无缝合并，分别导致ADAM-NSCL-SSL和ADAM-SFCL-SSL。所提出的算法应用于具有多个骨架的各种基准数据集上的任务收入和班级学习学习，结果表明它们表现优于比较的增量学习方法。]]></description>
-      <guid>http://ieeexplore.ieee.org/document/10816176</guid>
-      <pubDate>Thu, 26 Dec 2024 13:17:29 GMT</pubDate>
+      <title>在室外4D点云上进行弱监督的细分，并进行了4D分组</title>
+      <link>http://ieeexplore.ieee.org/document/10848336</link>
+      <description><![CDATA[最近，已经提出了一些弱监督的3D点云分割方法，以开发有效的模型，并以最小的注释工作。我们以前的工作W4DTS提出了一项具有挑战性的任务，该任务仅利用室外点云数据集中的0.001％点来实现有效的分割模型。但是，在非常有限的注释预算下，W4DTS产生的伪标签质量并不令人满意，这限制了这种情况下的细分性能。为了解决这个问题，我们提出了一种渐进的4D分组方法，以将带注释和未经注释的点分组，这可以生成具有非常稀疏的注释点的高质量伪标签。此外，为了进一步改善我们的渐进式4D分组方法，我们设计了跨框架对比学习和本地一致性学习，以提高4D分组的质量。实验结果表明，只有0.001％的注释，我们的解决方案明显优于先前的Semantickitti最佳方法。我们还在Semanticposs数据集和ScribbleKitti数据集上评估了我们的框架，并在我们完全监督的骨干模型上实现表演。]]></description>
+      <guid>http://ieeexplore.ieee.org/document/10848336</guid>
+      <pubDate>Tue, 21 Jan 2025 13:15:58 GMT</pubDate>
     </item>
     </channel>
 </rss>

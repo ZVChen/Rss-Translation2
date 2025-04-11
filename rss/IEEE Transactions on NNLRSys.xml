@@ -36,7 +36,7 @@
     <item>
       <title>图像字幕通过动态路径自定义</title>
       <link>http://ieeexplore.ieee.org/document/10616183</link>
-      <description><![CDATA[This article explores a novel dynamic network for vision and language (V&amp;L) tasks, where the inferring structure is customized on the fly for different inputs. Most previous state-of-the-art (SOTA) approaches are static and handcrafted networks, which not only heavily rely on expert knowledge but also ignore the semantic diversity of input samples, therefore resulting in suboptimal performance. To address these issues, we propose a novel Dynamic Transformer Network (DTNet) for image captioning, which dynamically assigns customized paths to different samples, leading to discriminative yet accurate captions. Specifically, to build a rich routing space and improve routing efficiency, we introduce five types of basic cells and group them into two separate routing spaces according to their operating domains, i.e., spatial and channel. Then, we design a Spatial-Channel Joint Router (SCJR), which endows the model with the capability of path customization based on both spatial and channel information of the input sample. To validate the effectiveness of our proposed DTNet, we conduct extensive experiments on the MS-COCO dataset and achieve new SOTA performance on both the Karpathy split and the online test server.源代码可在https://github.com/xmu-xiaoma666/dtnet上公开获得。]]></description>
+      <description><![CDATA[本文探讨了视觉和语言（V＆amp; l）任务的新型动态网络，其中推断结构是为不同输入而自定义的。大多数以前的最先进的方法（SOTA）方法是静态和手工制作的网络，它们不仅在很大程度上依赖专家知识，而且忽略了输入样本的语义多样性，因此导致了次优性能。为了解决这些问题，我们为图像字幕提出了一个新型的动态变压器网络（DTNET），该网络将自定义路径分配给不同的样本，从而导致歧视性但准确的标题。具体而言，为了构建丰富的路由空间并提高路由效率，我们根据其操作域，即空间和通道，将五种类型的基本单元引入两个单独的路由空间。然后，我们设计了一个空间通道接头路由器（SCJR），该路由器（SCJR）赋予模型基于输入样本的空间和通道信息的路径自定义能力。为了验证我们提出的DTNET的有效性，我们在MS-Coco数据集上进行了广泛的实验，并在KarPathy Split和在线测试服务器上实现了新的SOTA性能。源代码可在https://github.com/xmu-xiaoma666/dtnet上公开获得。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10616183</guid>
       <pubDate>Wed, 31 Jul 2024 13:17:38 GMT</pubDate>
     </item>
@@ -50,7 +50,7 @@
     <item>
       <title>深度聚类：一项全面的调查</title>
       <link>http://ieeexplore.ieee.org/document/10585323</link>
-      <description><![CDATA[聚类分析在机器学习和数据挖掘中起着必不可少的作用。学习良好的数据表示对于聚类算法至关重要。最近，深层聚类（DC）可以使用深神经网络（DNNS）学习聚类友好的表示，已广泛应用于各种聚类任务。 DC的现有调查主要集中在单视场和网络体系结构上，忽略了聚类的复杂应用程序方案。为了解决此问题，在本文中，我们在数据源的观点中为DC提供了全面的调查。使用不同的数据源，我们从方法论，先验知识和架构方面系统地区分聚类方法。具体而言，DC方法是根据四个类别（即传统的单视DC，半监督DC，Deep Multiview Clustering（MVC）和深层传输聚类引入的。最后，我们讨论了DC不同领域的开放挑战和潜在的未来机会。]]></description>
+      <description><![CDATA[聚类分析在机器学习和数据挖掘中起着必不可少的作用。学习良好的数据表示对于聚类算法至关重要。最近，深层聚类（DC）可以使用深神经网络（DNNS）学习聚类友好的表示，已广泛应用于各种聚类任务。 DC的现有调查主要集中在单视场和网络体系结构上，忽略了聚类的复杂应用程序方案。为了解决此问题，在本文中，我们在数据源的观点中为DC提供了全面的调查。使用不同的数据源，我们从方法论，先验知识和体系结构中系统地区分聚类方法。具体而言，DC方法是根据四个类别（即传统的单视DC，半监督DC，Deep Multiview Clustering（MVC）和深层传输聚类引入的。最后，我们讨论了DC不同领域的开放挑战和潜在的未来机会。]]></description>
       <guid>http://ieeexplore.ieee.org/document/10585323</guid>
       <pubDate>Thu, 04 Jul 2024 13:16:00 GMT</pubDate>
     </item>
